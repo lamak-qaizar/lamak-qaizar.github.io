@@ -26,16 +26,16 @@ It does not say what we should do instead, but highlights the risks of following
 
 Deming brings us to this wonderful book by Peter Scholtes. The book has a chapter on the very topic in question.
 
-Like Peopleware, The Leader's Handbook also warns us of the perils of traditional performance management processes. And like Peopleware, it doesn't give away any concrete answers either, but it does make a few suggestions.
+Like Peopleware, The Leader's Handbook also warns us of the perils of traditional performance management systems. And like Peopleware, it doesn't give away any answers either, but it does make a few suggestions.
 
 > When people ask, “If we get rid of performance appraisal, what do we do instead?” my first response is: **“Think differently!”** Behind this somewhat flippant response is the importance of getting rid of the dysfunctional premises. If managers don’t purge these assumptions about the nature of people and work they will not develop true alternative practices, only minor variations on the same theme.
 
 **Think differently!**
 
-That's one. The other suggestion is:
+That's the first suggestion. The other suggestion is:
 
 > **Just Stop Doing It!** If something is demonstrably the wrong thing to do, if it is harmful to you and others, you don’t necessarily need an alternative in order to cease doing it.
 
-And then finally, it suggests the process of **'Debundling'**, i.e. to inspect each element of a performance management system in isolation and figuring out what purpose it serves. If the purpose is important enough to achieve, we can find alternative means for it. And if not, we can do away with that specific element. Peter Scholtes describes the process in the form of a flow chart:
+**Just Stop Doing It!**, that's two. And then finally, it suggests the process of **'Debundling'**, i.e. to inspect each element of a performance management system in isolation and to figure out what purpose each serves. If the purpose is important enough to achieve, we can rethink how to achieve that purpose. And if is not important enough to achieve, or is detrimental, we can do away with that specific process. Peter Scholtes describes the process in the form of a flow chart:
 
 ![The Leader's Handbook - Debundling Process](/assets/images/the-leaders-handbook-debundling.png "Debundling Process")
