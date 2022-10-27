@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Teamicidal Management - Excerpt from Peopleware"
+title:  "Teamicidal Management (excerpt)"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
 
-> **Teamicide Re-revisited**
 > Internal competition has the direct effect of making coaching difficult or impossible. Since coaching is essential to the workings of a healthy team, anything the manager does to increase competition within a team has to be viewed as teamicidal. Here are some of the managerial actions that tend to produce teamicidal side effects:
 >
 > 1. Annual salary or merit reviews
