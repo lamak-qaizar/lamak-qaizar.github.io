@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teamicidal Management (excerpt)"
+title:  "Teamicidal Management"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
