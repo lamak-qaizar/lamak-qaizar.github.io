@@ -10,7 +10,7 @@ Well, if you are looking for an easy answer, there isn't one. Here is what I've 
 
 ## Peopleware
 
-Peopleware lists management techniques that, for the most part, are detrimental to teamwork. Every one of those is a technique that we're likely to find in performance management systems. It also quotes Deming:
+Peopleware lists a set of [management techniques]({% post_url 2022-10-27-teamicidal-management %}) that are detrimental to teamwork. Every one of those is a technique that we're likely to associate with a performance management system. It also quotes Deming:
 
 > Remove barriers that rob people in management and in engineering of their right to pride of workmanship. This means \[among other things\] abolishment of the annual or merit rating and of management by objectives.
 
