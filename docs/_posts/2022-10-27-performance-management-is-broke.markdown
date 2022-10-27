@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Ok, so my performance management system is broke..."
+title:  "My performance management system is broke. What should I do instead?"
 date:   2022-10-27 10:05:00 +0500
 categories: performance management
 ---
-What should I do instead?
 
 Well, if you are looking for an easy answer, there isn't one. Here is what I've found so far.
 
