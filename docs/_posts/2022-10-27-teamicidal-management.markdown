@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teamicidal Management"
+title:  "Teamicidal management techniques"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
@@ -10,7 +10,7 @@ Tom says:
 
 > Internal competition has the direct effect of making coaching difficult or impossible. Since coaching is essential to the workings of a healthy team, anything the manager does to increase competition within a team has to be viewed as teamicidal.
 
-Listed below are a few management practices that tend to produce Teamicidal results.
+Listed below are a few management techniques that tend to produce Teamicidal results.
 
 > 1. Annual salary or merit reviews
 > 2. Management by objectives (MBO)
