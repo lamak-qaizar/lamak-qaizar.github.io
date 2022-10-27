@@ -36,5 +36,6 @@ That's one. The other suggestion is:
 
 > **Just Stop Doing It!** If something is demonstrably the wrong thing to do, if it is harmful to you and others, you don’t necessarily need an alternative in order to cease doing it.
 
-And then finally, it suggests the process of **'Debundling'**, i.e. to inspect each element of a performance management system in isolation and figuring out what purpose it serves. If the purpose is important enough to achieve, we can find alternative means for it. And if not, we can do away with that specific element. Peter Scholtes describes the process in the flow chart below.
+And then finally, it suggests the process of **'Debundling'**, i.e. to inspect each element of a performance management system in isolation and figuring out what purpose it serves. If the purpose is important enough to achieve, we can find alternative means for it. And if not, we can do away with that specific element. Peter Scholtes describes the process in the form of a flow chart:
 
+![The Leader's Handbook - Debundling Process](/assets/images/the-leaders-handbook-debundling.png "Debundling Process")
