@@ -23,7 +23,7 @@ title: Lamak Qaizar
 description: >- # this means to ignore newlines until "baseurl:"
   A journal to share what I learn.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lamak-qaizar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LamakQ
 github_username:  lamak-qaizar
 
