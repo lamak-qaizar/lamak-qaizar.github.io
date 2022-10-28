@@ -39,7 +39,7 @@ That's the first suggestion. The other suggestion is:
 
 **Just stop doing it!** That's two. And then finally, Scholtes suggests **'debundling'** the existing system, followed by inspecting each process on its own merit. If the process serves a purpose that is important to achieve, we can rethink how to achieve that purpose. If not, we can scrap the process entirely. Scholtes describes the thought process in the form of a flow chart:
 
-<img src="/assets/images/the-leaders-handbook-debundling.png" width="300" alt="The Leader's Handbook - Debundling Process">
+<center><img src="/assets/images/the-leaders-handbook-debundling.png" width="400" alt="The Leader's Handbook - Debundling Process"></center>
 
 A few additional guidelines as we go about rethinking our processes:
 
