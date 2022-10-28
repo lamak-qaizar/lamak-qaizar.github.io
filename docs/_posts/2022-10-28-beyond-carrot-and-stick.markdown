@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Motivation 2.0: Beyond carrot and stick"
+title:  "Theory Y: Beyond carrot and stick"
 date:   2022-10-28 12:14:00 +0500
 categories: performance management
 ---
 
-**Motivation 2.0** is a term coined by Daniel Pink in his book Drive. It is similar **Theory Y** in McGregor's Theory X and Y. Theory X is leadership with the assumption that people dislike work and will do anything to avoid it. Leadership that subscribes to Theory Y looks beyond these assumptions.
+> Douglas McGregor’s father and grandfather were ministers. They both worked in a homeless shelter, founded by the grandfather, in Detroit during the 1930s depression era. Young Douglas worked in the shelter with his father and grandfather.
+> 
+> As he grew older, Douglas became more and more disturbed by the negative attributions his father ascribed to the unemployed and homeless (that they’re shiftless and lazy, etc., much the same as what some say today). The younger McGregor would argue with his father that the poor were no different from others, they were simply down on their luck and the victims of a dismal economy.
+> Eventually his dispute with his father evolved into McGregor’s famous articulation of Theory X and TheoryY (1960, Chapters 3 and 4).
+
+Theory X is leadership with the assumption that people dislike work and will do anything to avoid it. Leadership that subscribes to Theory Y looks beyond these assumptions.
 
 When does Theory Y take effect? When it does, how do we adapt our systems, in particular those associated to reward and appraisal, to this school of thought?
 
