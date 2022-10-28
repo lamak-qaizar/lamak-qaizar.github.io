@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Teamicidal management techniques"
+title:  "Teamicidal management"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
-The '-icide' suffix indicates the killing of something, such as pesticide (killing of pests) and homicide (killing of a person). Keeping with the '-icide' tradition, Tom DeMarco coined the term 'Teamicide'. You can guess what it means.
+When 'icide' suffixed to a word, it indicates the killing of something, e.g. pesticide (killing of pests) and homicide (killing of a person). Keeping with the 'icide' tradition, Tom DeMarco coined the term 'Teamicide'. You can guess what it means.
 
 Tom says:
 
 > Internal competition has the direct effect of making coaching difficult or impossible. Since coaching is essential to the workings of a healthy team, anything the manager does to increase competition within a team has to be viewed as teamicidal.
 
-Listed below are a few management techniques that tend to produce Teamicidal results.
+Listed below are a few management techniques that tend to produce teamicidal effects.
 
 > 1. Annual salary or merit reviews
 > 2. Management by objectives (MBO)
