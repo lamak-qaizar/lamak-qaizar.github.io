@@ -28,7 +28,7 @@ Heuristic, on the other hand, is creative work. Tying “if-then” rewards to t
 
 #### 3. The greatest sources of motivation are intrinsic
 
-People are intrinsically motivated to achieve higher purpose (mastery, autonomy, self-actualisation). Higher motivation is not pursued unless lower needs are met, many of which are derived from pay, e.g. safety, living and physiological needs `Maslow’s hierarchy`
+People are intrinsically motivated to achieve higher purpose (mastery, autonomy, self-actualisation). Higher motivation is not pursued unless lower needs are met, many of which are derived from pay, e.g. safety, living and physiological needs `Maslow’s Hierarchy`
 
 #### 4. Withholding pay may prevent people from achieving purpose and mastery
 
@@ -36,24 +36,28 @@ Linking pay to outputs of a higher order of motivation, e.g. self-actualization,
 
 #### 5. Pay cannot motivate, but pay that is perceived to be unfair can demotivate
 
-Pay should be internally and externally fair
-We should try to take the issue of money off the table.
-And pay above average.
+- Pay should be internally and externally fair.
+- We should try to take the issue of money off the table.
+- And pay above average.
+
+`Drive. Part Three. The Zen of Compensation: Paying People the Type I Way`
 
 #### 6. Differentiating individuals within a team is likely to create competition and obstruct peer-coaching
 
-Management actions that may result in internal competition `Peopleware`:
+Management actions that may result in internal competition:
 - Annual salary or merit reviews
 - Management by objectives (MBO)
 - Praise of certain workers for extraordinary accomplishment
 - Awards, prizes, bonuses tied to performance
 - Performance measurement in almost any form
 
+`Peopleware. Chatper 25: Competition`
+
 #### 7. We should seek to replace “if-then” rewards with “now-that” rewards and intangibles
 
-“Now-that” rewards are unexpected and awarded only after a task is complete
-People trained on extrinsic motivation can be retrained using “now-that” rewards
-Intangibles can be positive feedback or growth opportunities.
+- “Now-that” rewards are unexpected and awarded only after a task is complete.
+- People trained on extrinsic motivation can be retrained using “now-that” rewards.
+- Intangibles can be positive feedback or growth opportunities.
 
 #### 8. Intangibles may outweigh tangibles when it comes to retaining people
 
