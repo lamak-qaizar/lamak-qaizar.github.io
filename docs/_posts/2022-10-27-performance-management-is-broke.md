@@ -37,6 +37,10 @@ That's the first suggestion. The other suggestion is:
 
 > If something is demonstrably the wrong thing to do, if it is harmful to you and others, you don’t necessarily need an alternative in order to cease doing it.
 
-**Just stop doing it!** That's two. And then finally, Scholtes suggests **'debundling'** the existing system, followed by inspecting each process on its own merit. If the process serves a purpose that is important to achieve, we can rethink our methods. If is not important, or is detrimental to the performance of the organisation, we can scrap the process entirely. Scholtes describes the thought process in the form of a flow chart:
+**Just stop doing it!**
+
+That's two. And then finally, Scholtes suggests we **'Debundle'** the existing system, and then inspect each process on its own merit.
+If the process serves a purpose that is important to achieve, we can rethink our methods. If is not important, or is detrimental to the performance of the organisation, we can scrap the process entirely.
+Scholtes describes the thought process in the form of a flow chart:
 
 <center><img src="/assets/images/the-leaders-handbook-debundling.png" width="400" alt="The Leader's Handbook - Debundling Process"></center>
