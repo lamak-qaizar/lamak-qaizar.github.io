@@ -5,11 +5,11 @@ date:   2022-10-28 12:14:00 +0500
 categories: performance management
 ---
 
-Motivation 2.0 is a term coined by Daniel Pink in his book Drive. It is similar Theory Y in McGregor's Theory X and Y. Theory X is leadership with the assumption that people dislike work and will do anything to avoid it. Leadership that subscribes to Theory Y looks beyond these assumptions.
+**Motivation 2.0** is a term coined by Daniel Pink in his book Drive. It is similar **Theory Y** in McGregor's Theory X and Y. Theory X is leadership with the assumption that people dislike work and will do anything to avoid it. Leadership that subscribes to Theory Y looks beyond these assumptions.
 
 When does Theory Y take effect? When it does, how do we adapt our systems, in particular those associated to reward and appraisal, to this school of thought?
 
-Below is a compilation of learnings from McGregor, Maslow, Pink, Scholtes and DeMarco that explores the answers to these questions.
+Below is the wisdom of McGregor, Maslow, Pink, Scholtes and DeMarco on the subject, and my fallible attempt to put it all together.
 
 #### 1. There are 2 types of work: heuristic and algorithmic
 
