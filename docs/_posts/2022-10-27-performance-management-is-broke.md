@@ -37,14 +37,6 @@ That's the first suggestion. The other suggestion is:
 
 > If something is demonstrably the wrong thing to do, if it is harmful to you and others, you don’t necessarily need an alternative in order to cease doing it.
 
-**Just stop doing it!** That's two. And then finally, Scholtes suggests **'debundling'** the existing system, followed by inspecting each process on its own merit. If the process serves a purpose that is important to achieve, we can rethink how to achieve that purpose. If not, we can scrap the process entirely. Scholtes describes the thought process in the form of a flow chart:
+**Just stop doing it!** That's two. And then finally, Scholtes suggests **'debundling'** the existing system, followed by inspecting each process on its own merit. If the process serves a purpose that is important to achieve, we can rethink our methods. If is not important, or is detrimental to the performance of the organisation, we can scrap the process entirely. Scholtes describes the thought process in the form of a flow chart:
 
 <center><img src="/assets/images/the-leaders-handbook-debundling.png" width="400" alt="The Leader's Handbook - Debundling Process"></center>
-
-A few additional guidelines as we go about rethinking our processes:
-
-> 1. Employee compensation should be a completely separate process from the employee feedback system.
-> 2. Performance issues are one thing. Pay issues are another. Keep them separate. Don’t try to solve performance problems with pay solutions.
-> 3. Annual adjustments may include a factor for seniority.
-> 4. There should be no merit pay, because it is virtually impossible to differentiate on the basis of merit.
-> 5. All employees should benefit from the success of the company through profit sharing.
