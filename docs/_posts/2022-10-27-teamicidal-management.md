@@ -4,9 +4,9 @@ title:  "Teamicidal management"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
-When 'icide' suffixed to a word, it indicates the killing of something, e.g. pesticide (killing of pests) and homicide (killing of a person). Keeping with the 'icide' tradition, Tom DeMarco coined the term 'Teamicide'. You can guess what it means.
+The 'icide' suffix indicates the killing of something, e.g. pesticide, killing of pests, and homicide, killing of a person. Similarly, Tom DeMarco coined the term 'Teamicide'. You can guess what it means.
 
-Tom says:
+DeMarco says:
 
 > Internal competition has the direct effect of making coaching difficult or impossible. Since coaching is essential to the workings of a healthy team, anything the manager does to increase competition within a team has to be viewed as teamicidal.
 
@@ -22,4 +22,4 @@ And the irony...
 
 > Aren’t these the very things that managers spend much or even most of their time doing? Sadly, yes. And yet these actions are likely to be teamicidal.
 
-Excerpts from "Peopleware: Productive Projects and Teams", Third Edition. Tom DeMarco
+Excerpts from `Peopleware: Productive Projects and Teams`, Third Edition. Tom DeMarco
