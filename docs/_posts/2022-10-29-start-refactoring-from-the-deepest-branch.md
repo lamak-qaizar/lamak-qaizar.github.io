@@ -3,13 +3,14 @@ layout: post
 title:  "Where do we start refactoring a large method?"
 categories: refactoring
 ---
+
+Has this happened to you?
+
 #### We see a large method and decide to refactor.
 #### There are so many places to nip away at.
 #### Where do we start?
 
-Has this happened to you?
-
-"Where do we start?" - not only is it a tricky question to answer, but if we pick a less than ideal place to start, we may end up with less than ideal abstractions.
+Not only is it a tricky question to answer, but if we pick a less than ideal place to start, we may end up with less than ideal abstractions.
 
 So, again, where do we start?
 
