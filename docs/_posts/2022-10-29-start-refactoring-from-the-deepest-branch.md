@@ -3,12 +3,14 @@ layout: post
 title:  "Start refactoring from the deepest branch"
 categories: refactoring
 ---
-We see a large method.
-Our mouth waters (or not).
-We could nip at it from so many different places.
-So, where do we start?
+We see a large method.  
+Our mouth waters (or not).  
+We could nip at it from so many different places.  
+Where do we start?
+
 
 ---
+
 
 Have you been here?
 
