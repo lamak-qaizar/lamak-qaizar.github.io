@@ -6,11 +6,10 @@ categories: performance management
 ---
 
 If you are looking for an easy answer on what to do, well, there isn't one.
-There is literature though on what **not** to do, and few guidelines that we can refer to as we go about rethinking our processes.
 
-### Peopleware
+There is literature though on what **not** to do.
 
-Peopleware lists a set of [management techniques]({% post_url 2022-10-27-teamicidal-management %}) that are detrimental to teamwork.
+**Peopleware** lists a set of [management techniques]({% post_url 2022-10-27-teamicidal-management %}) that are detrimental to teamwork.
 Every one of those is a technique that we're likely to associate with an appraisal system. Peopleware also summons up a quote from Deming:
 
 > Remove barriers that rob people in management and in engineering of their right to pride of workmanship. This means \[among other things\] abolishment of the annual or merit rating and of management by objectives.
@@ -21,11 +20,15 @@ Peopleware does not say what we should do instead, but highlights the risks of f
 > 
 > Our point here is somewhat more limited: Any action that rewards team members differentially is likely to foster competition. Managers need to take steps to decrease or counteract this effect.
 
-### The Leader's Handbook
+At a conference, someone once asked Deming:
 
-> “If we eliminate performance appraisals, as you suggest, what do we do instead?” Dr. Deming’s reply: “Whatever Peter Scholtes says."
+> “If we eliminate performance appraisals, as you suggest, what do we do instead?”
 
-Deming brings us to this wonderful book by Peter Scholtes. The book has a chapter on the very topic in question.
+Deming’s reply:
+
+> “Whatever Peter Scholtes says."
+
+Deming brings us to this wonderful book by Peter Scholtes, titled **The Leader's Handbook**. The book has a chapter on the very topic in question.
 
 Like Peopleware, The Leader's Handbook also warns us of the perils of traditional appraisal systems. And like Peopleware, it does not give away any answers. It does make a few suggestions...
 
