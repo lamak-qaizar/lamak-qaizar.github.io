@@ -26,10 +26,13 @@ Details that will be violating Uncle Bob's
 
 As we nip away at those details,
 patterns that express the methods true intent should emerge.
-Once it is easier to see those patterns,
+Once we see those patterns,
 we can come up with better abstractions.
 
 Sandro demonstrates the technique in the following video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_NnElPO5BU0?start=1973" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+The specific frame that I often find myself looking for:
+
+<center><img src="/assets/images/start-refactoring-from-the-deepest-branch.png" width="600" alt="The Leader's Handbook - Debundling Process"></center>
