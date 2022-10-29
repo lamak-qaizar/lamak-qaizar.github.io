@@ -4,20 +4,17 @@ title:  "Where do we start refactoring a large method?"
 categories: refactoring
 ---
 
-Has this happened to you?
-
 #### We see a large method and decide to refactor.
 #### There are so many places to nip away at.
 #### Where do we start?
 
-Not only is it a tricky question to answer, but if we pick a less than ideal place to start, we may end up with less than ideal abstractions.
+Not only is it a tricky question to answer, but if we pick a less than ideal place, we may end up with abstractions that too are less than ideal.
 
 So, again, where do we start?
-
 Sandro Mancuso suggests we start with statements
 nested most deeply within our code.
 
-> Start refactoring from the deepest branch
+> "Start refactoring from the deepest branch"
 
 The deepest branch gives us a small, localised problem to solve.
 There are fewer dependencies to deal with, like those pesky global variables.
