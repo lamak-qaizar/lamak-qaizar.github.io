@@ -5,16 +5,12 @@ date:   2022-10-27 10:05:00 +0500
 categories: performance management
 ---
 
-If you are looking for an easy answer on what to do, well, there isn't one.
-
-There is literature though on what **not** to do.
-
 **Peopleware** lists a set of [management techniques]({% post_url 2022-10-27-teamicidal-management %}) that are detrimental to teamwork.
-Every one of those is a technique that we're likely to associate with an appraisal system. Peopleware also summons up a quote from Deming:
+Every one of those is a technique that we're likely to associate with an appraisal system. Peopleware also summons the words of Deming:
 
 > Remove barriers that rob people in management and in engineering of their right to pride of workmanship. This means \[among other things\] abolishment of the annual or merit rating and of management by objectives.
 
-Peopleware does not say what we should do instead, but highlights the risks of following convention without critical thought.
+While Peopleware does not say what we should do instead, it does highlight the risks of following convention without giving critical thought.
 
 > Deming’s point is that MBO and its ilk are managerial cop-outs. By using simplistic extrinsic motivators to goad performance, managers excuse themselves from harder matters such as investment, direct personal motivation, thoughtful team formation, staff retention, and ongoing analysis and redesign of work procedures.
 > 
