@@ -4,11 +4,11 @@ title:  "Where do we start refactoring a large method?"
 categories: refactoring
 ---
 
-#### We see a large method and decide to refactor.
-#### There is so much to nip away at.
-#### Where do we start?
+> We see a large method and decide to refactor.
+> There is so much to nip away at.
+> Where do we start?
 
-If this has happened to you, you may also know that if we pick a less than ideal place to start, we may end up with abstractions that are also less than ideal.
+Has this happened to you? If it has, you may also know that if we pick a less than ideal place to start, the abstractions we come up with may be no better.
 
 So, again, where do we start?
 
@@ -17,13 +17,13 @@ nested most deeply within our code.
 
 <center><img src="/assets/images/start-refactoring-from-the-deepest-branch.png" width="500" alt="Start refactoring from the deepest branch"></center>
 
-The deepest branch gives us a small, localised, problem to solve.
-There are fewer dependencies, like those pesky global variables, to deal with.
-Not only that,
-it is likely that the deepest parts of the code will be expressing
+The deepest branch gives us a small, localised problem to solve.
+There are fewer dependencies to deal with (like those pesky global variables).
+
+It is also likely that the deepest parts of the code will be expressing
 details that don't belong in the method.
 Details that will be violating Uncle Bob's
-"One Level of Abstraction per Function" rule.
+"one Level of abstraction per function" rule.
 
 As we nip away at those details,
 patterns that express the methods true intent should emerge.
