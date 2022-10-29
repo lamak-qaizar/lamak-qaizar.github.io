@@ -5,7 +5,7 @@ categories: refactoring
 ---
 
 #### We see a large method and decide to refactor.
-#### There are so many places to nip away at.
+#### There are so much to nip away at.
 #### Where do we start?
 
 Not only is it a tricky question to answer, but if we pick a less than ideal place, we may end up with abstractions that too are less than ideal.
