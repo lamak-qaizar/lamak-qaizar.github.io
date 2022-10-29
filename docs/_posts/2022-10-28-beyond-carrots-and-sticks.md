@@ -13,7 +13,7 @@ Leading with the assumption that people dislike work and that they will do anyth
 
 When does Theory Y take effect? How do we adapt our systems, in particular those associated to reward and appraisal, to this school of thought?
 
-Below is the wisdom of McGregor, Maslow, Pink, Scholtes and DeMarco on the subject, and my fallible attempt to put it all together.
+Below is the wisdom of McGregor, Abraham Maslow, Daniel Pink, Peter Scholtes and Tom DeMarco on the subject, and my fallible attempt to put it all together.
 
 #### 1. There are 2 types of work: heuristic and algorithmic
 
