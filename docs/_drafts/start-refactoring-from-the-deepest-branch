@@ -8,12 +8,14 @@ Our mouth waters (or not).
 We could nip at it from so many different places.
 So, where do we start?
 
+---
+
 Have you been here?
 
 "Where do we start?".
-Sometimes the question wreaks confusion within our own minds.
-Sometimes in an ensemble session, when everyone lands their focus on a different part of the code.
-And that is not the worst of it. Sometimes we start refactor out a large blocks of code too early on, and end up with less than ideal abstractions.
+Sometimes we confuse ourselves with the question.
+Sometimes it is an ensemble session where everyone seems to want to refactor a different part of the code.
+And that is not the worst of it. Sometimes we refactor out a large blocks of code too early on and end up with less than ideal abstractions.
 
 So, again, where do we start?
 
@@ -22,7 +24,7 @@ nested most deeply within our code.
 
 > Start refactoring from the deepest branch
 
-The deepest branch gives us a small, localised problem to solve first.
+The deepest branch gives us a small, localised problem to solve.
 There are fewer dependencies to deal with, like those pesky global variables.
 Not only that,
 it is likely that the deepest parts of the code will be expressing
@@ -31,8 +33,9 @@ Details that will be violating Uncle Bob's
 "One Level of Abstraction per Function" rule.
 
 As lower levels of detail are refactored out,
-patterns expressing the methods true intent should emerge.
-Identifying those patterns will help us reach better abstractions.
+patterns the express the methods true intent should emerge.
+Once we see those patterns in the clear,
+we can come up with better abstractions.
 
 Sandro demonstrates the technique in the following video:
 
