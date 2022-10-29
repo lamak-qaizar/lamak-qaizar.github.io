@@ -8,7 +8,7 @@ categories: refactoring
 > There is so much to nip away at.  
 > Where do we start?
 
-Has this happened to you? If it has, you may also know that if we pick a less than ideal place to start, the abstractions we come up with may be no better.
+Has this happened to you? If it has, you may also know that if we pick a less than ideal place to start, the abstractions we develop will be no better.
 
 So, again, where do we start?
 
