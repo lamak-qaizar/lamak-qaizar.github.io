@@ -8,7 +8,7 @@ categories: refactoring
 #### There is so much to nip away at.
 #### Where do we start?
 
-Difficult question. That, and if this has happened to you, you may also know that if we pick a less than ideal place, we may end up with abstractions that too are no better.
+Difficult question. That, and if this has happened to you, you may also know that if we pick a less than ideal place, we may end up with abstractions that also less than ideal.
 
 So, again, where do we start?
 Sandro Mancuso suggests we start with statements
