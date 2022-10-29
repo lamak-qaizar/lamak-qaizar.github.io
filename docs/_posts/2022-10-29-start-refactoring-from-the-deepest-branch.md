@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start refactoring from the deepest branch"
+title:  "Where do we start refactoring a large method?"
 categories: refactoring
 ---
 We see a large method.  
