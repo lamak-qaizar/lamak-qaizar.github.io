@@ -27,6 +27,8 @@ url: "https://lamak-qaizar.github.io/" # the base hostname & protocol for your s
 twitter_username: LamakQ
 github_username:  lamak-qaizar
 
+google_analytics:  G-19NBMDWEEH
+
 # Build settings
 theme: minima
 plugins:
