@@ -37,6 +37,9 @@ url: "https://lamak-qaizar.github.io/" # the base hostname & protocol for your s
 
 google_analytics: G-19NBMDWEEH
 
+disqus:
+  shortname: lamak-qaizar-github-io
+
 # Build settings
 remote_theme: jekyll/minima
 plugins:
