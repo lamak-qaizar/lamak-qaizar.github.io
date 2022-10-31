@@ -36,22 +36,7 @@ layout: default
 
   {%- include applause-button.html -%}
 
-  <script src="https://giscus.app/client.js"
-          data-repo="lamak-qaizar/lamak-qaizar.github.io"
-          data-repo-id="R_kgDOIS6wFw"
-          data-category="Announcements"
-          data-category-id="DIC_kwDOIS6wF84CSTGx"
-          data-mapping="url"
-          data-strict="0"
-          data-reactions-enabled="0"
-          data-emit-metadata="0"
-          data-input-position="bottom"
-          data-theme="light"
-          data-lang="en"
-          data-loading="lazy"
-          crossorigin="anonymous"
-          async>
-  </script>
+  {%- include giscus.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
