@@ -1,0 +1,13 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+applause-button {
+    width: 58px;
+    height: 58px;
+    margin: $spacing-unit * 2 auto;
+    text-align: center;
+}
