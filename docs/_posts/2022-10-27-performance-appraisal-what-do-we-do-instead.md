@@ -5,7 +5,7 @@ date:   2022-10-27 10:05:00 +0500
 categories: performance management
 ---
 
-**Peopleware** lists a set of [management techniques]({% post_url 2022-10-27-teamicidal-management %}) that are detrimental to teamwork.
+**Peopleware** lists a set of [management techniques]({% post_url 2022-10-27-management-practices-that-counteract-teamwork %}) that are detrimental to teamwork.
 Every one of those is a technique that we're likely to associate with an appraisal system.
 
 To put a bit more weight into its arguments, Peopleware summons Deming:

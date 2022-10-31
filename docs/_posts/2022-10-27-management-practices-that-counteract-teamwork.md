@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Teamicidal management"
+title:  "Management practices that counteract teamwork"
 date:   2022-10-27 10:05:00 +0500
 categories: peopleware management
 ---
-The 'icide' suffix indicates the killing of something, e.g. pesticide, killing of pests, and homicide, killing of a person. Similarly, Tom DeMarco coined the term 'Teamicide'. You can guess what it means.
+The 'icide' suffix indicates the killing of something, 
+e.g. pesticide, the killing of pests, 
+and homicide, the killing of a person. 
+Tom DeMarco, in the context of a team, coined the term "Teamicide".
+You can guess what it means.
 
 DeMarco says:
 
