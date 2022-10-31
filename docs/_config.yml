@@ -30,7 +30,7 @@ github_username: lamak-qaizar
 google_analytics: G-19NBMDWEEH
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
