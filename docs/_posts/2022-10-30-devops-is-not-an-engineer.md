@@ -23,7 +23,7 @@ Having a platform team that enables developers
 to do operational work is a common path organisations take.
 To label that team as a "DevOps Team"
 or its team members as "DevOps Engineers"
-can be considered a minor glitch --  
+can be considered a minor glitch -- 
 a misnomer just calling for the labels to be corrected.
 But to throw code over for a "DevOps Engineer"
 to deploy, that calls for more to be corrected than just naming.
