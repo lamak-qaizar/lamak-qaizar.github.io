@@ -21,4 +21,5 @@ like this one by (Micheal Nygard)[https://github.com/joelparkerhenderson/archite
   - **Risk:** Seems the post layout isn't extensible, which is where I want to add the comments box. The workaround is to copy (`_layouts/post.html`)[https://github.com/jekyll/minima/blob/master/_layouts/post.html] from the Minima theme into my repo and make changes into that file. It's not pretty, and it is a risk that might break future upgrades to the theme :(
 - 31-10-2022: Integrated [Applause](https://applause-button.com/), a simple library that will allow readers to like posts
   - Upgraded Minima from v2.5 to v3.0 because the older version doesn't support `_includes/custom-head.html` which is where I need to add the include scripts for Applause.
+  - v3.0 is not available as a Gem, so pulling theme from GitHub now. `_config.yml` says `remote_theme: jekyll/minima` now instead of `theme: minima`.
 - 31-10-2022: Added custom CSS for the applause button to center it and add top/bottom margins. The css is added to `assets/css/style.scss`.
