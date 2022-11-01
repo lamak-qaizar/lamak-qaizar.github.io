@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ADR"
+tags: architecture
 ---
 "Architecture Decision Records" is a light-weight process
 for documenting changes to architecture.

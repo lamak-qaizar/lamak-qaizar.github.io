@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "If we get rid of performance appraisal, what do we do instead?"
-categories: performance management
+tags: management performance appraisal
 ---
 
 **Peopleware** lists a set of [management techniques]({% post_url 2022-10-27-management-practices-that-counteract-teamwork %}) that are detrimental to teamwork.

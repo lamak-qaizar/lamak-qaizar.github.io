@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where do we start refactoring a large method?"
-categories: refactoring
+tags: refactoring
 ---
 
 > We see a large method and decide to refactor.  

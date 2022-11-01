@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Management practices that counteract teamwork"
-categories: management
+tags: management peopleware
 ---
 The 'icide' suffix indicates the killing of something, 
 e.g. pesticide, the killing of pests, 
