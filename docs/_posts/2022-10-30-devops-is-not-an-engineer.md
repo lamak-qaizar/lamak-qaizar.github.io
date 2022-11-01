@@ -16,7 +16,7 @@ we need to enable developers and operations to work together,
 or better yet, enable developers to do operations. 
 For the latter to work, 
 operational workflows need to be simplified. 
-Otherwise teams may end up reinventing workflows 
+Otherwise, teams may end up reinventing workflows 
 or get bogged down by the responsibilities of two expansive domains. 
 
 Having a platform team that enables developers 
