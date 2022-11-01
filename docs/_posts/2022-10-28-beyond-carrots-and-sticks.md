@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Theory Y: Beyond carrots and sticks"
-date:   2022-10-28 12:14:00 +0500
 categories: performance management
 ---
 

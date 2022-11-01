@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "If we get rid of performance appraisal, what do we do instead?"
-date:   2022-10-27 10:05:00 +0500
 categories: performance management
 ---
 
