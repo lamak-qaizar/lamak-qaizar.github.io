@@ -11,10 +11,12 @@ That's less than 2 articles a year.
 I recently started experimenting with GitHub Pages.
 This is my 7th post here in 7 days.
 
-It's a good start. Granted, it is unlikely that the numbers will sustain.
-Thus far, GitHub Pages has been a release
+It's a good start.
+
+Granted, it is unlikely that the numbers will sustain.
+GitHub Pages thus far has been a release
 for notes taken in the past that never saw the light of day.
-Nevertheless, if early signs mean anything, then the signs are, 
+But if early signs are anything to go by, then the signs are, 
 at the very least, promising.
 
 Take nothing away from the other platforms,
@@ -24,11 +26,11 @@ and I will continue to try and find the best use for them in the future.
 
 Writing on GitHub Pages, I have felt a greater level of comfort and control. Some reasons that I can think of:
 - I host my content.
-- I can choose when and whom to share the content with.
+- I can choose when, where or with whom to share the content.
 - I can release incrementally. There isn't a big bang "publish" button that I have to hit.
-- I can write the content as code, on an IDE, on git!
+- I can write the content as code, on an IDE, on git. For a programmer, that is icing on a cake!
 - I can reflect back and find things with ease. It's all in a GitHub repo. The content doesn't disappear either with time, like on a social media site.
-- I don't intend to charge anyone for the content, and I am not bound by a platform to do so.
+- I don't intend to charge anyone for the content, and I am not bound by the platform to do so.
 
 While there are upsides, there too are challenges.
 Features that we take for granted
