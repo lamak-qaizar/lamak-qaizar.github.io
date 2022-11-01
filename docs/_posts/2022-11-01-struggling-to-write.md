@@ -3,26 +3,24 @@ layout: post
 title:  "Struggling to write?"
 ---
 I have tried writing on Medium and LinkedIn in the past.
-The experience was rewarding, but at the same time,
-I could not find the fluency I would have liked.
+The experience was rewarding, but I could not find the fluency that I would have liked.
 E.g. since joining Medium in 2018,
 I have published a grand total of 7 articles.
 That's less than 2 articles a year.
 
-Recently I started experimenting with GitHub Pages.
+I recently started experimenting with GitHub Pages.
 This is my 7th post here in 7 days.
 
-Granted, it is unlikely that the numbers will sustain.
-Most of the posts thus far have been notes taken in the past
-that never saw the light of day.
-GitHub Pages has been a sort of release.
+It's a good start. Granted, it is unlikely that the numbers will sustain.
+Thus far, GitHub Pages has been a release
+for notes taken in the past that never saw the light of day.
 Nevertheless, if early signs mean anything, then the signs are, 
 at the very least, promising.
 
 Take nothing away from the other platforms,
 it's me who has been unable to find my groove on them.
 Each platform is fantastic in its own right 
-and I will continue to use them in the future.
+and I will continue to try and find the best use for them in the future.
 
 Writing on GitHub Pages, I have felt a greater level of comfort and control. Some reasons that I can think of:
 - I host my content.
