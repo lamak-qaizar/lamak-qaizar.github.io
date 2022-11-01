@@ -36,8 +36,8 @@ While there are upsides, there too are challenges.
 Features that we take for granted
 such as stats, reactions and comments, all require a bit of coding.
 Nothing extravagant, but it's still not the same as using a ready-to-go platform.
-This isn't necessarily a downside if you don't mind coding.
-It wasn't a downside for me either.
+This isn't necessarily a downside if you don't mind coding,
+which was also the case for me.
 I found it an opportunity to learn a few tools I had not used before
 e.g. Jekyll and GitHub Actions.
 
