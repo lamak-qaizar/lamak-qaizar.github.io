@@ -23,11 +23,12 @@ what they already like to do, their work.
 
 Removing distractions that get in the way of work,
 i.e. removing the obstacles to flow, 
-is one of the objectives of "Systems Thinking",
+is one of the objectives of "**Systems Thinking**",
 ideas pioneered by the likes of Deming and Goldratt.
 Applying conventional management techniques to
 knowledge work is akin to adding distractions and obstacles
-to a system and degrading its performance as a result.
+to a system, demotivating people who are already motivated,
+and degrading the performance of a system as a result.
 
 Scholtes says:
 
