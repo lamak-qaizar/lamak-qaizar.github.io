@@ -8,7 +8,7 @@ E.g. since joining Medium in 2018,
 I published a grand total of 7 articles.
 That's less than 2 articles a year.
 
-Thanks to a suggestion from a colleague, who goes by the mystical handle [@vonderchild](https://github.com/vonderchild), I recently started experimenting with GitHub Pages.
+Thanks to a suggestion from a friend, who goes by the mystical handle [@vonderchild](https://github.com/vonderchild), I recently started experimenting with GitHub Pages.
 This is my 7th post on GitHub Pages in 7 days.
 
 It's a good start.
@@ -43,7 +43,7 @@ e.g. Jekyll and GitHub Actions.
 
 If you have struggled to write too, don't be too hard on yourself.
 The cause could be many things, one of which is finding the right platform to write on.
-As Steve Jobs said in his famous [commencement speech at Standford](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/) in 2005:
+As Steve Jobs said in his famous [speech](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/) in 2005:
 
 > If you haven't found it yet, keep looking.
 >
