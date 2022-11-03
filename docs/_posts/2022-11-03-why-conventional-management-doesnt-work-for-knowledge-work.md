@@ -9,21 +9,25 @@ conventional management makes sense.
 Motivation (or fear?) has to be induced in order to achieve
 higher levels of performance.
 Methods may include introducing incentive and bonuses, creating competition, 
-enforcing KPIs, setting tough goals, MBO (managing by objectives),
+enforcing KPIs, setting tough goals, managing by objectives (MBO),
 and the like.
 
 But what if someone is already motivated by their work?
-If they already enjoy doing what they do,
+A case that is common amongst knowledge workers. 
+If someone already enjoys doing what they do,
 then the need to coerce goes away.
-We must instead, as managers, get out of their way,
-as well as get anything else out of their way, that distracts
-them from doing what they already like to do, i.e. their work.
+We must instead, as managers, shift our focus
+from inducing motivation to getting anything out of the
+way that distracts them from doing 
+what they already like to do, their work.
 
-Removing obstacles to work is one of the objectives of "Systems Thinking",
-an idea pioneered by the likes of Deming and Goldratt.
+Removing distractions that get in the way of work,
+i.e. removing the obstacles to flow, 
+is one of the objectives of "Systems Thinking",
+ideas pioneered by the likes of Deming and Goldratt.
 Applying conventional management techniques to
 knowledge work is akin to adding distractions and obstacles
-to a system and degrading its performance in the process.
+to a system and degrading its performance as a result.
 
 Scholtes says:
 
