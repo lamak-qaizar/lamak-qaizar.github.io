@@ -27,8 +27,8 @@ is one of the objectives of "**Systems Thinking**",
 ideas pioneered by the likes of Deming and Goldratt.
 Applying conventional management techniques to
 knowledge work is akin to adding distractions and obstacles
-to a system, demotivating people who are already motivated,
-and degrading the performance of a system as a result.
+to a system, thus not only degrading the performance of a system,
+but also demotivating people who are already motivated.
 
 Scholtes says:
 
