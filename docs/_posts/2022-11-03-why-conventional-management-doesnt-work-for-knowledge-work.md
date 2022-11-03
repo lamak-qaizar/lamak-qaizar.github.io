@@ -15,11 +15,11 @@ and the like.
 But what if someone is already motivated by their work?
 If they already enjoy doing what they do,
 then the need to coerce goes away.
-We must instead, as managers, get out of their way
-as well as get anything else out their way that distracts
+We must instead, as managers, get out of their way,
+as well as get anything else out of their way, that distracts
 them from doing what they already like to do, i.e. their work.
 
-Removing obstacles to flow is one of the objectives of "Systems Thinking",
+Removing obstacles to work is one of the objectives of "Systems Thinking",
 an idea pioneered by the likes of Deming and Goldratt.
 Applying conventional management techniques to
 knowledge work is akin to adding distractions and obstacles
