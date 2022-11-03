@@ -17,7 +17,7 @@ A case that is common amongst [knowledge workers](https://en.wikipedia.org/wiki/
 If someone already enjoys doing what they do,
 then the need to coerce goes away.
 We must instead, as managers, shift our focus
-from inducing motivation to getting anything out of the
+from attempting to induce motivation to getting anything out of the
 way that distracts them from doing 
 work they already like to do.
 
