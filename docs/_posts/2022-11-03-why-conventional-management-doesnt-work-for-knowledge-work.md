@@ -8,7 +8,7 @@ When people don't naturally enjoy their work,
 conventional management makes sense.
 Motivation (or fear?) has to be induced in order to achieve
 higher levels of performance.
-Methods may include introducing incentive and bonuses, creating competition, 
+Methods may include introducing incentives and bonuses, creating competition, 
 enforcing KPIs, setting tough goals, managing by objectives (MBO),
 and the like.
 
