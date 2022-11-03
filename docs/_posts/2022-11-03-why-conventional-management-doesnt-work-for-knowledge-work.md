@@ -5,7 +5,7 @@ tags: meetings
 ---
 Conventional management is based around the idea of coercion.
 When people don't naturally enjoy their work,
-conventional management might make sense.
+conventional management makes sense.
 Motivation (or fear?) has to be induced in order to achieve
 higher levels of performance.
 Methods may include introducing incentive and bonuses, creating competition, 
