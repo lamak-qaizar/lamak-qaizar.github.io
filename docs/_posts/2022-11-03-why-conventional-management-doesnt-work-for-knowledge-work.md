@@ -13,7 +13,7 @@ enforcing KPIs, setting tough goals, managing by objectives (MBO),
 and the like.
 
 But what if someone is already motivated by their work?
-A case that is common amongst knowledge workers. 
+A case that is common amongst [knowledge workers](https://en.wikipedia.org/wiki/Knowledge_worker). 
 If someone already enjoys doing what they do,
 then the need to coerce goes away.
 We must instead, as managers, shift our focus
