@@ -15,7 +15,7 @@ Even though Marcus' times were plagued by war and disease,
 he carried out his duties with unwavering purpose and grace.
 Marcus was a stoic. 
 He understood the nature of the world and tried not to control it,
-but chose how he responded.
+but instead focused his energy on choosing how to respond.
 
 The passage is an early verse from Marcus' notes titled "Meditations".
 It is also what got me hooked to the philosophy of Stoicism.
