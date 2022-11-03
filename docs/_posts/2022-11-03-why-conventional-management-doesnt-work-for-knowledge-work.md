@@ -19,7 +19,7 @@ then the need to coerce goes away.
 We must instead, as managers, shift our focus
 from inducing motivation to getting anything out of the
 way that distracts them from doing 
-what they already like to do, their work.
+work they already like to do.
 
 Removing distractions that get in the way of work,
 i.e. removing the obstacles to flow, 
