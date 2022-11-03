@@ -17,6 +17,6 @@ Marcus was a stoic.
 He understood the nature of the world and tried not to control it,
 but chose how he responded.
 
-The passage is an early verse from Marcus' notes titled Meditations.
+The passage is an early verse from Marcus' notes titled "Meditations".
 It is also what got me hooked to the philosophy of Stoicism.
 Something that I continue to study to this day.
