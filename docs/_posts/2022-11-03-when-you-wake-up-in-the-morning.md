@@ -7,7 +7,7 @@ tags: stoicism
 > 
 > \- Marcus Aurelius
 
-Marcus was the last of the "Five Good Emperors",
+Marcus was the last of Romes "Five Good Emperors",
 a reign of emperors who ruled not out of fear, 
 but through good character and the love for their people.
 
