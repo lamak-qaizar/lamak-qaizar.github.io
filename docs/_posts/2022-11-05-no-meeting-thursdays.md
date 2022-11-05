@@ -15,7 +15,7 @@ Me? I get the shivers whenever I hear of the idea. For three reasons:
 3. What happens to the meetings that won't happen on Thursday? They're not just going to go away. Pity every other day that's going to be left to carry Thursday's slack.
 
 A 'no meeting day' feels like a band-aid solution,
-where the band-aid has already come off.
+where the band-aid has already started coming off.
 
 If we scratch beneath the surface, we might find 
 problems that are deeper rooted. 
@@ -23,9 +23,11 @@ Are the meetings set up to do hand-overs, clear dependencies, or align objective
 Maybe teams are not organised around the flow of value to the customer.
 Or is it that the team is meeting one stakeholder after the other?
 It may be that too many projects are underway at the same time
-and there are no work-in-progress (WIP) limits. 
+and there are no work-in-progress (WIP) limits.
 
-> Transformation comes more from pursuing profound questions than seeking practical answers. - Peter Block
+Peter Block says:
+
+> Transformation comes more from pursuing profound questions than seeking practical answers.
 
 When the underlying problems are fixed,
 meetings that don't need to happen, whether right now or at all,
