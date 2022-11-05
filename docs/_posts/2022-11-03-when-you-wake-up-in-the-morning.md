@@ -11,7 +11,7 @@ Marcus was the last of Romes "Five Good Emperors",
 a reign of emperors who ruled not out of fear, 
 but through good character and the love for their people.
 
-Even though Marcus' times were plagued by war and disease,
+Even though Marcus' times were plagued by famine, plague and war,
 he carried out his duties with unwavering purpose and grace.
 Marcus was a stoic. 
 He understood the nature of the world and tried not to control it,
@@ -19,4 +19,4 @@ but instead focused his energy on choosing how he responded.
 
 The passage is an early verse from Marcus' notes titled "Meditations".
 It is also what got me hooked to Stoicism,
-a philosophy that I continue to study to this day.
+a school of philosophy that I continue to study to this day.

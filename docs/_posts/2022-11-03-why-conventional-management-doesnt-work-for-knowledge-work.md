@@ -24,7 +24,7 @@ work they already like to do.
 Removing distractions that get in the way of work,
 i.e. removing the obstacles to flow, 
 is one of the objectives of "Systems Thinking",
-a school of thought pioneered by the likes of Deming and Goldratt.
+an idea pioneered by the likes of Deming and Goldratt.
 Applying conventional management techniques to
 knowledge work is akin to adding distractions and obstacles
 to a system, thus not only degrading the performance of the system,
