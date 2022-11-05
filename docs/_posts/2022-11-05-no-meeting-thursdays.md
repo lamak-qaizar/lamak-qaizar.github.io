@@ -12,7 +12,7 @@ Me? I get the shivers whenever I hear of the idea. For three reasons:
 
 1. It doesn't solve the underlying problem of why there are so many meetings that people don't find useful in the first place.
 2. It assumes *all* meetings are bad, thus blocking critical decisions or discussions that need to take place.
-3. What happens to the meetings that won't happen on Thursday? They're not just going to go away. Pity every other day of the week that's going to be left to carry Thursday's slack.
+3. What happens to the meetings that won't happen on Thursday? They're not just going to go away. Pity every other day that's going to be left to carry Thursday's slack.
 
 A 'no meeting day' feels like a band-aid solution,
 where the band-aid has already come off.
