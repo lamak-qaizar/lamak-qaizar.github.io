@@ -17,17 +17,16 @@ it is a working meeting.
 
 The purpose of a ceremony is to disseminate information,
 e.g. all-hands, stand-ups and alignment meetings.
-Good ceremonies call upon the right audience,
-have content that is relevant for everyone,
-and keep everyone engaged throughout.
+Good ceremonies call upon the right audience and
+then keep everyone engaged throughout.
 
 Ceremonies are best held sparingly
 because nothing actually gets done in them.
 For the organisation with too many ceremonies,
 Peopleware suggests introducing more focused conversation,
-e.g. via one-on-ones, and creating open spaces 
-for unstructured interaction
-where information can disseminate naturally.
+e.g. one-on-ones, and creating opportunities
+for unstructured interaction, e.g. through open spaces,
+so that information can disseminate naturally.
 
 ### The working meeting
 
