@@ -56,17 +56,21 @@ He goes on to say:
 > for every meeting then you’re like me
 > for the first decade of my management career when I did none of them.
 
-### One other thing...
+### One more thing...
 
 Nothing, figuratively speaking,
-bothers a knowledge worker as much as a fragmented calendar.
-Paul Graham described the phenomenon in his famous article
+bothers a knowledge worker as much as a fragmented day.
+Paul Graham describes the phenomenon in
 "[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)".
+The piece needs no supplement, so I'll only say a little more.
 
-Knowledge workers tend to be most productive in
+To be productive, knowledge workers must get into
 what Peopleware describes as "a state of flow".
-To get into this state, an immersion period of 15 or more minutes is required
-where no real work is actually being done.
+Preceding this state is an immersion period of 15 minutes or more,
+where one isn't really doing any work.
 Any interruption to the state of flow incurs an additional period of immersion.
-Knowledge workers thus are most productive when they have
-extended periods of uninterrupted time.
+Knowledge workers thus are most productive when they go
+uninterrupted for extended periods of time.
+
+Team Geek suggests managers be mindful of this by scheduling meetings
+at other interrupt points of the day, such as lunch or the end of the day.
