@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Effective meetings 101"
+title:  "Effective meetings"
 tags: meetings
 ---
-Peopleware categorizes meetings as either ceremonies or working meetings.
+> \[Some organisations\] hold meetings that have little purpose and no clearly defined end-state. At the other extreme, some organisations are so fearful of the waste of meetings that they refuse to use the “M” word at all. This, too, has its downside. The middle is the only safe ground. -- Peopleware
+
+Let's see how we can do meetings right.
+
+There are two types of meetings according to Peopleware: 
+ceremonies and working meetings.
 How do we know what type a meeting is? If a meeting is ended by the clock,
 it is a ceremony. If it is ended by a decision or the completion of some work,
 it is a working meeting.
