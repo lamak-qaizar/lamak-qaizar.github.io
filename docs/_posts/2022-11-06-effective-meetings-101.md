@@ -40,7 +40,7 @@ The agenda defines the format, the objective and the end state.
 When the end state is reached, the meeting is ended.
 
 When either a referee or an agenda is missing, 
-the odds are stacked up against the meeting to be productive.
+the odds are stacked up against the meeting for it to be productive.
 
 Rands additionally defines a set of meeting habits
 that should be applied to *all* meetings.
@@ -61,7 +61,7 @@ He goes on to say:
 Nothing, figuratively speaking,
 bothers a knowledge worker as much as a fragmented calendar.
 Paul Graham described the phenomenon in his famous article
-"[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)"
+"[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)".
 
 Knowledge workers tend to be most productive in
 what Peopleware describes as "a state of flow".
