@@ -8,26 +8,25 @@ tags: refactoring
 > There is so much to nip away at.  
 > Where do we start?
 
-Has this happened to you? If it has, you may also know that if we pick a less than ideal place to start, the abstractions we develop will be no better.
-
-So, again, where do we start?
+Has this happened to you? 
+It is not only difficult picking a starting point, 
+but if we pick a less than ideal place to start, 
+the abstractions we end up developing may be no better. 
 
 Sandro Mancuso suggests we start with statements
 nested most deeply within our code.
 
 <center><img src="/assets/images/start-refactoring-from-the-deepest-branch.png" width="500" alt="Start refactoring from the deepest branch"></center>
 
-The deepest branch gives us a small, localised problem to solve.
-There are fewer dependencies to deal with (like those pesky global variables).
-
-It is also likely that the deepest parts of the code will be expressing
-details that don't belong in the method.
-Details that will be violating Uncle Bob's
-"one Level of abstraction per function" rule.
-
+The deepest branches gives us small, localised problems to solve
+where there are fewer dependencies to deal with.
+It is also likely that the deepest branches will be expressing
+details that don't belong in the method, i.e.
+details that violate Uncle Bob's
+'one Level of abstraction per method' rule.
 As we nip away at those details,
 patterns that express the methods true intent should emerge.
-Once we see those patterns,
+Once we start seeing those patterns,
 we can come up with better abstractions.
 
 Sandro demonstrates the technique in the following video:
