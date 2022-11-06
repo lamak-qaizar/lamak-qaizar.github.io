@@ -42,7 +42,6 @@ The referee keeps the meeting on track
 and ensures that everyone is heard.
 The agenda defines the format, the objective and the end state.
 When the end state is reached, the meeting is ended.
-
 When either a referee or an agenda is missing, 
 the odds are stacked up against the meeting for it to be productive.
 
