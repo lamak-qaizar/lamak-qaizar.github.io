@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Meetings 101"
+title:  "Effective meetings 101"
 tags: meetings
 ---
-Peopleware places meetings into two categories: ceremonies and working meetings.
+Peopleware categorizes meetings as either ceremonies or working meetings.
 How do we know what type a meeting is? If a meeting is ended by the clock,
 it is a ceremony. If it is ended by a decision or the completion of some work,
 it is a working meeting.
@@ -22,12 +22,12 @@ For the organisation with too many ceremonies,
 Peopleware suggests introducing more focused conversation,
 e.g. via one-on-ones, and creating open spaces 
 for unstructured interaction
-where information to disseminate naturally.
+where information can disseminate naturally.
 
 ### The working meeting
 
 A working meeting is much harder to get right.
-Once we have *just* the right set of audience in a room,
+Once we have just the right set of audience in a room,
 Rands, in his wonderful book "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager",
 suggests that we add these two critical components:
 
@@ -37,7 +37,8 @@ suggests that we add these two critical components:
 The referee keeps the meeting on track
 and ensures that everyone is heard.
 The agenda defines the format, the objective and the end state.
-The meeting ends as soon as the end state is reached.
+When the end state is reached, the meeting is ended.
+
 When either a referee or an agenda is missing, 
 the odds are stacked up against the meeting to be productive.
 
@@ -55,20 +56,17 @@ He goes on to say:
 > for every meeting then you’re like me
 > for the first decade of my management career when I did none of them.
 
-### The special ingredient...
-
-Empathy.
+### One other thing...
 
 Nothing, figuratively speaking,
-bothers a knowledge worker as much as a fragmented calendar. 
-Knowledge workers to be productive have to get into what Peopleware describes
-as "a state of flow".
+bothers a knowledge worker as much as a fragmented calendar.
+Paul Graham described the phenomenon in his famous article
+"[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)"
+
+Knowledge workers tend to be most productive in
+what Peopleware describes as "a state of flow".
 To get into this state, an immersion period of 15 or more minutes is required
 where no real work is actually being done.
 Any interruption to the state of flow incurs an additional period of immersion.
-Knowledge workers therefore are most productive when they have
+Knowledge workers thus are most productive when they have
 extended periods of uninterrupted time.
-
-[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) 
-by Paul Graham makes for an insightful read for organisations
-struggling with the problem.
