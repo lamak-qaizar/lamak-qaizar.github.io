@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Effective meetings"
+title:  "How to suck less at meetings"
 tags: meetings
 ---
 > \[Some organisations\] hold meetings that have little purpose and no clearly defined end-state. At the other extreme, some organisations are so fearful of the waste of meetings that they refuse to use the “M” word at all. This, too, has its downside. The middle is the only safe ground. -- Peopleware
 
-Let's see how we can do meetings right.
-
-There are two types of meetings according to Peopleware: 
+To do meetings right, we must first identify what type of meeting a meeting is.
+There are two types according to Peopleware: 
 ceremonies and working meetings.
 How do we know what type a meeting is? If a meeting is ended by the clock,
 it is a ceremony. If it is ended by a decision or the completion of some work,
@@ -67,13 +66,13 @@ How wrong was I.
 
 It turns out that everyone experiences each meeting
 and interprets the outcomes, 
-as Rands puts it, slightly differently.
+as Rands puts it, *slightly* differently.
 If what was discussed in the meeting was truly important
 (we wouldn't have called up the meeting otherwise, right?)
 then we certainly don't want to be leaving the outcomes to everyone's
 unique interpretation of them.
 
-### One more thing...
+### Oh, and one more thing...
 
 Nothing, figuratively speaking,
 bothers a knowledge worker as much as a fragmented day.
@@ -86,8 +85,13 @@ what Peopleware describes as "a state of flow".
 Preceding this state is an immersion period of 15 minutes or more,
 where one isn't really doing any work.
 Any interruption to the state of flow incurs an additional period of immersion.
-Knowledge workers thus are most productive when they go
-uninterrupted for an extended period of time.
+High momentum tasks such as design and development 
+are therefore best done during long periods of uninterrupted time.
 
-Team Geek suggests managers be mindful of this by scheduling meetings
-at other interrupt points of the day, such as lunch or the end of the day.
+Understanding the nature of work of one another
+and scheduling meetings accordingly, 
+e.g. in case of knowledge workers
+at other interrupt points in the day
+such as lunch or end of day, 
+an organisation can go a long way in
+improving productivity for everyone.
