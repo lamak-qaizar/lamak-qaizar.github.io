@@ -32,14 +32,14 @@ so that information can disseminate naturally.
 
 A working meeting is much harder to get right.
 Once we have just the right set of audience in a room,
-Rands, in his wonderful book "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager",
+Rands, author of the wonderful book "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager",
 suggests that we add these two critical components:
 
 1. A referee
 2. An agenda
 
 The referee keeps the meeting on track
-and ensures that everyone is heard.
+and ensures that all participants are able to contribute.
 The agenda defines the format, the objective and the end state.
 When the end state is reached, the meeting is ended.
 When either a referee or an agenda is missing, 
@@ -53,11 +53,23 @@ that should be applied to *all* meetings.
 3. Close the meeting by repeating the decisions, the issues that remain open, and the owners of those issues.
 4. Send the notes from that meeting to the broadest possible set of appropriate humans via a convenient medium after removing confidential or sensitive topics.
 
-He goes on to say:
-
 > If those four bullets don’t feel instinctively the right thing to do
 > for every meeting then you’re like me
 > for the first decade of my management career when I did none of them.
+
+Like Rands, for the longest time,
+I too thought that taking notes 
+and repeating outcomes was overkill.
+That people would just "know" what the action items were
+and who was to follow up.
+
+How wrong was I. 
+It turns out that everyone experiences each meeting
+and interprets the outcomes, 
+as Rands puts it, slightly differently.
+If what was discussed in the meeting was truly important
+(we wouldn't have called up the meeting if it wasn't important, right?)
+then we don't want to be leaving things to chance.
 
 ### One more thing...
 
