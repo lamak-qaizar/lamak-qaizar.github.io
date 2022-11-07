@@ -64,12 +64,13 @@ That people would just "know" what the action items were
 and who was to follow up.
 
 How wrong was I. 
+
 It turns out that everyone experiences each meeting
 and interprets the outcomes, 
 as Rands puts it, slightly differently.
 If what was discussed in the meeting was truly important
 (we wouldn't have called up the meeting otherwise, right?)
-then we don't want to be leaving the outcomes to everyone's
+then we certainly don't want to be leaving the outcomes to everyone's
 unique interpretation of them.
 
 ### One more thing...
