@@ -8,8 +8,8 @@ tags: meetings
 To do meetings right, we must first identify what type of meeting a meeting is.
 There are two types according to Peopleware: 
 ceremonies and working meetings.
-How do we know what type a meeting is? If a meeting is ended by the clock,
-it is a ceremony. If it is ended by a decision or the completion of some work,
+If a meeting is ended by the clock,
+it is a ceremony. If it is ended by a decision or the completion of work,
 it is a working meeting.
 
 ### The ceremony
