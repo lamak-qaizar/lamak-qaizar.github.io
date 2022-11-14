@@ -21,14 +21,19 @@ If we scratch beneath the surface, we might find
 problems that are deeper rooted. 
 Are the meetings set up to do hand-overs, clear dependencies, or align objectives?
 Maybe teams are not organised around the flow of value to the customer.
-Or is it that the team is meeting one stakeholder after the other?
+Is it that the team is meeting one stakeholder after the other?
 It may be that too many projects are underway at the same time
 and there are no work-in-progress (WIP) limits.
+Or is that people who require several hours en bloc
+to work productively are frequently interrupted?
+Understanding "[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)"
+may help build empathy and consideration
+for the varying natures of our work.
 
 Peter Block says:
 
 > Transformation comes more from pursuing profound questions than seeking practical answers.
 
-When the underlying problems are fixed,
+When the underlying problems are corrected,
 meetings that don't need to happen, whether right now or at all,
 will naturally stop happening.
