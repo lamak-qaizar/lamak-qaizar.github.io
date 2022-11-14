@@ -42,8 +42,6 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
-show_excerpts: true
-
 defaults:
   - scope:
       type: posts
