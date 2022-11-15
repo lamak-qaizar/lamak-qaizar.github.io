@@ -28,7 +28,7 @@ Or is that people who require several hours en bloc
 to work productively are frequently interrupted?
 Understanding "[Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)"
 may help build empathy and consideration
-for the varying natures of our work.
+for the varying natures of our work[^1].
 
 Peter Block says:
 
@@ -37,3 +37,5 @@ Peter Block says:
 When the underlying problems are corrected,
 meetings that don't need to happen, whether right now or at all,
 will naturally stop happening.
+
+[^1]: Thanks to [Christoph Pinkel](https://www.linkedin.com/in/christophpinkel) for adding this suggestion.
