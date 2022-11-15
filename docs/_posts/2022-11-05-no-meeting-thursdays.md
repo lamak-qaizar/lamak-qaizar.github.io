@@ -38,4 +38,6 @@ When the underlying problems are corrected,
 meetings that don't need to happen, whether right now or at all,
 will naturally stop happening.
 
-[^1]: Thanks to [Christoph Pinkel](https://www.linkedin.com/in/christophpinkel) for adding this suggestion.
+_________________
+
+[^1]: Thanks to [Christoph Pinkel](https://www.linkedin.com/in/christophpinkel) for pointing this out.
