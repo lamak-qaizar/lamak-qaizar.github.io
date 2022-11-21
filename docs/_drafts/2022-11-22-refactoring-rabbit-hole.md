@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refactoring rabbit hole"
+title:  "RefactoringRabbitHole"
 tags: refactoring
 ---
 Refactoring has no end since code can never be perfect.
