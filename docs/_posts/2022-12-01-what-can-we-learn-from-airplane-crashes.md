@@ -13,9 +13,9 @@ and other airlines in a chapter of his book “Outliers”.
 What he finds common is that the causes are overbearingly due to errors in teamwork and communication.
 
 That’s right, planes crash more for social reasons than technical reasons. 
-Does any part of the statement sound familiar?
+Does any part of this statement sound familiar?
 
-We’ll get back to this question soon. 
+We’ll get back to the question soon. 
 First, let’s explore some findings from “Outliers”.
 
 ## Planes crash when the pilots don’t communicate effectively
