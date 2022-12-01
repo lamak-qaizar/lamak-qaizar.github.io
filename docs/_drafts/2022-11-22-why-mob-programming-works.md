@@ -27,8 +27,13 @@ the code is easy to understand. For those that have programmed with us,
 it is already understood.
 
 ### Flow efficiency vs. individual efficiency
-When a task spends less time waiting 
-and more time being worked on, we are optimizing for flow.
+When individuals are kept busy, work has to wait;
+PRs wait to be reviewed, blockers wait to be removed.
+Therefore, optimizing for individual efficiency seldom (or never?)
+leads to flow efficiency.
+When we mob, we are optimizing for flow.
+Work is no longer has to wait for an individual to be available,
+When an individual isn't available, work still goes on.
 
 ### It is a natural WIP constraint
 > The Theory of Constraints, Lean production or the Toyota Production System, and Total Quality Management. Although each movement started in different places, they all agree on one thing: WIP is the silent killer.
@@ -36,5 +41,15 @@ and more time being worked on, we are optimizing for flow.
 
 Enough said?
 
-### Hyper focus
-Add image about focus.
+### Issues get debugged at super sonic speeds
+What do we do when an incident occurs? We swarm.
+Somehow we are able to get to the bottom quicker 
+than if an individual were at it.
+When we are coding, we often run into issues as well,
+e.g. a typo, a logical error or
+just being unable to get a dependency to work.
+When we're coding together,
+we're effectively swarming on these issues as well.
+Safe to assume then that they are being resolved much more quickly as well?
+
+### If someone gets hit by a bus
