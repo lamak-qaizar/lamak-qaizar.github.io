@@ -18,7 +18,7 @@ Does any part of this statement sound familiar?
 We’ll get back to the question soon. 
 First, let’s explore some findings from “Outliers”.
 
-## Planes crash when the pilots don’t communicate effectively
+### Planes crash when the pilots don’t communicate effectively
 
 The airline industry realised long ago that having _pilots_ (plural)
 onboard significantly reduces the risk of disaster. 
@@ -54,7 +54,7 @@ the effectiveness of communication between people of differing ranks.
 Pilots on airlines such as United Air, an American airliner, 
 could share feedback with and challenge each other much more freely.
 
-## Planes crash when the most experienced pilot is flying the plane
+### Planes crash when the most experienced pilot is flying the plane
 
 Malcom Gladwell states that planes are likelier to 
 crash when the captain is in the flying seat as compared to 
@@ -67,7 +67,7 @@ When the first office is flying,
 the captain will not hesitate to correct or 
 question the first officer whenever they feel the need to do so.
 
-## Planes crash when the pilots are working under duress
+### Planes crash when the pilots are working under duress
 
 An overwhelming number of crashes occur when flights 
 are delayed and the pilots are stretching to meet schedule. 
