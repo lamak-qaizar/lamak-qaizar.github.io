@@ -2,7 +2,7 @@
 layout: post
 title:  "What we can learn from airplane crashes"
 ---
-From 1978 to 1988, Korean Air had a plane “loss” rate of 4.79 per million departures.
+From 1978 to 1988, Korean Air had a “loss” rate of 4.79 planes per million departures.
 In contrast, United Airlines had a loss rate of 0.27 per million -- 94% less than Korean Air. 
 Pilots in both airlines were as skilled as each other, 
 had as many flying hours under their belts, and were flying equally good planes. 
@@ -130,29 +130,32 @@ we get the premise of “Peopleware” -- a book on managing software projects.
 > The major problems of our work are not so much 
 > technological as sociological in nature. -- Peopleware
 
-When an airplane crashes, a cursory glance might indicate a technical malfunction. 
+A cursory glance at an airplane crash may indicate a technical malfunction. 
 But investigators don’t settle there -- they dig deeper. 
-They will question what led to the malfunction 
-and this often reveals faults elsewhere, e.g. in social constructs.
+They question what led to the malfunction 
+and in the process often reveal faults elsewhere,
+e.g. in social constructs such as how the pilots communicate or collaborate.
 
 In software projects, we frequently attribute failures 
 to technical errors such as missing tests or alerts. 
 Seldom do we question the social constructs that lead to those technical faults.
 
 What are the social constructs that could lead to failures in software projects? 
-Here are a few potential cases:
+Here are a few examples:
 
-- Are we overworking developers to dangerous levels of utilisation 
-like the pilots on back-to-back flights? 
+- Are we overworking developers like pilots on back-to-back flights 
+so that they are writing code and solving problems while they are not at their sharpest? 
 - Are we assigning projects and tasks to individuals 
 because pair programming (or a co-pilot) would cost us more? 
 - Are we shielding our most experienced developers from 
-juniors so that they can go faster, much like the captains in the flying seat?
+those less experienced so that they can go faster, 
+much like the captains in the flying seat?
 
 After Korean Air discovered the problems that were plaguing the airline, 
 it did turn itself around. Since 1999, the airline has a spotless record 
 and is as safe to fly as any other airline in the world.
 
 Is the software industry in need of a turn around?
-I don't know. We may not be as well researched as the airline industry,
-but we can certainly learn from them and let their tales be caution for us.
+I don't know, but I don't want to wait to find out either.
+What we can do now is take caution from these tales
+and try not to repeat the same mistakes again.
