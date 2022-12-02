@@ -156,6 +156,6 @@ it did turn itself around. Since 1999, the airline has a spotless record
 and is as safe to fly as any other airline in the world.
 
 Is the software industry in need of a turn around?
-I don't know, but I don't want to wait to find out either.
+I don't know, and I don't want to wait to find out either.
 What we can do now is take caution from these tales
 and try not to repeat the same mistakes again.
