@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What we can learn from airplane crashes"
+tags: outliers
 ---
 From 1978 to 1988, Korean Air had a “loss” rate of 4.79 planes per million departures.
 In contrast, United Airlines had a loss rate of 0.27 per million -- 94% less than Korean Air. 
