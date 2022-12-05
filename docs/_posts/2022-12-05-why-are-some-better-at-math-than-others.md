@@ -25,16 +25,14 @@ mathematical ability than others.
 Why would someone consistently work harder than others? 
 It may come down to how we are brought up, 
 schooled or even the sort of work our ancestors did. 
-E.g. Asians descend from rice-farmers, 
-a form of agriculture that rewards hard work and is
-intensely more demanding than corn or wheat grown in the west. 
-This attitude somehow is passed down through generations, 
-such that Asians today are generally considered better at math 
-than Western counterparts.
+E.g. Asians, generally considered better at math than western counterparts,
+descend from rice-farmers, 
+a form of agriculture that is intensely more demanding
+than corn or wheat grown in the west. 
+This attitude somehow is passed down through generations.
 
-The survey we referred to earlier is TIMSS 
-(Trends in International Mathematics and Science Study). 
-Singapore, South Korea, China, Hong Kong and Japan are the top five ranked countries.
+Singapore, South Korea, China, Hong Kong and Japan are the top five ranked countries
+in the survey we referred to earlier (TIMSS: Trends in International Mathematics and Science Study).
 
 What do these five countries have in common?
 
