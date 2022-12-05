@@ -22,7 +22,7 @@ where others would have given up. They have accrued more hours of practice.
 The effects compound and people end up developing better 
 mathematical ability than others.
 
-Why would someone consistently work harder than others? 
+Why would some consistently work harder than others? 
 It may come down to how we are brought up, 
 schooled or even the sort of work our ancestors did. 
 E.g. Asians, generally considered better at math than western counterparts,
@@ -31,9 +31,10 @@ a form of agriculture that is intensely more demanding
 than corn or wheat grown in the west. 
 This attitude somehow is passed down through generations.
 
-Singapore, South Korea, China, Hong Kong and Japan are the top five ranked countries
-in the survey we referred to earlier, 
-i.e. TIMSS (Trends in International Mathematics and Science Study).
+Singapore, South Korea, China, Hong Kong and Japan
+are the top five ranked countries in the TIMMS
+(Trends in International Mathematics and Science Study)
+survey we referred to earlier.
 
 What do these five countries have in common?
 
