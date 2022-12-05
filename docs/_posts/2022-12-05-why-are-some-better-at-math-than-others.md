@@ -32,7 +32,7 @@ than corn or wheat grown in the west.
 This attitude somehow is passed down through generations.
 
 Singapore, South Korea, China, Hong Kong and Japan
-are the top five ranked countries in the TIMMS
+are the top five ranked countries in the TIMSS
 (Trends in International Mathematics and Science Study)
 survey we referred to earlier.
 
