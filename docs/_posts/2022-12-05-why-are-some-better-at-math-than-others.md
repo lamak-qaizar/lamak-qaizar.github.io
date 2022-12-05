@@ -32,12 +32,19 @@ than corn or wheat grown in the west.
 This attitude somehow is passed down through generations.
 
 Singapore, South Korea, China, Hong Kong and Japan are the top five ranked countries
-in the survey we referred to earlier (TIMSS: Trends in International Mathematics and Science Study).
+in the survey we referred to earlier, 
+i.e. TIMSS (Trends in International Mathematics and Science Study).
 
 What do these five countries have in common?
 
-> They are all cultures shaped by the tradition of wet-rice agriculture and meaningful work. They are the kinds of places where, for hundreds of years, penniless peasants, slaving away in the rice paddies three thousand hours a year, said things to one another like “No one who can rise before dawn three hundred sixty days a year fails o make his family rich.” — Outliers
+> They are all cultures shaped by the tradition of 
+> wet-rice agriculture and meaningful work. 
+> They are the kinds of places where, for hundreds of years, 
+> penniless peasants, slaving away in the rice paddies 
+> three thousand hours a year, said things to one another like 
+> “No one who can rise before dawn three hundred sixty days a year 
+> fails to make his family rich.” — Outliers
 
 ---
 
-This post is inspired by Malcom Gladwell’s book titled “Outliers”
+This post is inspired by a chapter titled "Rice Paddies and Math Tests" in Malcom Gladwell’s book “Outliers”.
