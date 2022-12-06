@@ -39,7 +39,7 @@ layout: default
   {%- include giscus.html -%}
 
   <h2>Recent posts</h2>
-  {% for post in site.posts limit 3 %}
+  {% for post in site.posts limit:3 %}
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
       <a class="post-link" href="{{ post.url | relative_url }}">
