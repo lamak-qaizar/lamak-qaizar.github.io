@@ -41,12 +41,12 @@ layout: default
   <h2>Recent posts</h2>
   {% for post in site.posts limit:5 %}
     {%- if page.title != post.title -%}
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
-    <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </h3>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
     {%- endif -%}
   {% endfor %}
 
