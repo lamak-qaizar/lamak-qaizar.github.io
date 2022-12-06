@@ -38,6 +38,7 @@ layout: default
 
   {%- include giscus.html -%}
 
+  <br>
   <h2>Recent posts</h2>
   {% for post in site.posts limit:5 %}
     {%- if page.title != post.title -%}
