@@ -13,7 +13,7 @@ In software development it is harder to see.
 A few examples:
 - A design document waiting to be implemented
 - A code change waiting to be reviewed or deployed
-- A partially implemented feature, e.g. the back-end is complete but front-end remains to be implemented
+- A partially developed feature, e.g. back-end is complete but front-end remains
 
 If we walked around an engineering department,
 we wouldn't _see_ any of these lying around.
