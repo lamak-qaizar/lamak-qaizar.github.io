@@ -9,7 +9,7 @@ however value/revenue hasn't been extracted.
 And until value is extracted, inventory is a liability for the business.
 In manufacturing, inventory is easy to see since it is physical.
 In product development it is harder to see, but
-"just because inventory is invisible doesn't mean it doesn't exist".
+_just because inventory is invisible doesn't mean it doesn't exist_.
 
 The following is an excerpt from 
 **Principles of Product Development Flow** by Donald Reinertsen.
