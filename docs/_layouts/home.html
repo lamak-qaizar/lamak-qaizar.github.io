@@ -31,6 +31,7 @@ layout: default
                     {{ post.title | escape }}
                 </a>
             </h3>
+            <span class="post-meta">[&nbsp;{{ post.tags }}&nbsp;]</span>
             {%- if site.show_excerpts -%}
             {{ post.excerpt }}
             {%- endif -%}
