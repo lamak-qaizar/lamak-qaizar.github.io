@@ -36,6 +36,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lamak-qaizar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_analytics: G-19NBMDWEEH
+show_excerpts: true
 
 # Build settings
 remote_theme: jekyll/minima
