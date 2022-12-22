@@ -35,14 +35,7 @@ layout: default
             {{ post.excerpt }}
             {%- endif -%}
 
-            {%- if post.tags.size > 0 -%}
-            <span class="post-meta">
-                [&nbsp;
-                {% for tag in post.tags %}
-                    {{ tag }}&nbsp;
-                {% endfor %}]
-            </span>
-            {%- endif -%}
+            {%- include recent-posts.html -%}
         </li>
         {%- endfor -%}
     </ul>
