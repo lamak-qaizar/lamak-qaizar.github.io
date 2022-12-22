@@ -8,16 +8,13 @@ The presence of inventory indicates that costs have been incurred
 however value or revenue hasn't been extracted.
 And until value is extracted, inventory is a liability for the business.
 In manufacturing, inventory is easy to spot since it is physical.
-In software development it is harder to see.
+In software development it is harder to see,
+but just because inventory is invisible doesn’t mean it doesn’t exist.
 
 A few examples:
-- A design document waiting to be implemented
-- A code change waiting to be reviewed or deployed
-- A partially developed feature, e.g. back-end is complete but front-end remains
-
-If we walked around an engineering department,
-we wouldn't _see_ any of these lying around.
-But just because we can't see inventory, doesn't mean it isn't there.
+- A design document is waiting to be implemented.
+- A code change is waiting to be reviewed or deployed.
+- A feature is partially developed, e.g. back-end is complete but front-end remains.
 
 The following is an excerpt from 
 **Principles of Product Development Flow** by Donald Reinertsen.
@@ -28,4 +25,4 @@ The following is an excerpt from
 > 
 > If we don’t believe the CFO, we can walk through the engineering department and look for inventory. But since the inventory in a product development process is not physical objects but information, it is virtually invisible. Inventory could double overnight in an engineering department, and we would see no change in the physical appearance of that department.
 >
-> But **just because this inventory is invisible doesn’t mean it doesn’t exist**. Product development inventory is observable through its effects: increased cycle time, delayed feedback, constantly shifting priorities, and status reporting. Unfortunately, all of these effects hurt economic performance.
+> But just because this inventory is invisible doesn’t mean it doesn’t exist. Product development inventory is observable through its effects: increased cycle time, delayed feedback, constantly shifting priorities, and status reporting. Unfortunately, all of these effects hurt economic performance.
