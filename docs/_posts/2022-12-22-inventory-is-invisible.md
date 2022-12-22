@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just because inventory is invisible doesn't mean it doesn't exist"
-tags: mob-programming
+tags: lean
 ---
 Inventory is unfinished work -- that which hasn't yet reached the customer. 
 The presence of inventory indicates that costs have been incurred
