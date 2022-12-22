@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Just because inventory is invisible doesn't mean it doesn't exist"
+title:  "Just because inventory is invisible..."
 tags: lean
 ---
 Inventory is unfinished work -- that which hasn't yet reached the customer. 
