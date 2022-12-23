@@ -38,6 +38,9 @@ url: "https://lamak-qaizar.github.io/" # the base hostname & protocol for your s
 google_analytics: G-19NBMDWEEH
 show_excerpts: true
 
+header_pages:
+  - about.markdown≠
+
 # Build settings
 remote_theme: jekyll/minima
 plugins:
