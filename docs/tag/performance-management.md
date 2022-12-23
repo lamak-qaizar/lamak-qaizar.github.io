@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: posts-by-tag
 title: "Tag: performance-management"
 tag: performance-management
 robots: noindex
