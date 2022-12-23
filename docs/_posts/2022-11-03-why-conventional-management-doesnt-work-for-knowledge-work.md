@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why conventional management doesn't work for knowledge work"
-tags: management appraisal
+tags: performance-management
 ---
 Conventional management is based around the idea of coercion.
 When people don't naturally enjoy their work,

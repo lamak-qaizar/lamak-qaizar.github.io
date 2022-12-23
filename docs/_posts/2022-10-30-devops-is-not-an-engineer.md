@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevOps is not an engineer"
-tags: devops lean
+tags: devops
 ---
 > We're looking for a passionate **DevOps Engineer** who can...
 
