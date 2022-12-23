@@ -5,7 +5,7 @@ layout: default
     <h1 class="page-heading">Tag: {{ page.tag }}</h1>
     {% for post in site.posts %}
         {%- if post.tags contains page.tag -%}
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.date | date: site.minima.date_format }}</span>
         <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}

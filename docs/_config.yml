@@ -25,6 +25,7 @@ author:
   email: "lamak.qaizar at gmail.com"
 
 minima:
+  date_format: "%b %-d, %Y"
   social_links:
     - { platform: github, user_url: "https://github.com/lamak-qaizar" }
     - { platform: twitter, user_url: "https://twitter.com/lamakQ" }
