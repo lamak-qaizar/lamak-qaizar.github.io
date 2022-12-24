@@ -24,8 +24,10 @@
                 {%- endif %}
             </div>
             <div class="footer-col">
-                {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
-                {%- include show-tags.html tags=tags -%}
+                <p>
+                    {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+                    {%- include show-tags.html tags=tags -%}
+                </p>
                 <p>{{ site.description | escape }}</p>
             </div>
         </div>
