@@ -45,9 +45,13 @@ layout: default
 
   {% assign relevant_posts = "" | split: ","  %}
   {% for post in site.posts %}
-    {% if post.tags | intersects: page.tags %}
-      {% assign relevant_posts = relevant_posts | push: post  %}
-    {% endif %}
+    {% for post_tag in post.tags %}
+      {% for page_tag in page.tags %}
+        {% if post_tag == page_tag  %}
+          {% assign relevant_posts = relevant_posts | push: post  %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   {% endfor %}
   {%- include list-post-previews.html show_excerpts=false posts=relevant_posts -%}
 
