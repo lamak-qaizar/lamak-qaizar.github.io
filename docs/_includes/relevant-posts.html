@@ -1,0 +1,16 @@
+{% assign relevant_posts = "" | split: ","  %}
+{% assign site_posts = site.posts | where_exp:"post","page.title != post.title" %}
+{% for post in site_posts %}
+    {% for post_tag in post.tags %}
+        {% for page_tag in page.tags %}
+            {% if post_tag == page_tag  %}
+                {% assign relevant_posts = relevant_posts | push: post  %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+{% if relevant_posts.size > 0 %}
+    <br>
+    <h2>Relevant</h2>
+    {%- include list-post-previews.html show_excerpts=false posts=relevant_posts -%}
+{% endif %}
