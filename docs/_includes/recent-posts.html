@@ -1,7 +1,8 @@
 <br>
 <h2>Recent posts</h2>
 <ul class="post-list">
-    {%- for post in site.posts | slice:0,5 -%}
+    {% assign first_posts = site.posts | slice:0,5 %}
+    {%- for post in first_posts -%}
         {%- if page.title != post.title -%}
         <li>
             {%- include post-preview.html show_excerpts=false -%}
