@@ -42,7 +42,13 @@ layout: default
 
   <br>
   <h2>Relevant</h2>
-  {% assign relevant_posts = site.posts | where_exp:"post","post.tags intersects:page.tags" %}
+
+  {% assign relevant_posts = "" | split: ","  %}
+  {% for post in include.posts %}
+    {% if post.tags | intersects: page.tags %}
+      {% assign relevant_posts | push: post  %}
+    {% endif %}
+  {% endfor %}
   {%- include list-post-previews.html show_excerpts=false posts=relevant_posts -%}
 
   {%- include recent-posts.html -%}
