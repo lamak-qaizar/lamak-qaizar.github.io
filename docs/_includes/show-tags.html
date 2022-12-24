@@ -1,7 +1,7 @@
-{%- if post.tags.size > 0 -%}
+{%- if include.tags.size > 0 -%}
 <span class="post-meta">
     [&nbsp;
-    {% for tag in post.tags %}
+    {% for tag in include.tags %}
         <a href="/tag/{{ tag }}"><code>{{ tag }}</code></a>&nbsp;
     {% endfor %}]
 </span>

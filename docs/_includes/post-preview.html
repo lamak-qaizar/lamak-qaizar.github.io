@@ -6,5 +6,5 @@
 </h3>
 {%- if include.show_excerpts -%}
     {{ post.excerpt }}
-    {%- include show-tags.html -%}
+    {%- include show-tags.html tags=post.tags -%}
 {%- endif -%}
