@@ -44,7 +44,7 @@ layout: default
   <h2>Relevant</h2>
 
   {% assign relevant_posts = "" | split: ","  %}
-  {% for post in include.posts %}
+  {% for post in site.posts %}
     {% if post.tags | intersects: page.tags %}
       {% assign relevant_posts = relevant_posts | push: post  %}
     {% endif %}
