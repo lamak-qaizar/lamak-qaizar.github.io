@@ -5,7 +5,6 @@
     </a>
 </h3>
 {%- if include.show_excerpts -%}
-{{ post.excerpt }}
+    {{ post.excerpt }}
+    {%- include show-tags.html -%}
 {%- endif -%}
-
-{%- include show-tags.html -%}
