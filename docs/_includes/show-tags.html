@@ -1,8 +1,9 @@
 {%- if include.tags.size > 0 -%}
-<span class="post-meta">
-    [&nbsp;
-    {% for tag in include.tags %}
-        <a href="/tag/{{ tag }}"><code>{{ tag }}</code></a>&nbsp;
-    {% endfor %}]
-</span>
+    <span class="post-meta">
+        [&nbsp;
+        {% for tag in include.tags %}
+            {%- include tag.html tag=tag -%}
+        {% endfor %}
+        ]
+    </span>
 {%- endif -%}
