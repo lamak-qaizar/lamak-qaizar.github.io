@@ -4,7 +4,7 @@
         {{ post.title | escape }}
     </a>
 </h3>
-{%- if site.show_excerpts -%}
+{%- if include.show_excerpts -%}
 {{ post.excerpt }}
 {%- endif -%}
 

@@ -24,7 +24,7 @@ layout: default
     <ul class="post-list">
         {%- for post in posts -%}
         <li>
-            {%- include post-preview.html -%}
+            {%- include post-preview.html show_excerpts=site.show_excerpts -%}
         </li>
         {%- endfor -%}
     </ul>
