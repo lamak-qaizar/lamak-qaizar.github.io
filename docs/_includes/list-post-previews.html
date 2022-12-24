@@ -1,0 +1,7 @@
+<ul class="post-list">
+    {%- for post in include.posts -%}
+    <li>
+        {%- include post-preview.html show_excerpts=include.show_excerpts -%}
+    </li>
+    {%- endfor -%}
+</ul>

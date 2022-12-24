@@ -1,12 +1,4 @@
 <br>
 <h2>Recent posts</h2>
-<ul class="post-list">
-    {% assign first_posts = site.posts | where_exp:"post","page.title != post.title" | slice:0,5 %}
-    {%- for post in first_posts -%}
-        {%- if page.title != post.title -%}
-        <li>
-            {%- include post-preview.html show_excerpts=false -%}
-        </li>
-        {%- endif -%}
-    {%- endfor -%}
-</ul>
+{% assign recent_posts = site.posts | where_exp:"post","page.title != post.title" | slice:0,5 %}
+{%- include list-post-previews.html show_excerpts=false posts=recent_posts -%}
