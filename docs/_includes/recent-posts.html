@@ -1,7 +1,7 @@
 <br>
 <h2>Recent posts</h2>
 <ul class="post-list">
-    {% assign first_posts = site.posts | slice:0,5 %}
+    {% assign first_posts = site.posts | where_exp:"post","page.title != post.title" | slice:0,5 %}
     {%- for post in first_posts -%}
         {%- if page.title != post.title -%}
         <li>
