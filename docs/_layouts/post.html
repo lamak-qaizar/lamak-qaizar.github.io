@@ -46,7 +46,7 @@ layout: default
   {% assign relevant_posts = "" | split: ","  %}
   {% for post in include.posts %}
     {% if post.tags | intersects: page.tags %}
-      {% assign relevant_posts | push: post  %}
+      {% assign relevant_posts = relevant_posts | push: post  %}
     {% endif %}
   {% endfor %}
   {%- include list-post-previews.html show_excerpts=false posts=relevant_posts -%}
