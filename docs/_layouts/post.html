@@ -40,6 +40,11 @@ layout: default
 
   {%- include giscus.html -%}
 
+  <br>
+  <h2>Relevant</h2>
+  {% assign relevant_posts = site.posts | where_exp:"post","post.tags | intersects: page.tags" %}
+  {%- include list-post-previews.html show_excerpts=false posts=relevant_posts -%}
+
   {%- include recent-posts.html -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
