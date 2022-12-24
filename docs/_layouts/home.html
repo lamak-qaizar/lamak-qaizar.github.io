@@ -21,13 +21,8 @@ layout: default
     {%- if page.list_title -%}
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
-        {%- for post in posts -%}
-        <li>
-            {%- include post-preview.html show_excerpts=site.show_excerpts -%}
-        </li>
-        {%- endfor -%}
-    </ul>
+
+    {%- include list-post-previews.html show_excerpts=site.show_excerpts posts=posts -%}
 
     {% if site.paginate %}
     <div class="pager">
