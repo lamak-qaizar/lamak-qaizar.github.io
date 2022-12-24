@@ -7,7 +7,7 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
 
-    {{assign tags = posts | map: 'tags' | flatten | uniq}}
+    {{assign tags = site.posts | map: 'tags' | flatten | uniq}}
     {%- include show-tags.html tags=tags -%}
 
     {{ content }}
