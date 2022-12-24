@@ -1,7 +1,16 @@
 <br>
 <h2>Recent posts</h2>
-{% for post in site.posts limit:5 %}
-    {%- if page.title != post.title -%}
-        {%- include post-preview.html show_excerpts=false -%}
-    {%- endif -%}
+<ul class="post-list">
+    {% for post in site.posts limit:5 %}
+        {%- if page.title != post.title -%}
+        <li>
+            {%- include post-preview.html show_excerpts=false -%}
+        </li>
+        {%- endif -%}
+    {%- endfor -%}
+</ul>
+
+
+
+
 {% endfor %}
