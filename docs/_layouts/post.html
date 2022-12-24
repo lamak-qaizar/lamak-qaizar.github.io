@@ -44,7 +44,7 @@ layout: default
   <h2>Relevant</h2>
 
   {% assign relevant_posts = "" | split: ","  %}
-  {% for post in site.posts %}
+  {% for post in site.posts | where_exp:"post","page.title != post.title"  %}
     {% for post_tag in post.tags %}
       {% for page_tag in page.tags %}
         {% if post_tag == page_tag  %}
