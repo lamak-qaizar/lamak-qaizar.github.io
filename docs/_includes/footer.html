@@ -3,8 +3,12 @@
 
     <div class="wrapper">
 
-        {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
-        {%- include show-tags.html tags=tags -%}
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+                {%- include show-tags.html tags=tags -%}
+            </div>
+        </div>
 
         <div class="footer-col-wrapper">
             <div class="footer-col">
