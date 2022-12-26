@@ -12,6 +12,7 @@ No plugins required.
 
 import glob
 import os
+import re
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
@@ -20,22 +21,14 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    f = open(filename, 'r', encoding='utf8')
-    crawl = False
-    for line in f:
-        if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
-                total_tags.extend(current_tags[1:])
-                crawl = False
-                break
-        if line.strip() == '---':
-            if not crawl:
-                crawl = True
-            else:
-                crawl = False
-                break
-    f.close()
+    with open(filename, 'r', encoding='utf8') as f
+        file = f.read()
+
+        import re
+        matches = re.search('^tags:.*$', str, re.MULTILINE)
+        if matches:
+            total_tags.extend(matches.group().replace('tags:', '').split())
+
 total_tags = set(total_tags)
 
 old_tags = glob.glob(tag_dir + '*.md')
