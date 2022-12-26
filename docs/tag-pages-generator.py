@@ -21,7 +21,7 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    with open(filename, 'r', encoding='utf8') as f
+    with open(filename, 'r', encoding='utf8') as f:
         file = f.read()
 
         import re
