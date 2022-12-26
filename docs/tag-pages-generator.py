@@ -37,10 +37,10 @@ for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     with open(tag_filename, 'a') as f:
         write_str = f"""---
-                        layout: posts-by-tag
-                        title: \"Tag: {tag}\"
-                        tag: {tag}
-                        robots: noindex
-                        ---"""
+        layout: posts-by-tag
+        title: \"Tag: {tag}\"
+        tag: {tag}
+        robots: noindex
+        ---"""
         f.write(write_str)
 print("Tags generated, count", total_tags.__len__())
