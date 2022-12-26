@@ -32,7 +32,7 @@ jobs:
         with:
           python-version: 3.8
       - name: execute py script
-        run: (cd docs && python ./docs/tag-pages-generator.py)
+        run: (cd docs && python tag-pages-generator.py)
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
