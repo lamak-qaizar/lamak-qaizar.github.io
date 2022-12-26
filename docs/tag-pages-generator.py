@@ -36,11 +36,11 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     with open(tag_filename, 'a') as f:
-        write_str = f"---\n" \
-                    "layout: posts-by-tag\n" \
-                    "title: \"Tag: {tag}\"\n" \
-                    "tag: {tag}\n" \
-                    "robots: noindex\n" \
-                    "---"
+        write_str = (f"---\n"
+                    f"layout: posts-by-tag\n"
+                    f"title: \"Tag: {tag}\"\n"
+                    f"tag: {tag}\n"
+                    f"robots: noindex\n"
+                    f"---")
         f.write(write_str)
 print("Tags generated, count", total_tags.__len__())
