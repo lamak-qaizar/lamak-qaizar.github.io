@@ -12,7 +12,6 @@ No plugins required.
 
 import glob
 import os
-import re
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
@@ -25,7 +24,7 @@ for filename in filenames:
         file = f.read()
 
         import re
-        matches = re.search('^tags:.*$', str, re.MULTILINE)
+        matches = re.search('^tags:.*$', file, re.MULTILINE)
         if matches:
             total_tags.extend(matches.group().replace('tags:', '').split())
 
