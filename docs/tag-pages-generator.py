@@ -10,13 +10,9 @@ This script creates tags for your Jekyll blog hosted by Github page.
 No plugins required.
 '''
 
-import glob
-import os
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
-
-filenames = glob.glob(f'{post_dir}*md')
 
 def read_file(filename):
     with open(filename, 'r', encoding='utf8') as f:
@@ -26,17 +22,15 @@ def write_file(filename, content):
     with open(filename, 'w') as f:
         f.write(content)
 
-total_tags = []
-for filename in filenames:
-    file = read_file(filename)
-
+import glob
+total_tags = set()
+for filename in glob.glob(f'{post_dir}*md'):
     import re
-    matches = re.search('^tags:.*$', file, re.MULTILINE)
+    matches = re.search('^tags:.*$', read_file(filename), re.MULTILINE)
     if matches:
-        total_tags.extend(matches.group().replace('tags:', '').split())
+        total_tags.update(matches.group().replace('tags:', '').split())
 
-total_tags = set(total_tags)
-
+import os
 if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
