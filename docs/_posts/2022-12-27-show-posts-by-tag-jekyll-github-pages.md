@@ -2,6 +2,7 @@
 layout: post
 title:  "Show posts by tag on Jekyll site hosted with GitHub Pages"
 tags: jekyll
+render_with_liquid: false
 ---
 As the number of posts on this site have grown,
 I thought it might be useful to be able to view all
