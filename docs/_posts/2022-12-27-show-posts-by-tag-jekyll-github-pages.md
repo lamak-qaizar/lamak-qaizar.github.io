@@ -152,11 +152,11 @@ you may reference it from the
 [source](https://github.com/lamak-qaizar/lamak-qaizar.github.io/blob/master/.github/workflows/jekyll-gh-pages.yml)
 of this site.
 
-#### And that's it!
+#### Test it out
 
 Run the pipeline to test that everything works fine.
 Thank you to
 [Long Qian](https://longqian.me/) and
-[Jason E. Miller](http://www.jasonemiller.org/)
+[Jason E. Miller](http://www.jasonemiller.org/)!
 
 
