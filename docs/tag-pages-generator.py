@@ -16,11 +16,15 @@ import os
 post_dir = '_posts/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*md')
+filenames = glob.glob(f'{post_dir}*md')
 
 def read_file(filename):
     with open(filename, 'r', encoding='utf8') as f:
         return f.read()
+
+def write_file(filename, content):
+    with open(filename, 'w') as f:
+        f.write(content)
 
 total_tags = []
 for filename in filenames:
@@ -37,8 +41,6 @@ if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
-    template = read_file('tag-page.template')
-    template = template.replace("{tag}", tag)
-    with open(tag_dir + tag + '.md', 'a') as f:
-        f.write(template)
+    template = read_file('tag-page.template').replace("{tag}", tag)
+    write_file(f'{tag_dir}{tag}.md', template)
 print("Tags generated, count", total_tags.__len__())
