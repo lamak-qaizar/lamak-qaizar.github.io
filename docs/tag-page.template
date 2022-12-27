@@ -1,6 +1,6 @@
 ---
 layout: posts-by-tag
-title: "Tag: {tag}"
-tag: {tag}
+title: "Tag: TAG_TO_REPLACE"
+tag: TAG_TO_REPLACE
 robots: noindex
 ---
