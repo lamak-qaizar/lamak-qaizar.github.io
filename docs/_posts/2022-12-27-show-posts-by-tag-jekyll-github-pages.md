@@ -37,13 +37,15 @@ repository.
 Next we add the following snippet where we want the tags to show,
 e.g. below date and author.
 
-```
+{% highlight liquid %}
+{% raw %}
 {%- if page.tags.size > 0 -%}
     {% for tag in page.tags %}
         <a href="/tag/{{ page.tag }}"><code>{{ page.tag }}</code></a>&nbsp;
     {% endfor %}
 {%- endif -%}
-```
+{% endraw %}
+{% endhighlight %}
 
 Deploy this change to verify the tag appears as expected.
 You can modify the styling as you like.
@@ -54,7 +56,8 @@ the pages under `tag/` directory.
 
 Create `_layouts/posts-by-tag.html` with the following content.
 
-```
+{% highlight liquid %}
+{% raw %}
 ---
 layout: default
 ---
@@ -74,21 +77,22 @@ layout: default
         {%- endfor -%}
     </ul>
 </div>
-```
+{% endraw %}
+{% endhighlight %}
 
 #### Generate tag pages
 
 Tag pages are generated using the layout created in the previous step.
 Add the following `tag-page.template` to your repository.
 
-```
+{% highlight yaml %}
 ---
 layout: posts-by-tag
 title: "Tag: {tag}"
 tag: {tag}
 robots: noindex
 ---
-```
+{% endhighlight %}
 
 This template will be used to generate `tag/{tag}.md`
 for each of the tags used in our site.
@@ -129,14 +133,14 @@ Run the pipeline to test before proceeding.
 
 Now add the following steps after `actions/checkout`:
 
-```yaml
+{% highlight yaml %}
   - name: setup python
     uses: actions/setup-python@v4
     with:
       python-version: 3.8
   - name: execute py script
     run: (cd docs && python tag-pages-generator.py)
-```
+{% endhighlight %}
 
 Note that I am `cd`ing into `/docs` before running the python script
 (putting the command in parentheses `(...)` launches a sub-process so that
