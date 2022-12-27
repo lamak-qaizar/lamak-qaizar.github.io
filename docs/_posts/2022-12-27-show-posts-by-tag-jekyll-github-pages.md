@@ -6,14 +6,10 @@ render_with_liquid: false
 ---
 As the number of posts on this site have grown,
 I thought it might be useful to be able to view all
-the posts with a certain tag e.g. [jekyll](/tag/jekyll).
+the posts with a certain tag, e.g. [`jekyll`](/tag/jekyll).
 This capability does not come out of the box 
 with Minima, the theme I am using,
-however it can be added with a little custom development. 
-
-P.s. I assume the steps should work 
-even if you are not using Minima, albeit with minor adjustments
-e.g. the CSS classes I use are Minima specific.
+however it can be added with a little custom development.
 
 The guide below is an extension of the work by
 [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/) and
@@ -24,6 +20,10 @@ The major ideas are the same with the following adaptations:
 
 1. Parts of the code are refactored for better understandability.
 2. Steps are added to automate generation of tag pages at deploy time. Since Jekyll sites compile into static resources (e.g. HTML/CSS), pages for each tag must be pre-built. Maintaining pages manually would be tedious as tags might change frequently, therefore we generate these pages at deploy time using GitHub Actions.
+
+P.s. the steps below should work
+even if you are not using Minima, albeit with minor adjustments
+such as modifying CSS classes used in code examples as per your theme.
 
 #### Display tag with hyperlink
 
