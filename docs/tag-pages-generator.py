@@ -34,13 +34,9 @@ if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag + '.md'
-    with open(tag_filename, 'a') as f:
-        write_str = (f"---\n"
-                    f"layout: posts-by-tag\n"
-                    f"title: \"Tag: {tag}\"\n"
-                    f"tag: {tag}\n"
-                    f"robots: noindex\n"
-                    f"---")
-        f.write(write_str)
+    with open('tag-page.template', 'r', encoding='utf8') as f:
+        template = f.read()
+        template.replace("{tag}", tag)
+        with open(tag_dir + tag + '.md', 'a') as f:
+            f.write(template)
 print("Tags generated, count", total_tags.__len__())
