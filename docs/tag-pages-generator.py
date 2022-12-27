@@ -1,18 +1,13 @@
 #!/usr/bin/env python3
 
 '''
-tag_generator.py
-
-Copyright 2017 Long Qian
-Contact: lqian8@jhu.edu
-
-This script creates tags for your Jekyll blog hosted by Github page.
-No plugins required.
+Script adapted from
+https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py
+by Long Qian
 '''
 
-
-post_dir = '_posts/'
-tag_dir = 'tag/'
+POST_DIR = '_posts/'
+TAG_DIR = 'tag/'
 
 def read_file(filename):
     with open(filename, 'r', encoding='utf8') as f:
@@ -23,18 +18,20 @@ def write_file(filename, content):
         f.write(content)
 
 import glob
-total_tags = set()
-for filename in glob.glob(f'{post_dir}*md'):
-    import re
-    matches = re.search('^tags:.*$', read_file(filename), re.MULTILINE)
-    if matches:
-        total_tags.update(matches.group().replace('tags:', '').split())
+import re
+def all_tags():
+    tags = set()
+    for filename in glob.glob(f'{POST_DIR}*md'):
+        matches = re.search('^tags:.*$', read_file(filename), re.MULTILINE)
+        if matches:
+            tags.update(matches.group().replace('tags:', '').split())
+    return tags
 
 import os
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
+if not os.path.exists(TAG_DIR):
+    os.makedirs(TAG_DIR)
 
-for tag in total_tags:
+for tag in all_tags():
     template = read_file('tag-page.template').replace("{tag}", tag)
-    write_file(f'{tag_dir}{tag}.md', template)
-print("Tags generated, count", total_tags.__len__())
+    write_file(f'{TAG_DIR}{tag}.md', template)
+    print(f'Generated page for tag "{tag}".')
