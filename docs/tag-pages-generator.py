@@ -38,7 +38,7 @@ if not os.path.exists(tag_dir):
 
 for tag in total_tags:
     template = read_file('tag-page.template')
-    template.replace("TAG_TO_REPLACE", tag)
+    template = template.replace("{tag}", tag)
     with open(tag_dir + tag + '.md', 'a') as f:
         f.write(template)
 print("Tags generated, count", total_tags.__len__())
