@@ -67,18 +67,18 @@ from which migration started.
 And yes, putting a bunch of events with a bunch of properties 
 on Kafka is the same as having a huge monolith database 
 where anyone can reach out and couple to anything. 
-
 Note: Event Sourcing is a different thing; 
 it’s not meant to be top a level architecture, 
 for the stated coupling reasons, and should be applied to a single bounded context
 
-Takeaway is: lack of a design skills reflects dramatically 
+**Takeaway is:** lack of a design skills reflects dramatically 
 in reduced reliability of the distributed system 
 and extended lead time to make a business impact.
-If I was to advise a journey on this path of learning good design it would be: 
-low level (code) design and system design are very similar;
 
-1. Start with Clean Code (accurate namings especially which leads 
+If I was to advise a journey on this path of learning good design it would be: 
+
+1. Low level (code) design and system design are very similar; 
+start with Clean Code (accurate namings especially which leads 
 to a better design because you gain more domain insights 
 through this process of naming things the way they are)
 2. Refactoring skills (Fowler’s book)
