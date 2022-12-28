@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dragan on lack of design skills"
-tags: software-design
+tags: software-design architecture
 ---
 The following is a message shared on the company's internal messaging app
 by [Dragan Stepanović](https://www.linkedin.com/in/dstepanovic)
