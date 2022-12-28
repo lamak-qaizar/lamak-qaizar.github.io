@@ -3,11 +3,15 @@ layout: post
 title:  "Dragan on lack of design skills"
 tags: software-design
 ---
-The following is a message by [Dragan Stepanović](https://www.linkedin.com/in/dstepanovic)
-shared on the company's internal messaging app while we worked together at Careem.
-It was around 2018 or 2019, and having kept a copy of it for reference,
-I have referred to it time and time again.
+The following is a message shared on the company's internal messaging app
+by [Dragan Stepanović](https://www.linkedin.com/in/dstepanovic)
+while we worked together at Careem.
+It was around 2018 or 2019.
+I have referred to it time and time again
+having also kept a copy of it for reference.
 Sharing it here if it benefits anyone else.
+
+The message follows...
 
 ---
 
