@@ -13,7 +13,7 @@ Sharing it here if it benefits anyone else.
 
 Dragan:
 
-Lack of a proper design skills leads to setting up wrong service
+Lack of proper design skills leads to setting up wrong service
 boundaries and lots of the distributed systems I’ve seen in the wild 
 end up as an entity service antipattern 
 (see Michael Nygard’s [article](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/) on this antipattern). 
