@@ -1,4 +1,4 @@
 <br>
 <h2>Recent posts</h2>
 {% assign recent_posts = site.posts | where_exp:"post","page.title != post.title" | slice:0,5 %}
-{%- include list-post-previews.html show_excerpts=false posts=recent_posts -%}
+{%- include list-post-previews.html show_excerpts=true posts=recent_posts -%}
