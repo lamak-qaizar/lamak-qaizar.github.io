@@ -5,8 +5,9 @@ tags: jekyll
 render_with_liquid: false
 ---
 As the number of posts on this site have grown,
-I thought it might be useful to be able to view all
-the posts with a certain tag, e.g. [`jekyll`](/tag/jekyll).
+I thought it might be useful to be able to view 
+posts with a certain tag, 
+e.g. all posts tagged [`jekyll`](/tag/jekyll).
 This capability does not come out of the box 
 with Minima, the theme I am using,
 however it can be added with a little custom development.
@@ -14,7 +15,7 @@ however it can be added with a little custom development.
 The guide below is an extension of the work by
 [Long Qian](https://longqian.me/2017/02/09/github-jekyll-tag/) and
 [Jason E. Miller](http://www.jasonemiller.org/2020/12/23/tagging-posts-in-jekyll-minima.html).
-All the steps are listed here for completeness i.e.
+All the steps are listed here for completeness, i.e.
 even those that are unchanged from the original guides.
 The major ideas are the same with the following adaptations:
 
@@ -23,16 +24,15 @@ The major ideas are the same with the following adaptations:
 
 P.s. the steps below should work
 even if you are not using Minima, albeit with minor adjustments
-such as modifying CSS classes used in code examples as per your theme.
+such as modifying CSS classes from the code examples as per your theme.
 
 #### Display tag with hyperlink
 
 Let's say we want to display tags on each of our posts.
-We need to customize our post layout.
-To be able to customize the post layout,
+To customize the post layout,
 we need to create a copy
-of [`/_layouts/post.html`](https://github.com/jekyll/minima/blob/master/_layouts/post.html) into our local 
-repository.
+of [`/_layouts/post.html`](https://github.com/jekyll/minima/blob/master/_layouts/post.html)
+from Minima's sources into our local repository.
 
 Next we add the following snippet where we want the tags to show,
 e.g. below date and author.
@@ -142,20 +142,20 @@ Now add the following steps after `actions/checkout`:
     run: (cd docs && python tag-pages-generator.py)
 {% endhighlight %}
 
-Note that I am `cd`ing into `/docs` before running the python script
+Note that I am `cd`'ing into `/docs` before running the python script
 (putting the command in parentheses `(...)` launches a sub-process so that
 the change-directory command only has temporary effect).
 If your Jekyll sources are at root, simply put `run: python tag-pages-generator.py`.
 
-For a full `.github/workflows/jekyll-gh-pages.yml`,
-you may reference it from the 
+To reference a full GitHub Actions workflow, check out the 
 [source](https://github.com/lamak-qaizar/lamak-qaizar.github.io/blob/master/.github/workflows/jekyll-gh-pages.yml)
 of this site.
 
 #### Test it out
 
 Run the pipeline to test that everything works fine.
-Thank you to
+
+A special thank you to
 [Long Qian](https://longqian.me/) and
 [Jason E. Miller](http://www.jasonemiller.org/)!
 
