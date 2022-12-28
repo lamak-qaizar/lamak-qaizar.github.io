@@ -98,3 +98,5 @@ Unpopular opinion but lots of hyped technologies
 for problems caused by accidental, not essential complexity. 
 Meaning, if you solve the right problem, you eliminate all the complexity 
 caused by trying to solve a symptom rather than the cause.
+
+-- Dragan Stepanović
