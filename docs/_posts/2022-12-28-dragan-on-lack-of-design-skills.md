@@ -11,14 +11,13 @@ Sharing it here if it benefits anyone else.
 
 ---
 
-Dragan:
-
 Lack of proper design skills leads to setting up wrong service
 boundaries and lots of the distributed systems I’ve seen in the wild 
 end up as an entity service antipattern 
 (see Michael Nygard’s [article](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/) on this antipattern). 
 This suboptimal design is reflected in high service coupling 
-and lots of intertwined network dependencies. 
+and lots of intertwined network dependencies.
+
 This extends activation path (number of hops needed to fulfill end user request), 
 which, in turn, increases response time for the end user request. 
 That, as you go up the service call chain, drives call blocking time up, 
@@ -27,6 +26,7 @@ which increases number of blocked request handling threads.
 System hack around this is increasing number of scaled out instances, 
 which introduces operational complexity and on the system level 
 this drives costs up exponentially with the number of services. 
+
 Anyway if anything goes down, you risk bringing down lots of the coupled 
 functionality with that service as well. Not to mention team dependencies 
 and increasing lead time to bring something out of the door 
@@ -41,8 +41,10 @@ that failure of this service causes graceful degradation of business functionali
 E.g. if Recommendation Service on Amazon goes down, 
 the only thing you won’t be able to do is to see recommended products 
 for the one you’re looking at.
+
 One heuristic I tend to use when trying to figure this out is asking: 
 "What else will fail if this service fails?".
+
 Try to imagine there’s just a single instance of every service 
 you have in the system and think about how you would 
 design the system so that the business impact is minimized 
@@ -51,14 +53,17 @@ Forget about circuit breakers, fallbacks, bulkheads, caches;
 they are addressing the symptom not the problem.
 Microservices are a mean to an end, 
 and you can achieve that end in a different way.
+
 If we’re not able to make a modular monolith 
 what makes us think we’ll be able to make modular microservices?
 Most of the microservices implementation end up as 
 distributed monolith which is way worse than a single process monolith 
 from which migration started.
+
 And yes, putting a bunch of events with a bunch of properties 
 on Kafka is the same as having a huge monolith database 
 where anyone can reach out and couple to anything. 
+
 Note: Event Sourcing is a different thing; 
 it’s not meant to be top a level architecture, 
 for the stated coupling reasons, and should be applied to a single bounded context
