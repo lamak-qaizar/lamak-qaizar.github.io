@@ -10,24 +10,24 @@ hacking away with the assistance of friends, Google and Stack Overflow.
 I was making (and breaking) things in production.
 It was while stepping into a leadership role for the first time that
 I felt I could no longer afford to lean as much on trial and error.
-So the search began for other means of learning, 
+So the search for other means of learning began, 
 and as the saying goes, seek and ye shall find...
 
 A colleague had left a copy of _Good to Great_ on her desk
 (for folks like myself to stumble upon).
 Jim Collins begins the book by crediting it
 to his team of researchers before taking responsibility for any shortcomings.
-In awe of Jim Collins humility, I went on to read not only _Good to Great_,
+In awe of Jim Collins' humility, I went on to read not only _Good to Great_,
 but the entire series.
 
 In a book found on many recommendation lists, _Meditations_,
 the Roman Emperor Marcus Aurelius suggests
 that men are born to work together like a man's two hands, feet or eyelids.
-To obstruct or fall angry with one another is against Nature's law.
+To obstruct one another or fall angry is against Nature's law.
 
 In another oft recommended title, _The Art of War_, Sun Tzu wrote 2000 years ago
 that the skillful warrior exploits potential energy,
-they do not hold their men responsible. The legendary general wrote:
+he does not hold his men responsible. The legendary general wrote:
 
 > On steep ground  
 > They move;  
