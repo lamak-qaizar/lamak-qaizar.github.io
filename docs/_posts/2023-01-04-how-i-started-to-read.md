@@ -8,7 +8,7 @@ I was that kid in the 1990s and 2000s who had not read Harry Potter.
 And for much of my early career I was learning by _doing_ --
 hacking away with the assistance of friends, Google and Stack Overflow.
 I was making (and breaking) things in production.
-When I stepped into a leadership role for the first time,
+It was while stepping into a leadership role for the first time that
 I felt I could no longer afford to lean as much on trial and error.
 So the search began for other means of learning, 
 and as the saying goes, seek and ye shall find...
