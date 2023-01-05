@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I started to read books"
+title:  "How I started reading books"
 tags: books
 ---
 My reading journey started quite late in life.
@@ -14,13 +14,13 @@ So the search for other means of learning began,
 and as the saying goes, seek and ye shall find...
 
 A colleague had left a copy of _Good to Great_ on her desk
-(for folks like myself to stumble upon).
+(for folks like myself to stumble upon I presume).
 Jim Collins begins the book by crediting it
 to his team of researchers before taking responsibility for any shortcomings.
 In awe of Jim Collins' humility, I went on to read not only _Good to Great_,
 but the entire series.
 
-In a book found on many recommendation lists, _Meditations_,
+In a book found on a vast number of recommendation lists, _Meditations_,
 the Roman Emperor Marcus Aurelius suggests
 that men are born to work together like a man's two hands, feet or eyelids.
 To obstruct one another or fall angry is against Nature's law.
@@ -40,11 +40,11 @@ he does not hold his men responsible. The legendary general wrote:
 
 It is passages like these that got me hooked.
 I cannot recall which one was the first that I read,
-whether one of the above or another title entirely.
+whether one of the above or a passage from another title entirely.
 What is of significance though is the realization that these passages brought:
 why falter away on my own when I could be learning
 from the likes of men who had led armies and empires?
-Leo Tolstoy, one of the greatest authors of all time, wrote:
+Leo Tolstoy, regarded as one of the greatest authors of all time, wrote:
 
 > I cannot understand how some people can live without communicating with the wisest people who ever lived on Earth?
 
