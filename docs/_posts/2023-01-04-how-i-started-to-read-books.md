@@ -4,7 +4,7 @@ title:  "How I started to read books"
 tags: books
 ---
 My reading journey started quite late in life.
-I was that kid in the 1990s and 2000s who had not read Harry Potter.
+I was that kid in the 1990s and 2000s who had never read Harry Potter.
 And for much of my early career I was learning by _doing_ --
 hacking away with the assistance of friends, Google and Stack Overflow.
 I was making (and breaking) things in production.
