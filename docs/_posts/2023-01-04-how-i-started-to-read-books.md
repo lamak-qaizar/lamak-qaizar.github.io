@@ -43,14 +43,14 @@ I cannot recall which one was the first that I read,
 whether one of the above or another title entirely.
 What is of significance though is the realization that these passages brought:
 why falter away on my own when I could be learning
-from the wisdom of men who had led armies and empires?
+from the likes of men who had led armies and empires?
 Leo Tolstoy, one of the greatest authors of all time, wrote:
 
 > I cannot understand how some people can live without communicating with the wisest people who ever lived on Earth?
 
 It would not have been a bad idea to have started earlier.
-Reading books has been one of the most important takeaways
-of the first decade of my professional career
+As the first decade of my professional career is coming to a close,
+I can count reading books as one of the most important takeaways in this period 
 (pair/mob programming is the other that comes to mind right now).
 I have found it to add value not just to how I lead,
 but to every aspect in my personal and professional life.
