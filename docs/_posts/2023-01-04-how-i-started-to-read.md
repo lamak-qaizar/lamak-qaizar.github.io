@@ -28,13 +28,13 @@ In another oft recommended title, _The Art of War_, Sun Tzu wrote 2000 years ago
 that the skillful warrior exploits potential energy,
 they do not hold their men responsible. The legendary general wrote:
 
-> On steep ground
-> They move;
-> Square, they halt;
-> Round, they roll.
-> Skillfully deployed soldiers
-> Are like round boulders
-> Rolling down
+> On steep ground  
+> They move;  
+> Square, they halt;  
+> Round, they roll.  
+> Skillfully deployed soldiers  
+> Are like round boulders  
+> Rolling down  
 > A mighty mountainside.
 
 It is passages like these that got me hooked.
