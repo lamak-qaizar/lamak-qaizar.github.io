@@ -48,9 +48,9 @@ Leo Tolstoy, one of the greatest authors of all time, wrote:
 
 > I cannot understand how some people can live without communicating with the wisest people who ever lived on Earth?
 
-It would not have been a bad idea to have started earlier.
+It would not have been a bad idea to have started reading books earlier.
 As the first decade of my professional career is coming to a close,
-I can count reading books as one of the most important takeaways in this period 
+I can count reading books as one of the most important takeaways from this period 
 (pair/mob programming is the other that comes to mind right now).
 I have found it to add value not just to how I lead,
 but to every aspect in my personal and professional life.
