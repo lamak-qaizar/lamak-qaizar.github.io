@@ -3,12 +3,13 @@
 
     <div class="wrapper">
 
-        Tags:
-        {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
-        {% for tag in tags %}
-            {%- include tag.html tag=tag -%}
-        {% endfor %}
-        <br/>
+        <p>Tags:
+            {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+            {% for tag in tags %}
+                {%- include tag.html tag=tag -%}
+            {% endfor %}
+            <br/>
+        </p>
 
         <div class="footer-col-wrapper">
             <div class="footer-col">
