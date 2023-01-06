@@ -20,13 +20,13 @@ to his team of researchers before taking responsibility for any shortcomings.
 In awe of Jim Collins' humility, I went on to read not only _Good to Great_,
 but the entire series.
 
-In a book found on a vast number of recommendation lists, _Meditations_,
-the Roman Emperor Marcus Aurelius suggests
+In _Meditations_, a book I found on a vast number of recommendation lists,
+the Roman Emperor Marcus Aurelius wrote
 that men are born to work together like a man's two hands, feet or eyelids.
 To obstruct one another or fall angry is against Nature's law.
 
 In another oft recommended title, _The Art of War_, Sun Tzu wrote 2000 years ago
-that the skillful warrior exploits potential energy,
+that the skillful warrior exploits potential energy -- 
 he does not hold his men responsible. The legendary general wrote:
 
 > On steep ground  
