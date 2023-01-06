@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Struggling to write?"
-tags: reading
+tags: writing
 ---
 I have tried writing on Medium and LinkedIn in the past.
 The experience was rewarding, but I could not find the fluency that I would have liked.
