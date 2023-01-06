@@ -5,6 +5,16 @@
 
         <div class="footer-col-wrapper">
             <div class="footer-col">
+                Tags:
+                {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+                {% for tag in tags %}
+                    {%- include tag.html tag=tag -%}
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
                 <p class="feed-subscribe">
                     <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
                         <svg class="svg-icon orange">
@@ -24,12 +34,6 @@
                 {%- endif %}
             </div>
             <div class="footer-col">
-                <p>
-                    {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
-                    {% for tag in tags %}
-                        {%- include tag.html tag=tag -%}
-                    {% endfor %}
-                </p>
                 <p>{{ site.description | escape }}</p>
             </div>
         </div>
