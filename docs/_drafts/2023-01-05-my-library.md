@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My library"
-tags: books
+tags: reading
 ---
 Leadership
 The Goal
