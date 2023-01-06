@@ -39,18 +39,17 @@ he does not hold his men responsible. The legendary general wrote:
 > A mighty mountainside.
 
 It is passages like these that got me hooked.
-I cannot recall which one was the first that I read,
+I cannot recall which was the first passage that I read,
 whether one of the above or a passage from another title entirely.
-What is of significance though is the realization that these passages brought:
+What is of significance though is the realization that accompanied these passages:
 why falter away on my own when I could be learning
 from the likes of men who had led armies and empires?
-Leo Tolstoy, regarded as one of the greatest authors of all time, wrote:
+In the words of one of the greatest authors of all time, Leo Tolstoy:
 
 > I cannot understand how some people can live without communicating with the wisest people who ever lived on Earth?
 
 It would not have been a bad idea to have started reading books earlier.
 As the first decade of my professional career is coming to a close,
-I can count reading books as one of the most important takeaways from this period 
-(pair/mob programming is the other that comes to mind right now).
+I can count reading books as one of the most important takeaways from this period.
 I have found it to add value not just to how I lead,
 but to every aspect in my personal and professional life.
