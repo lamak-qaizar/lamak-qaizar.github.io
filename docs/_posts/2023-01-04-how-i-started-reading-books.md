@@ -18,7 +18,7 @@ A colleague had left a copy of _Good to Great_ on her desk
 Jim Collins begins the book by crediting it
 to his team of researchers before taking responsibility for any shortcomings.
 In awe of Jim Collins' humility, I went on to read not only _Good to Great_,
-but the entire series.
+but other books in the series.
 
 In _Meditations_, a book I found on a vast number of recommendation lists,
 the Roman Emperor Marcus Aurelius wrote
