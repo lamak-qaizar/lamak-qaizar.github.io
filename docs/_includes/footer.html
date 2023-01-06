@@ -3,7 +3,7 @@
 
     <div class="wrapper">
 
-        <p>Tags:
+        <p>
             {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
             {% for tag in tags %}
                 {%- include tag.html tag=tag -%}
