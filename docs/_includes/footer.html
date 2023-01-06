@@ -3,14 +3,6 @@
 
     <div class="wrapper">
 
-        <p>
-            {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
-            {% for tag in tags %}
-                {%- include tag.html tag=tag -%}
-            {% endfor %}
-            <br/>
-        </p>
-
         <div class="footer-col-wrapper">
             <div class="footer-col">
                 <p class="feed-subscribe">
@@ -35,6 +27,14 @@
                 <p>{{ site.description | escape }}</p>
             </div>
         </div>
+
+        <p>
+            {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+            {% for tag in tags %}
+            {%- include tag.html tag=tag -%}
+            {% endfor %}
+            <br/>
+        </p>
 
         <div class="social-links">
             {%- include social.html -%}
