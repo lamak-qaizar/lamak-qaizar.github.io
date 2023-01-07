@@ -5,6 +5,16 @@ tags: reading
 ---
 I recently wrote about how I (belatedly) [started reading books](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html).
 This is the list of books that I have read since and would pass on as recommendations.
+Recommendations is the means by which I have come across most books myself.
+I am in gratitude to everyone who has recommended me something to read.
+
+The other means by which I have come across books is the trail 
+of references each book leaves behind.
+If I liked a book, I have found to usually like the titles it references.
+If you are not a regular reader (like myself a few years ago),
+finding one book that resonates with you may lead you to another,
+then another, then another, and so on.
+It won't be long after that one book that you might find yourself reading regularly.
 
 For the lack of a better idea, the title links point to Google.
 
