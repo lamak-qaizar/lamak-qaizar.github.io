@@ -32,7 +32,7 @@ For the lack of a better idea, the title links point to Google.
 - _[Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn](https://www.google.com/search?q=training+from+the+back+of+the+room)_ by Sharon Bowman. A couple of key takeaways were not to speak for more than 10 minutes and enabling learners to learn from one another. 
 
 #### Software engineering
-- _[Agile Technical Practices Distilled](https://www.google.com/search?q=agile+technical+practices+distilled)_ by Marco Consolaro and Pedro M. Santos. My go-to book for learning SE techniques like TDD, Refactoring, Code Smells, SOLID and Object Calisthenics. It is concise and includes exercises (katas). A lot of the content for [Software Crafters](https://software-crafters-karachi.github.io/past-meetups.html) meet-ups is borrowed from here.
+- _[Agile Technical Practices Distilled](https://www.google.com/search?q=agile+technical+practices+distilled)_ by Marco Consolaro and Pedro M. Santos. Not as well known as others in this list but it is my go-to book for learning SE techniques like TDD, Refactoring, Code Smells, SOLID and Object Calisthenics. It is concise and includes exercises (katas). A lot of the content for [Software Crafters](https://software-crafters-karachi.github.io/past-meetups.html) meet-ups is borrowed from here.
 - _[The Pragmatic Programmer](https://www.google.com/search?q=the+pragmatic+programmer)_ by Andy Hunt and Dave Thomas. One of the first tech books I read. Filled with many memorable anecdotes like the stone soup and broken windows.
 - _[Clean Code](https://www.google.com/search?q=clean+code)_ by Robert C. Martin. A must-read if you are writing code and second guessing things like whether variable names should be short or descriptive.
 - _[Refactoring](https://www.google.com/search?q=refactoring+by+martin+fowler)_ by Martin Fowler. A key skill for software developers. I learnt many new techniques and names for a few I was already using.
@@ -42,18 +42,18 @@ For the lack of a better idea, the title links point to Google.
 - _[Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.google.com/search?q=domain+driven+design+tackling+complexity+in+the+heart+of+software)_ by Eric Evans and _[Implementing Domain-Driven Design](https://www.google.com/search?q=implementing+domain+driven+design)_ by Vaughn Vernon. A domain I am still learning about with back-and-forth between these two books. The one by Eric Evans (known as the _Blue Book_) is the original work on DDD, whereas Vaughn Vernon walks us through building an application using DDD principles.
 
 #### Engineering strategy
-- Peopleware by Lister and DeMarco. The premise is that the success of software projects depends more on sociological than technical factors. A couple of my favourite chapters are _Teamicide_ and _Competition_. I find myself referring to a lot of other parts of the book as well. 
-- Accelerate: The Science of Lean Software and DevOps
-- The Phoenix Project Gene Kim, Spafford, and Behr. A modern rendition of _The Goal_: a manager in an IT company has three months to turn things around or get shut down. 
-- The Manager's Path by Camille Fournier. Describes roles and challenges from being a mentee to a CTO and everything in between. The book was consolation for me when I first stepped into an engineering manager role. I realized what I was going through many others have gone through before.
-- Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent by Joel Spolsky. Joel is the creator of Stack Overflow and Trello. Read it if you are hiring.
-- Fearless Change by Rising and Manns. Discusses why change is hard and describes patterns for introducing change.
-- Lean Software Development: An Agile Toolkit by Mary and Tom Poppendick
-- Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Rands
-- Dynamic Reteaming: The Art and Wisdom of Changing Teams by Heidi Helfand
-- Mythical Man Month by Fred Brooks
-- Team Topologies by Manuel Pais and Matthew Skelton
-- The DevOps Handbook by Gene Kim, Jez Humble, Debois, and Willis. Describes the idea and principles behind DevOps. A good accompaniment to _The Phoenix Project_. I particularly like the first few chapters which discuss value stream mapping and the Three Ways -- Flow, Feedback and Continuous Learning.
+- _[Peopleware](https://www.google.com/search?q=peopleware+by+tom+demarco)_ by Timothy Lister and Tom DeMarco. The premise is that the success of software projects depends more on sociological than technical factors. A couple of my favourite chapters are _Teamicide_ and _Competition_. I find myself referring to a lot of other parts of the book as well. 
+- _[Accelerate: The Science of Lean Software and DevOps](https://www.google.com/search?q=accelerate+the+science+of+lean+software+and+devops)_ by Jez Humble and Nicole Forsgren. A compilation of years of research on what makes high performing teams. It discusses everything from architecture and technical practices to leadership styles and culture. One of my favourite chapters is _Chapter 2: Measuring Performance_ which makes the argument against using story points and velocity to measure performance and proposes alternatives.
+- _[The Phoenix Project](https://www.google.com/search?q=the+phoenix+project)_ by Gene Kim, Spafford, and Behr. A modern rendition of _The Goal_: a manager in an IT company has three months to turn things around or get shut down. 
+- _[The Manager's Path](https://www.google.com/search?q=the+managers+path)_ by Camille Fournier. Describes roles and challenges from being a mentee to a CTO and everything in between. The book was consolation for me when I first stepped into an engineering manager role. I realized what I was going through many others have gone through before.
+- _[Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](https://www.google.com/search?q=smart+and+gets+things+done+by+joel+spolsky)_ by Joel Spolsky. Joel is the creator of Stack Overflow and Trello. Read it if you are hiring.
+- _[Fearless Change](https://www.google.com/search?q=fearless+change)_ by Linda Rising and Mary Lynn Manns. Discusses why change is hard and describes patterns for introducing change.
+- _[Lean Software Development: An Agile Toolkit](https://www.google.com/search?q=fearless+change)_ by Mary and Tom Poppendick. A brilliant book that borrows ideas from Lean Manufacturing and applies them to software development.
+- _[Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.google.com/search?q=managing+humans+by+rands)_ by Rands. Lessons from Michael Lopp, a.k.a. Rands, an engineering leader who has served Palantir, Apple, Pinterest and Slack. Quite a fun read.
+- _[Dynamic Reteaming: The Art and Wisdom of Changing Teams](https://www.google.com/search?q=dynamic+reteaming)_ by Heidi Helfand. Patterns for making and breaking teams.
+- _[Team Topologies](https://www.google.com/search?q=team+topologies)_ by Manuel Pais and Matthew Skelton. Describes how to organise teams for fast delivery of software.
+- _[Mythical Man Month](https://www.google.com/search?q=mythical+man+month)_ by Fred Brooks. Written in 1975, the book is themed around Brooks Law, that adding people to a late software project only makes it later.
+- _[The DevOps Handbook](https://www.google.com/search?q=the+devops+handbook)_ by Gene Kim, Jez Humble, Debois, and Willis. Describes the idea and principles behind DevOps. A good accompaniment to _The Phoenix Project_. I particularly like the first few chapters which discuss value stream mapping and the Three Ways -- Flow, Feedback and Continuous Learning.
 
 #### Extreme programming
 - Clean Agile by Robert C. Martin. I read this as a refresher for _Agile_. Includes the story of signing of the Agile Manifesto at the Snowbird resort in Utah.
