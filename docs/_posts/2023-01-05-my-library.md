@@ -19,21 +19,21 @@ It won't be long after that one book that you might find yourself reading regula
 For the lack of a better idea, the title links point to Google.
 
 #### Organisational strategy
-- The _[Good to Great](https://www.google.com/search?q=good+to+great+by+jim+collins)_ series. Jim Collins studies why some companies last decades, through recessions, across multiple CEOs and outperform the market. I'd recommend reading _Good to Great_ at the very least. The other titles in the series are superb too but after the second or third book you may start seeing some repeating ideas.
-- _[The Art of War](https://www.google.com/search?q=the+art+of+war)_ by Sun Tzu. The translation is only a 30-minute read (commentaries are longer). My copy is by John Minford.
-- _[The Leader's Handbook](https://www.google.com/search?q=the+leaders+handbook)_ by Peter Scholtes. Scholtes taught with Dr. Edwards Deming. I read this book particularly for _Chapter 9: Performance without Appraisal_. The rest of the book is as great.
+- The _[Good to Great](https://www.google.com/search?q=good+to+great+by+jim+collins)_ series. Jim Collins studies why some companies outperform the market, last decades, span multiple CEOs, get through recessions, while others don't. I'd recommend reading _Good to Great_ at the very least. The other titles in the series are superb too but after the second or third book you may start seeing some repeating ideas.
+- _[The Art of War](https://www.google.com/search?q=the+art+of+war)_ by Sun Tzu. How do you win without stepping foot on the battlefield? The translation is only a 30-minute read (commentaries are longer). My copy is by John Minford.
+- _[The Leader's Handbook](https://www.google.com/search?q=the+leaders+handbook)_ by Peter Scholtes. Scholtes comes from the school of Dr. Edwards Deming. I read this book particularly for _Chapter 9: Performance without Appraisal_. The rest of the book is as great.
 
 #### People development
-- _[The Five Dysfunctions of a Team](https://www.google.com/search?q=the+five+dysfunctions+of+a+team)_ by Patrick Lencioni. Written in the style of novel, it tells the story of an organisation plagued by distrust and conflict and how it turns itself around.
-- _[Trillion Dollar Coach](https://www.google.com/search?q=trillion+dollar+coach)_ by Eagle, Schmidt, and Rosenberg. Lessons from Bill Campbell, the coach of Steve Jobs, Jeff Bezos, Larry Page, Sergey Brin etc.
-- _[Multipliers](https://www.google.com/search?q=multipliers)_ by McKeown and Wiseman. It was recommended to me by several colleagues. I am passing it on. It tells how some leaders (Multipliers) make those around them smarter whereas others (Diminishers) drain intelligence.
-- _[Turn the Ship Around!](https://www.google.com/search?q=turn+the+ship+around)_ by David Marquet. The turn-around story of an underperforming submarine, Sante Fe, and turning followers into leaders.
-- _[Drive: The Surprising Truth About What Motivates Us](https://www.google.com/search?q=drive+surprising+truth+about+what+motivates+us)_ by 
-- Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn by Sharon Bowman
+- _[The Five Dysfunctions of a Team](https://www.google.com/search?q=the+five+dysfunctions+of+a+team)_ by Patrick Lencioni. A leadership fable about an organisation plagued by distrust and conflict and how it turns itself around.
+- _[Trillion Dollar Coach](https://www.google.com/search?q=trillion+dollar+coach)_ by Eagle, Schmidt, and Rosenberg. Lessons from Bill Campbell, the coach of the likes of Steve Jobs, Jeff Bezos, Larry Page and Sergey Brin.
+- _[Multipliers](https://www.google.com/search?q=multipliers)_ by McKeown and Wiseman. It was recommended to me by several colleagues before I finally read it, and it was worth it. It tells how some leaders (Multipliers) make those around them smarter whereas others (Diminishers) drain intelligence.
+- _[Turn the Ship Around!](https://www.google.com/search?q=turn+the+ship+around)_ by David Marquet. The turn-around story of Sante Fe, an under-performing submarine, and turning followers into leaders.
+- _[Drive: The Surprising Truth About What Motivates Us](https://www.google.com/search?q=drive+surprising+truth+about+what+motivates+us)_ by Daniel H. Pink. Studies where ideas like carrots and sticks come from and why it might be time to think beyond them.
+- _[Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn](https://www.google.com/search?q=training+from+the+back+of+the+room)_ by Sharon Bowman. A couple of key takeaways were not to speak for more than 10 minutes and enabling learners to learn from one another. 
 
 #### Software engineering
-- Agile Technical Practices Distilled by Consolaro and Santos. My go-to book for learning SE techniques like TDD, Refactoring, Code Smells, SOLID and Object Calisthenics. It is concise and includes exercises (katas). A lot of the content for [Software Crafters](https://software-crafters-karachi.github.io/past-meetups.html) meet-ups is borrowed from here.
-- The Pragmatic Programmer by Andy Hunt and Dave Thomas. One of the first tech books I read. Filled with many memorable anecdotes like the stone soup and broken windows.
+- _[Agile Technical Practices Distilled](https://www.google.com/search?q=agile+technical+practices+distilled)_ by Marco Consolaro and Pedro M. Santos. My go-to book for learning SE techniques like TDD, Refactoring, Code Smells, SOLID and Object Calisthenics. It is concise and includes exercises (katas). A lot of the content for [Software Crafters](https://software-crafters-karachi.github.io/past-meetups.html) meet-ups is borrowed from here.
+- _[The Pragmatic Programmer](https://www.google.com/search?q=the+pragmatic+programmer)_ by Andy Hunt and Dave Thomas. One of the first tech books I read. Filled with many memorable anecdotes like the stone soup and broken windows.
 - Clean Code by Robert C. Martin. A must-read if you are writing code.
 - Refactoring by Martin Fowler. A key skill for software developers. I learnt many new techniques and names for a few I was already using.
 - Working Effectively with Legacy Code by Michael Feathers. Defines what is _Legacy Code_ and strategies to go about tackling it. I'd recommend reading at least the first few chapters, and referencing the rest when required.
@@ -53,7 +53,7 @@ For the lack of a better idea, the title links point to Google.
 - Dynamic Reteaming: The Art and Wisdom of Changing Teams by Heidi Helfand
 - Mythical Man Month by Fred Brooks
 - Team Topologies by Manuel Pais and Matthew Skelton
-- The DevOps Handbook by Gene Kim, Jez Humble, Debois, and Willis
+- The DevOps Handbook by Gene Kim, Jez Humble, Debois, and Willis. Describes the idea and principles behind DevOps. A good accompaniment to _The Phoenix Project_. I particularly like the first few chapters which discuss value stream mapping and the Three Ways -- Flow, Feedback and Continuous Learning.
 
 #### Extreme programming
 - Clean Agile by Robert C. Martin. I read this as a refresher for _Agile_. Includes the story of signing of the Agile Manifesto at the Snowbird resort in Utah.
