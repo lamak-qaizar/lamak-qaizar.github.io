@@ -3,20 +3,20 @@ layout: post
 title:  "My library"
 tags: reading
 ---
-I recently wrote about how I (belatedly) [started reading books](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html).
-This is the list of books that I have read since and would pass on as recommendations.
-Recommendations is the means by which I have come across most books myself.
-I am in gratitude to everyone who has recommended me something to read.
+This is a list of books I have read in the first decade of my professional career.
+I [started quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)
+so most if not all were read in the latter half of it.
+Those included here I would pass on as recommendations,
+the means by which I have come across most books myself.
+I am in gratitude to everyone who has recommended something to read.
 
 The other means by which I have come across books is the trail 
-of references each book leaves behind.
-If I liked a book, I have found to usually like the titles it references.
+of references each completed book leaves behind.
+If I liked a book, I have found to usually enjoy the titles it references.
 If you are not a regular reader (like myself a few years ago),
 finding one book that resonates with you may lead you to another,
 then another, then another, and so on.
-It won't be long after that one book that you might find yourself reading regularly.
-
-For the lack of a better idea, the title links point to Google.
+It won't be long after that first book that you might find yourself reading regularly.
 
 #### Organisational strategy
 - The _[Good to Great](https://www.google.com/search?q=good+to+great+by+jim+collins)_ series. Jim Collins studies why some companies outperform the market, last decades, span multiple CEOs, get through recessions, while others don't. I'd recommend reading _Good to Great_ at the very least. The other titles in the series are superb too but after the second or third book you may start seeing some repeating ideas.
@@ -57,8 +57,8 @@ For the lack of a better idea, the title links point to Google.
 
 #### Extreme programming
 - _[Clean Agile](https://www.google.com/search?q=clean+agile)_ by Robert C. Martin. I read this as a refresher for _Agile_. Includes the story of signing of the Agile Manifesto at the Snowbird resort in Utah.
-- _[Extreme Programming Explained](https://www.google.com/search?q=extreme+programming+explained)_ by Kent Beck. The original work on XP published in 1999.
 - _[The Art of Agile Development](https://www.google.com/search?q=the+art+of+agile+development)_ by James Shore. I'd recommend reading this if you want to implement XP in a team. James suggests implementing all the XP rules and practices in concert for a sustained period before going on to adapt them for your circumstances.
+- _[Extreme Programming Explained](https://www.google.com/search?q=extreme+programming+explained)_ by Kent Beck. The original work on XP published in 1999.
 
 #### Lean
 - _[The Goal](https://www.google.com/search?q=the+goal+by+eliyahu+goldratt)_ by Eliyahu Goldratt. Tells the fictional story of a manager who has three months to turn around his flailing factory or get shut down. Brilliant book and a great way to learn about _The Theory of Constraints_.  
