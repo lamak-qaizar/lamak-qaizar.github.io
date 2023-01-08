@@ -4,7 +4,7 @@ title:  "My library"
 tags: reading
 ---
 This is a list of books I have read in the first decade of my professional career.
-[Istarted quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)
+[I started quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)
 so most if not all were read in the latter half.
 Those included here I would pass on as recommendations,
 the means by which I have come across most books myself.
@@ -49,7 +49,7 @@ It won't be long after that first book that you might find yourself reading regu
 ### Engineering strategy
 - **[Peopleware](https://www.google.com/search?q=peopleware+by+tom+demarco)** by Timothy Lister and Tom DeMarco. The premise is that the success of software projects depends more on sociological than technical factors. A couple of my favourite chapters are _Teamicide_ and _Competition_. I find myself referring to a lot of other parts of the book as well. 
 - **[Accelerate: The Science of Lean Software and DevOps](https://www.google.com/search?q=accelerate+the+science+of+lean+software+and+devops)** by Jez Humble and Nicole Forsgren. A compilation of years of research on what makes high performing teams. It discusses everything from architecture and technical practices to leadership styles and culture. One of my favourite chapters is _Chapter 2: Measuring Performance_ which makes the argument against using story points and velocity to measure performance and proposes alternatives.
-- **[The Phoenix Project](https://www.google.com/search?q=the+phoenix+project)** by Gene Kim, Spafford, and Behr. A modern rendition of _The Goal_: a manager in an IT company has three months to turn things around or get shut down. 
+- **[The Phoenix Project](https://www.google.com/search?q=the+phoenix+project)** by Gene Kim, Spafford, and Behr. A modern rendition of _The Goal_: a manager in an IT company has three months to turn things around or get shut down.
 - **[The Manager's Path](https://www.google.com/search?q=the+managers+path)** by Camille Fournier. Describes roles and challenges from being a mentee to a CTO and everything in between. The book was consolation for me when I first stepped into an engineering manager role. I realized what I was going through many others have gone through before.
 - **[Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent](https://www.google.com/search?q=smart+and+gets+things+done+by+joel+spolsky)** by Joel Spolsky. Joel is the creator of Stack Overflow and Trello. Great read if you are hiring.
 - **[Fearless Change](https://www.google.com/search?q=fearless+change)** by Linda Rising and Mary Lynn Manns. Discusses why change is hard and describes patterns for introducing change.
@@ -62,12 +62,12 @@ It won't be long after that first book that you might find yourself reading regu
 
 ### Lean
 - **[The Goal](https://www.google.com/search?q=the+goal+by+eliyahu+goldratt)** by Eliyahu Goldratt. Tells the fictional story of a manager who has three months to turn around his flailing factory or get shut down. Brilliant book and a great way to learn about _The Theory of Constraints_.  
-- **[Toyota Kata](https://www.google.com/search?q=toyota+kata+by+mike+rother)** by Mike Rother. How Toyota built a systematic process for continuously learning and improving.
+- **[Toyota Kata](https://www.google.com/search?q=toyota+kata+by+mike+rother)** by Mike Rother. How Toyota built a continuously learning and improving organisation.
 - **[Toyota Production System](https://www.google.com/search?q=toyota+production+system+by+taiichi+ohno)** by Taiichi Ohno. Taiichi, a manager at Toyota, is considered the father of TPS. This is the story of lean manufacturing in his words.
 - **[Principles of Product Development Flow](https://www.google.com/search?q=principles+of+product+development+flow)** by Donald Reinertsen. Slightly advanced reading, but highly recommended. It builds on top of lean manufacturing (maybe study lean theory first) with ideas from economics, telecommunication, queueing theory and military science. I am reading it for the second time at the time of writing.
 
 ### Philosophy
-- **[Meditations](https://www.google.com/search?q=meditations+by+marcus+aurelius)** by Marcus Aurelius. The personal diary of a Roman Emperor where he penned thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
+- **[Meditations](https://www.google.com/search?q=meditations+by+marcus+aurelius)** by Marcus Aurelius. The personal diary of a Roman Emperor containing his thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
 - **[Ego is the Enemy](https://www.google.com/search?q=ego+is+the+enemy)**, **[Obstacle is the Way](https://www.google.com/search?q=obstacle+is+the+way)**, **[Stillness is the Key](https://www.google.com/search?q=stillness+is+the+key)** by Ryan Holiday. Other titles by Ryan Holiday may be worth reading too.
 - **[The Daily Stoic](https://www.google.com/search?q=the+daily+stoic)** by Ryan Holiday. A short passage for every day of the year. I read it with several colleagues at work.
 
