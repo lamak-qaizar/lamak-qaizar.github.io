@@ -56,22 +56,22 @@ For the lack of a better idea, the title links point to Google.
 - _[The DevOps Handbook](https://www.google.com/search?q=the+devops+handbook)_ by Gene Kim, Jez Humble, Debois, and Willis. Describes the idea and principles behind DevOps. A good accompaniment to _The Phoenix Project_. I particularly like the first few chapters which discuss value stream mapping and the Three Ways -- Flow, Feedback and Continuous Learning.
 
 #### Extreme programming
-- Clean Agile by Robert C. Martin. I read this as a refresher for _Agile_. Includes the story of signing of the Agile Manifesto at the Snowbird resort in Utah.
-- Extreme Programming Explained by Kent Beck. The original work on XP published in 1999.
-- The Art of Agile Development by James Shore. I'd recommend reading this if you want to implement XP in a team. James suggests implementing all the XP rules and practices in concert for a sustained period before going on to adapt them for your circumstances.
+- _[Clean Agile](https://www.google.com/search?q=clean+agile)_ by Robert C. Martin. I read this as a refresher for _Agile_. Includes the story of signing of the Agile Manifesto at the Snowbird resort in Utah.
+- _[Extreme Programming Explained](https://www.google.com/search?q=extreme+programming+explained)_ by Kent Beck. The original work on XP published in 1999.
+- _[The Art of Agile Development](https://www.google.com/search?q=the+art+of+agile+development)_ by James Shore. I'd recommend reading this if you want to implement XP in a team. James suggests implementing all the XP rules and practices in concert for a sustained period before going on to adapt them for your circumstances.
 
 #### Lean
-- The Goal by Eliyahu Goldratt. Tells the fictional story of a manager who has three months to turn around his flailing factory or get shut down. Brilliant book and a great way to learn about _The Theory of Constraints_.  
-- Toyota Kata by Mike Rother. How Toyota built a systematic process for continuously learning and improving.
-- Principles of Product Development Flow by Donald Reinertsen. Slightly advanced reading, but highly recommended. It builds on top of lean manufacturing (maybe study lean theory first) with ideas from economics, telecommunication, queueing theory and military science. I am reading it for the second time at the time of writing.
-- Toyota Production System by Taiichi Ohno. Taiichi, a manager at Toyota, is considered the father of TPS. This is the story of lean manufacturing in his words.
+- _[The Goal](https://www.google.com/search?q=the+goal+by+eliyahu+goldratt)_ by Eliyahu Goldratt. Tells the fictional story of a manager who has three months to turn around his flailing factory or get shut down. Brilliant book and a great way to learn about _The Theory of Constraints_.  
+- _[Toyota Kata](https://www.google.com/search?q=toyota+kata+by+mike+rother)_ by Mike Rother. How Toyota built a systematic process for continuously learning and improving.
+- _[Principles of Product Development Flow](https://www.google.com/search?q=principles+of+product+development+flow)_ by Donald Reinertsen. Slightly advanced reading, but highly recommended. It builds on top of lean manufacturing (maybe study lean theory first) with ideas from economics, telecommunication, queueing theory and military science. I am reading it for the second time at the time of writing.
+- _[Toyota Production System](https://www.google.com/search?q=toyota+production+system+by+taiichi+ohno)_ by Taiichi Ohno. Taiichi, a manager at Toyota, is considered the father of TPS. This is the story of lean manufacturing in his words.
 
 #### Philosophy
-- Meditations by Marcus Aurelius. The personal diary of a Roman Emperor where he penned thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
-- Ego is the Enemy, Obstacle is the Way, Stillness is the Key by Ryan Holiday. Other titles by Ryan Holiday may be worth reading too.
-- The Daily Stoic by Ryan Holiday. A short passage for every day of the year. I read it with several colleagues at work.
+- _[Meditations](https://www.google.com/search?q=meditations+by+marcus+aurelius)_ by Marcus Aurelius. The personal diary of a Roman Emperor where he penned thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
+- _[Ego is the Enemy](https://www.google.com/search?q=ego+is+the+enemy)_, _[Obstacle is the Way](https://www.google.com/search?q=obstacle+is+the+way)_, _[Stillness is the Key](https://www.google.com/search?q=stillness+is+the+key)_ by Ryan Holiday. Other titles by Ryan Holiday may be worth reading too.
+- _[The Daily Stoic](https://www.google.com/search?q=the+daily+stoic)_ by Ryan Holiday. A short passage for every day of the year. I read it with several colleagues at work.
 
 #### Miscellaneous
 Not sure where these titles fall, so adding them here for now.
 
-- Outliers by Malcolm Gladwell. A study of how our circumstances influence what we achieve in life. Helped me understand my own journey.
+- _[Outliers](https://www.google.com/search?q=outliers+by+malcolm+gladwell)_ by Malcolm Gladwell. A study of how our circumstances influence what we achieve in life. Helped me understand my own journey.
