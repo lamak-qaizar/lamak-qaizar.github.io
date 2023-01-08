@@ -4,17 +4,17 @@ title:  "My library"
 tags: reading
 ---
 This is a list of books I have read in the first decade of my professional career.
-I [started quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)
-so most if not all were read in the latter half of it.
+[Istarted quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)
+so most if not all were read in the latter half.
 Those included here I would pass on as recommendations,
 the means by which I have come across most books myself.
-I am in gratitude to everyone who has recommended something to read.
+I am in gratitude to everyone who has shared something to read.
 
 The other means by which I have come across books is the trail 
 of references each completed book leaves behind.
-If I liked a book, I have found to usually enjoy the titles it references.
+If I like a book, I have found to usually enjoy the titles it references.
 If you are not a regular reader (like myself a few years ago),
-finding one book that resonates with you may lead you to another,
+finding _one_ book that resonates with you may lead you to another,
 then another, then another, and so on.
 It won't be long after that first book that you might find yourself reading regularly.
 
@@ -57,14 +57,14 @@ It won't be long after that first book that you might find yourself reading regu
 - _[Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.google.com/search?q=managing+humans+by+rands)_ by Rands. Lessons from Michael Lopp, a.k.a. Rands, an engineering leader who has served Palantir, Apple, Pinterest and Slack. Quite an enjoyable read as the title suggests.
 - _[Dynamic Reteaming: The Art and Wisdom of Changing Teams](https://www.google.com/search?q=dynamic+reteaming)_ by Heidi Helfand. Patterns for making and breaking teams.
 - _[Team Topologies](https://www.google.com/search?q=team+topologies)_ by Manuel Pais and Matthew Skelton. Describes how to organise teams for fast delivery of software.
-- _[Mythical Man Month](https://www.google.com/search?q=mythical+man+month)_ by Fred Brooks. Written in 1975, the book is themed around Brooks Law, that adding people to a late software project only makes it later.
+- _[Mythical Man Month](https://www.google.com/search?q=mythical+man+month)_ by Fred Brooks. Brooks said in 1975 that adding people to a late software project only makes it later. Sadly he passed away recently (in 2022).
 - _[The DevOps Handbook](https://www.google.com/search?q=the+devops+handbook)_ by Gene Kim, Jez Humble, Debois, and Willis. Describes the idea and principles behind DevOps. A good accompaniment to _The Phoenix Project_. I particularly like the first few chapters which discuss value stream mapping and the Three Ways -- Flow, Feedback and Continuous Learning.
 
 ### Lean
 - _[The Goal](https://www.google.com/search?q=the+goal+by+eliyahu+goldratt)_ by Eliyahu Goldratt. Tells the fictional story of a manager who has three months to turn around his flailing factory or get shut down. Brilliant book and a great way to learn about _The Theory of Constraints_.  
 - _[Toyota Kata](https://www.google.com/search?q=toyota+kata+by+mike+rother)_ by Mike Rother. How Toyota built a systematic process for continuously learning and improving.
-- _[Principles of Product Development Flow](https://www.google.com/search?q=principles+of+product+development+flow)_ by Donald Reinertsen. Slightly advanced reading, but highly recommended. It builds on top of lean manufacturing (maybe study lean theory first) with ideas from economics, telecommunication, queueing theory and military science. I am reading it for the second time at the time of writing.
 - _[Toyota Production System](https://www.google.com/search?q=toyota+production+system+by+taiichi+ohno)_ by Taiichi Ohno. Taiichi, a manager at Toyota, is considered the father of TPS. This is the story of lean manufacturing in his words.
+- _[Principles of Product Development Flow](https://www.google.com/search?q=principles+of+product+development+flow)_ by Donald Reinertsen. Slightly advanced reading, but highly recommended. It builds on top of lean manufacturing (maybe study lean theory first) with ideas from economics, telecommunication, queueing theory and military science. I am reading it for the second time at the time of writing.
 
 ### Philosophy
 - _[Meditations](https://www.google.com/search?q=meditations+by+marcus+aurelius)_ by Marcus Aurelius. The personal diary of a Roman Emperor where he penned thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
@@ -75,3 +75,8 @@ It won't be long after that first book that you might find yourself reading regu
 Not sure where these titles fall, so adding them here for now.
 
 - _[Outliers](https://www.google.com/search?q=outliers+by+malcolm+gladwell)_ by Malcolm Gladwell. A study of how our circumstances influence what we achieve in life. Helped me understand my own journey.
+
+---
+
+If you would like to recommend something to read based on the list above,
+please reach out to me or drop a message below.
