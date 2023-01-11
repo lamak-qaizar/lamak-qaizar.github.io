@@ -80,7 +80,7 @@ It won't be long after that first book that you might find yourself reading regu
 ### Miscellaneous
 Not sure where these titles fall, so adding them here for now.
 
-- **[Outliers](https://www.google.com/search?q=outliers+by+malcolm+gladwell)** by Malcolm Gladwell. A study of how our circumstances influence what we achieve in life. Helped me understand my own journey.
+- **[Outliers](https://www.google.com/search?q=outliers+by+malcolm+gladwell)** by Malcolm Gladwell. A study of how our circumstances shape us. Helped me reflect my own journey.
 
 ---
 
