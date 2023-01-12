@@ -74,7 +74,7 @@ It won't be long after that first book that you might find yourself reading regu
 
 ### Philosophy
 - **[Meditations](https://www.google.com/search?q=meditations+by+marcus+aurelius)** by Marcus Aurelius. The personal diary of a Roman Emperor containing his thoughts on how to live a good life. It is one of the [passages](https://lamak-qaizar.github.io/2022/11/03/when-you-wake-up-in-the-morning.html) from this book that got me studying the stoic school of philosophy.
-- **[Ego is the Enemy](https://www.google.com/search?q=ego+is+the+enemy)**, **[Obstacle is the Way](https://www.google.com/search?q=obstacle+is+the+way)**, **[Stillness is the Key](https://www.google.com/search?q=stillness+is+the+key)** by Ryan Holiday. Other titles by Ryan Holiday may be worth reading too.
+- **[Ego is the Enemy](https://www.google.com/search?q=ego+is+the+enemy)**, **[Obstacle is the Way](https://www.google.com/search?q=obstacle+is+the+way)**, **[Stillness is the Key](https://www.google.com/search?q=stillness+is+the+key)** by Ryan Holiday. Holiday rekindles the wisdom of philosophers of old by presenting their work in an easy-to-read and relatable form for modern readers.
 - **[The Daily Stoic](https://www.google.com/search?q=the+daily+stoic)** by Ryan Holiday. A short passage for every day of the year. I read it with several colleagues at work.
 
 ### Miscellaneous
