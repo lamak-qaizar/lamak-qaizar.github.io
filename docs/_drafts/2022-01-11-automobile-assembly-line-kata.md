@@ -21,9 +21,8 @@ For my workshop, I used [Bricks and Wheels 11014](https://www.google.com/search?
 - At the end of the line, a QA checks that the vehicles are according to spec. If there is a defect, the automobile is sent back to the line. The QA returns the automobile to the station they believe produced the defect. The automobile then passes through the line as per normal operation before returning again to the QA.
 - The QA tracks time of completion and # of defects for each automobile and writes them on a whiteboard.
 
-Following are the constraints in each shift:
-
 #### Shift 1
+Constraints:
 - Stations cannot talk to each other.
 - Each station must build on top of what they receive. They cannot deconstruct. 
 - Specs are released as a big batch (4 specs) at the start of the shift.
@@ -34,11 +33,13 @@ Possible discussion points after shift 1:
 - What will be the impact of 1 WIP on quality and throughput?
 
 #### Shift 2
+Constraints:
 - Same rules as Shift 1 except specs are released one at a time (WIP of 1). The next spec is released when QA gives "OK" to the last automobile.
 
 At the end of the shift, participants perform a Gemba to come up with constraints for shift 3. WIP of 1 is carried through because in shift 2 it is likely to have improved quality and throughput.
 
 #### Shift 3
+Constraints:
 - Participants discuss and come up with their own constraints.
 
 Possible discussion points after shift 3:
@@ -46,7 +47,6 @@ Possible discussion points after shift 3:
 - Mapping the 7 wastes of manufacturing to software engineering
 
 ### Facilitation
-
 Guidance for the discussion points listed above. Suggestions are provided based on my experiences conducting the workshop.
 
 #### What wastes did you identify?
@@ -80,3 +80,5 @@ We can then ask the participants "why" a conventional manager may have acted in 
 
 #### Mapping the 7 wastes of manufacturing to software engineering
 This mapping exists in [Lean Software Development: An Agile Toolkit](https://www.google.com/search?q=Lean+Software+Development%3A+An+Agile+Toolkit) by Mary and Tom Poppendieck and can be presented from there.
+
+<center><img src="/assets/images/seven-wastes-of-manufacturing-mapping.png" width="500" alt="Start refactoring from the deepest branch"></center>
