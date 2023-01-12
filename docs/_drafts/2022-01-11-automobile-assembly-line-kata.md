@@ -3,7 +3,7 @@ layout: post
 title:  "Automobile assembly line kata"
 tags: lean kata
 ---
-A practical workshop to learn about lean principles.
+This is the blueprint for practical workshop to learn about lean principles.
 We run a simulation of an automobile assembly line using LEGO blocks.
 If LEGO blocks are not available, the ideas of the workshop
 can be adapted to another form of assembly using other material.
@@ -82,3 +82,85 @@ We can then ask the participants "why" a conventional manager may have acted in 
 This mapping exists in [Lean Software Development: An Agile Toolkit](https://www.google.com/search?q=Lean+Software+Development%3A+An+Agile+Toolkit) by Mary and Tom Poppendieck and can be presented from there.
 
 <center><img src="/assets/images/seven-wastes-of-manufacturing-mapping.png" width="500" alt="Start refactoring from the deepest branch"></center>
+
+### Specifications
+
+Where color is not specified, any color can be used. Specs 1 - 4 are released as a big batch in shift 1. Shift 2 continues on from spec #5, and shift 3 continues from where shift lets off.
+
+#1 Police car
+- Red wheels
+- Base
+- Black body and bonnet
+- Blue tinted windshield (front and rear)
+- Red & blue police lights on top
+
+#2 School bus
+- Small wheels
+- Base
+- Yellow body
+- Big windshield
+- 4 black side windows
+- Front red lights
+
+#3 Tractor
+- Small front wheels
+- Big back wheels
+- Base
+- Red body
+- Red front fender
+- Big windshield
+
+#4 Sedan
+- Small wheels
+- Base
+- Blue body
+- Front and back fender
+- Front windshield
+- Front lights
+
+#5 Monster truck
+- Big wheels
+- Base
+- White & blue body
+- Steering wheel
+- Small windshield
+- Eyes up front
+
+#6 Hearts car
+- Small wheels
+- Base
+- White & pink body and bonnet
+- Windshield
+- Embellished with hearts
+- Purple back spoiler
+
+#7 Yellow sports car
+- Small wheels
+- Base
+- Yellow body and bonnet
+- Yellow fenders (front and back)
+- Small windshield
+- Yellow back spoiler
+
+#8 Black cab
+- Small wheels
+- Base
+- Black body and bonnet
+- Front windshield
+- Single red light on top
+
+#9 Earth car
+- Small wheels without rubber
+- Base
+- Green and blue body
+- Green bonnet
+- Windshield
+- Eyes up front
+
+#10 Pickup truck
+- Wheels
+- Base
+- Red body
+- Windshield
+- Steering wheel
+- 2 x gears
