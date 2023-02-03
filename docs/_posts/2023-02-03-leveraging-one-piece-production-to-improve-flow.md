@@ -7,7 +7,7 @@ tags: lean
 
 In software development, one-piece production, or a work-in-progress (WIP) of one, can be achieved by working together (mob programming) on a feature or story, instead of assigning distinct tasks to individuals within a team.
 
-Numerous benefits of one-piece production can be experienced out of the box. To take an example: we might see improved quality since code is reviewed continuously and ideas from team members are integrated on the fly. This has knock-on effects: fewer bugs are produced and there is less rework. With less rework, the team can focus on value-added tasks, such as incorporating feedback from customers to make the product even better. Better products create profit.
+Numerous benefits of one-piece production are usually experienced out of the box. To take an example: we might see improved quality since code is reviewed continuously and ideas from team members are integrated on the fly. This has knock-on effects: fewer bugs are produced and there is less rework. With less rework, the team can focus on value-added tasks, such as incorporating feedback from customers to make the product even better. Better products create profit.
 
 The real benefit of one-piece production however lies in its ability to the expose problems and obstacles that impede flow. The idea is described in Taiichi Ohno’s _Toyota Production System_ as:
 
