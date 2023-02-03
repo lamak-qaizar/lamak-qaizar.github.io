@@ -11,11 +11,13 @@ Numerous benefits of one-piece production are usually experienced out of the box
 
 The real benefit of one-piece production however lies in its ability to the expose problems and obstacles that impede flow. The idea is described in Taiichi Ohno’s _Toyota Production System_ as:
 
-> Lowering water level in a river to be able to see the rocks
+> Lowering water level in a river to be able to see the rocks.
 
 Once we can see the rocks, we can chip away at them to improve flow.
 
-Whenever an obstacle arises during a one-piece production workflow, it stops or slow down the entire production. The way forward then is to correct the problem and improve the system. A system in such a state over an extended period of time can be said to be "Continuously Improving".
+In a single-piece flow, obstacles slow down the entire production since there is only ever one thread of work that is active. To improve flow, the obstacle must be removed. If a more severe obstacle arises, it can shut down production entirely. This may seem scary, but that is the intended effect: the only way forward to correct the problem and improve the system.
+
+A system in such a state over an extended period of time can be said to be "Continuously Improving".
 
 The contrary of a system that is continuously improving is one that attempts to make progress by starting multiple work in parallel. Progress is only illusory, as all the activity is really constant firefighting to untangle all the threads that have been started in parallel e.g. code that is waiting to be reviewed, merge conflicts need to be resolved, components that have been developed in parallel but now require rework since they don’t integrate as expected. The real problems that caused work to start work in parallel in the first place go unresolved and the system falls into a non-improving cycle.
 
