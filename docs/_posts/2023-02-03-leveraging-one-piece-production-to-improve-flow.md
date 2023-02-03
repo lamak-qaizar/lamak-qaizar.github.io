@@ -15,7 +15,7 @@ The real benefit of one-piece production however lies in its ability to the expo
 
 Once we can see the rocks, we can chip away at them to improve flow.
 
-In a single-piece flow, obstacles slow down the entire production since there is only ever one thread of work that is active. To improve flow, the obstacle must be removed. If a more severe obstacle arises, it can shut down production entirely. This may seem scary, but that is the intended effect: the only way forward to correct the problem and improve the system.
+In a one-piece flow, obstacles slow down the entire production since there is only ever one thread of work that is active. To improve flow the obstacle must be removed. If a more severe obstacle arises it can shut down production entirely. This may seem scary, but that is the intended effect: the only way forward to correct the problem and improve the system.
 
 A system in such a state over an extended period of time can be said to be "Continuously Improving".
 
