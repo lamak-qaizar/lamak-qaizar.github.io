@@ -11,7 +11,7 @@ Numerous benefits of 1x1 production are usually experienced out of the box. To t
 
 ### Seeing the rocks
 
-The real power of 1x1 production however lies in its ability to the expose problems and obstacles that impede the flow of work. The idea is described in Taiichi Ohno’s _Toyota Production System_ as:
+The real power of 1x1 production however lies in its ability to expose problems that impede the flow of work. The idea is described in Taiichi Ohno’s _Toyota Production System_ as:
 
 > Lowering water level in a river to be able to see the rocks.
 
