@@ -9,6 +9,8 @@ In software development, 1x1 production, or a work-in-progress (WIP) of one, can
 
 Numerous benefits of 1x1 production are usually experienced out of the box. To take an example, we might see improved quality since code is reviewed continuously and ideas from team members are integrated on the fly. This has knock-on effects: fewer bugs are produced and there is less rework. With less rework, the team can focus on value-added tasks, such as incorporating feedback from customers to make the product even better. Better products create profit.
 
+#### Seeing the rocks
+
 The real power of 1x1 production however lies in its ability to the expose problems and obstacles that impede the flow of work. The idea is described in Taiichi Ohno’s _Toyota Production System_ as:
 
 > Lowering water level in a river to be able to see the rocks.
