@@ -23,4 +23,4 @@ A system in such a state over an extended period of time can be said to be "Cont
 
 The contrary of a system that is continuously improving is one that attempts to make progress by starting multiple tasks in parallel. Progress is only illusory as the work done is merely firefighting to untangle the simultaneous threads of work e.g. code waiting to be reviewed, merge conflicts to be resolved, components developed in parallel that require rework since they don’t integrate as expected. In all this noise, the real problems go undetected and unresolved.
 
-According to Mike Rother, such workarounds reveal a "make production" rather than an improvement mindset. The natural reaction of such a system when work gets blocked is to start even more work in parallel, throwing the system into non-improving spiral.
+According to Mike Rother, such workarounds reveal a "make production" rather than an improvement mindset. The natural reaction of such a system when work gets blocked is to start more work in parallel, throwing the system into non-improving spiral.
