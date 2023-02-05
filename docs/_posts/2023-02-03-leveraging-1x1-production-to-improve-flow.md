@@ -3,7 +3,7 @@ layout: post
 title:  "Leveraging 1x1 production to improve flow"
 tags: lean
 ---
-> What is 1x1 production? In its ideal, 1x1 production means that parts move from one value-adding processing step directly to the next value-adding processing step, and then to the customer, without any waiting time or batching between those steps. — Toyota Kata, Mike Rother
+> In its ideal, 1x1 production means that parts move from one value-adding processing step directly to the next value-adding processing step, and then to the customer, without any waiting time or batching between those steps. — Toyota Kata, Mike Rother
 
 In software development, 1x1 production, or a work-in-progress (WIP) of one, can be achieved by working together (mob programming) on a feature or story, instead of assigning distinct tasks to individuals within a team.
 
@@ -17,7 +17,7 @@ The real power of 1x1 production however lies in its ability to expose problems 
 
 Once we can see the rocks, we can chip away at them to improve flow.
 
-In a single-piece flow, obstacles slow down the entire production since there is only ever one thread of work that is active. To improve flow the obstacle must be removed. If a more severe obstacle arises it can shut down production entirely. This may seem scary, but that is the intended effect: the only way forward to correct the problem and improve the system.
+In a single-piece flow, obstacles slow down the entire production since there is only ever one thread of work that is active. To improve flow the obstacle must be removed. If a more severe obstacle arises it can shut down production entirely. This may seem scary, but that is the intended effect: the only way forward is to correct the problem.
 
 A system in such a state over an extended period of time can be said to be "Continuously Improving".
 
