@@ -6,7 +6,7 @@ tags: event-storming
 _Event Storming_ is a technique that uses post-it notes to map out a business domain.
 Alberto Brandolini initially used it as a means to identify aggregates in the context of DDD.
 Unlike other techniques accessible only to specialists (e.g. UML),
-Event Storming is generally accessible. It is an activity performed collectively between business and technical people.
+Event Storming is easy to understand for everyone: the activity is in fact performed collectively between business and technical people.
 This accessibility has seen Event Storming being used beyond its original purpose
 e.g. to discover new avenues for business and onboard colleagues to a team.
 
@@ -14,7 +14,7 @@ Having read about Event Storming for a while, a few colleagues (Shakeel, Ahsan, 
 attempted to get our hands dirty by organising a kata activity at our workplace.
 
 ### Preparation
-1. Formed a small organising team who would also facilitate groups at the event day. None of us had prior Event Storming experience.
+1. The four of us formed a small team to organise and facilitate the session. None of us had prior Event Storming experience.
 2. Read a few facilitation guides through [Google](https://www.google.com/search?q=event+storming+facilitation+guide).
 3. Saw a couple videos each such as a [recorded demo](https://youtu.be/xVSaDdj3PVE) and Alberto's famous "[50,000 Orange Stickies Later](https://youtu.be/1i6QYvYhlYQ)"
 4. Did a trial run amongst ourselves for our own familiarization. The trial run was conducted on Miro as we were distributed across two locations. The actual event was conducted independently, and physically (in person), at each location.
