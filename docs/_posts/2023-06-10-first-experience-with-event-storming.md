@@ -32,7 +32,7 @@ one to do the activity on. The facilitator then guided through the process.
 - Stitching together the work of two subgroups revealed some interesting insights: modules that could be reused, naming that could be made consistent (e.g. one subgroup used "user" while the other "app user")
 - We had a product manager and design expert in the group, however one the engineers acted as the business owner as they had pitched the business idea. This setting also worked well -- we don't necessarily have to make the PM the business owner.
 - We started a little late, but still managed to end on time (retro included) especially since the group had self-organised into 2 subgroups to map out the flow.
-- For retro, we went around the table and asked everyone to share their learnings (sadly I forgot to note them down :see_no_evil:). It went very well, everyone had something unique to say.
+- For retro, we went around the table and asked everyone to share their learnings (sadly I forgot to note them down). It went very well, everyone had something unique to say.
 - The group was mostly functioning on it own, the facilitator just had to explain at each new step what to do (e.g. "start adding the policies, personas etc."). Most of the facilitators time was spent onboarding late joiners (using the handout as well as a 10-minute pitch)
 - Post-its were not sticking to a glass wall, something we should have tested before the session. We ended up using a table for the activity (instead of a wall) and that worked pretty well. Also need to learn how to pull post-it from the stack without bending them.
 - There should be at least 1 marker for each per person and lots of post-its so there isn't a bottleneck on supplies.
