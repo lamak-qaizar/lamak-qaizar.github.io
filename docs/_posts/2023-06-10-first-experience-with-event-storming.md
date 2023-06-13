@@ -32,6 +32,8 @@ one to do the activity on. The facilitator then guided through the process.
 3. Details such as commands, policies and personas are added.
 4. Draw bounded contexts.
 
+<center><img src="/assets/images/event-storming.png" width="500" alt="Start refactoring from the deepest branch"></center>
+
 ### Learnings
 - For the purpose of kata (i.e. learning), a hypothetical problem that everyone understood worked well as it enabled everyone to contribute with events and other details. Example: a P2P Payments App.
 - We started with a group of 5 or 6, but it grew to 10+ as people joined. We split into two subgroups so everyone could contribute. One subgroup worked on the sign-up flow, the other on the payment transfer flow. Later we stitched the two flows together.
