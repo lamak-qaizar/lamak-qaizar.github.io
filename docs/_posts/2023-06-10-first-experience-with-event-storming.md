@@ -10,7 +10,7 @@ Event Storming is easy to understand for everyone: the activity is in fact perfo
 This accessibility has seen Event Storming being used beyond its original purpose
 e.g. to discover new avenues for business and onboard colleagues to a team.
 
-Having read about Event Storming for a while, a few colleagues (Shakeel, Ahsan, Abdullah and me)
+Having read about Event Storming for a while, a few colleagues ([Shakeel](https://www.linkedin.com/in/shakeel-hussain-696464108/), [Ahsan](https://www.linkedin.com/in/ahsannaseem1/), [Abdullah](https://www.linkedin.com/in/abdullah-jaffer-458458129/) and me)
 attempted to get our hands dirty by organising a kata activity at our workplace.
 
 ### Preparation
