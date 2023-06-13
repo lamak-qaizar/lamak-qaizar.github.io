@@ -26,6 +26,12 @@ The activity was scheduled for two hours. Participants organised themselves arou
 and each facilitator led one group. Groups pitched a few topics internally before picking
 one to do the activity on. The facilitator then guided through the process.
 
+#### Event Storming Steps
+1. Everyone independently or in small groups (e.g. pairs) thinks of "Events" that can occur and writes them down on a post-it.
+2. The events are arranged by time and duplicate events are removed.
+3. Details such as commands, policies and personas are added.
+4. Draw bounded contexts.
+
 ### Learnings
 - For the purpose of kata (i.e. learning), a hypothetical problem that everyone understood worked well as it enabled everyone to contribute with events and other details. Example: a P2P Payments App.
 - We started with a group of 5 or 6, but it grew to 10+ as people joined. We split into two subgroups so everyone could contribute. One subgroup worked on the sign-up flow, the other on the payment transfer flow. Later we stitched the two flows together.
