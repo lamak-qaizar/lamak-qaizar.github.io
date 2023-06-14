@@ -20,10 +20,11 @@ Value-stream mapping comprises the following high-level activities.
 A separate value stream should be drawn for each product-family
 (a set of products that have a high number of common processing steps). 
 
-1. Map the current state
-2. Map the future (desired) state
-3. Set goals and execute improvements
-4. Repeat
+1. Pick a value-stream
+2. Map the current state
+3. Map the future (desired) state
+4. Set goals and execute improvements
+5. Repeat steps 2 through 5
 
 Below we'll focus our attention on creating the current state map.
 
