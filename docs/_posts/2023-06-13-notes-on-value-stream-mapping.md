@@ -65,11 +65,11 @@ Once the metrics of each activity are listed, they can be summarized into a tabl
 - Activity ratio (PT/LT)
 - Rolled %C&A (%C&A of each step multiplied together)
 
-### Common problems
+### Opportunities for improvement
 Karen Martin and Mike Osterling describe a set of common problems 
 that current state mapping may reveal. They are listed below.
 
-> - Loop-backs _(sending back work to previous step)_
+> - Loop-backs (sending back work to previous step)
 > - Unnecessary hand-offs
 > - Rework due to errors and lack of clarity
 > - Batching
