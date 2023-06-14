@@ -10,11 +10,11 @@ Value-stream mapping is a technique that helps reveal opportunities for
 improvement in a production system. 
 John Shook and Mike Rother in _Learning to See_ state that most waste-reduction activities
 fall through because they jump the critical step of mapping the 
-end to end value stream first. Although well-intentioned, 
+end to end value stream. Although well-intentioned, 
 the result is that one part of the stream improves only for
-inventory and bottlenecks to emerge in a step downstream.
-Without a holistic, enterprise-wide, view and approach an organisation may fail to achieve
-lasting quality improvements or cost savings.
+wastes and bottlenecks to emerge in a step downstream.
+Without a holistic view and approach, an organisation may fail to achieve
+lasting quality improvements and cost savings.
 
 Value-stream mapping comprises the following high-level activities. 
 A separate value stream should be drawn for each product-family
