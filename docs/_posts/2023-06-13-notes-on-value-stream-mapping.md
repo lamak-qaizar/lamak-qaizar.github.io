@@ -10,7 +10,7 @@ Value-stream mapping is a technique that helps reveal opportunities for
 improvement in a production system. 
 John Shook and Mike Rother in _Learning to See_ state that most waste-reduction activities
 fall through because they jump the critical step of mapping the 
-end to end value stream. Although well-intentioned, 
+end-to-end value stream. Although well-intentioned, 
 the result is that one part of the stream improves only for
 wastes and bottlenecks to emerge in a step downstream.
 Without a holistic view and approach, an organisation may fail to achieve
