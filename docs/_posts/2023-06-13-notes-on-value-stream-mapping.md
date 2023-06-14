@@ -50,9 +50,8 @@ The sequence is not definitive -- it is just a workflow I have in mind as I prep
    - Any additional metrics suitable to the value-stream
    - The barriers to flow (described below)
 
-#### Barriers to flow
 "Flow" is the movement of work from one process to the next without interruption or delay.
-Activities that impede flow include:
+Some examples of activities that impede flow:
 - Batching
 - Shared resources or inaccessible staff
 - Task switching and interruptions
