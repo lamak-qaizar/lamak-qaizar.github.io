@@ -8,7 +8,7 @@ whereas the ice-cream cone is an anti-pattern that
 results in fragile, hard to change, software.
 There are many images and variations of the pyramid and ice-cream cone
 out there -- I find myself referring back to these by James Shore.
-They are from his talk "[Agile without a dedicated QA](https://youtu.be/_Dv4M39Arec)".
+They are from his talk _[Agile without a dedicated QA](https://youtu.be/_Dv4M39Arec)_.
 
 ### The test pyramid
 
