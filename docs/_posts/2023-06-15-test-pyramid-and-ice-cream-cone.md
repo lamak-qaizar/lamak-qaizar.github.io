@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test pyramid and ice-cream cone"
-tags: testing
+tags: quality
 ---
 The test pyramid makes for an effective testing strategy,
 whereas the ice-cream cone is an anti-pattern that 
