@@ -75,7 +75,7 @@ This is an adapted notation that I used on a white-boarding tool.
 
 A sample diagram I drew with a client. Note that the customer request flow should have had a separate lane, but it is drawn in a single lane here.
 
-<center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
+<center><img src="/assets/images/value-stream-mapping-sample.png" width="600" alt="Value-stream mapping sample diagram"></center>
 
 ### Opportunities for improvement
 Karen Martin and Mike Osterling describe a set of common problems 
