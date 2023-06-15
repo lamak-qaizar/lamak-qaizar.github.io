@@ -65,6 +65,18 @@ Once the metrics of each activity are listed, they can be summarized into a tabl
 - Activity ratio (PT/LT)
 - Rolled %C&A (%C&A of each step multiplied together)
 
+### Notation
+
+This is an adapted notation that I used on a white-boarding tool.
+
+<center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
+
+### Sample diagram
+
+A sample diagram I drew with a client. Note that the customer request flow should have had a separate lane, but it is drawn in a single lane here.
+
+<center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
+
 ### Opportunities for improvement
 Karen Martin and Mike Osterling describe a set of common problems 
 that current state mapping may reveal. They are listed below.
