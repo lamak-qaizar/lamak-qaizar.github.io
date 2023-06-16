@@ -33,10 +33,6 @@ When mapping out a value-stream, the focus is on the "what", rather than the "ho
 Karen Martin and Mike Osterling suggest that if map has more than 15 process blocks,
 we should check if we are getting tangled up at the tactical level.
 Tactical or process-level improvements are beyond the scope of value-stream mapping.
- 
-A value-stream map comprises two lanes:
-1. Top lane that flows right to left (<-): Flow of customer request (e.g. initial request, quote, scheduling work)
-2. Bottom lane that flows left to right (->): Flow of work to fulfil the customer request.
 
 A mapping activity can be carried out through the following steps.
 The sequence is not definitive -- it is just a workflow I have in mind as I prepare to do mapping activity.
@@ -71,7 +67,7 @@ This is an adapted notation that I used on a white-boarding tool.
 <center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
 
 ### Example map
-A sample diagram I drew with a client. Note that the customer request flow should have had a separate lane, but it is drawn in a single lane here.
+A sample diagram I drew with a client.
 
 <center><img src="/assets/images/value-stream-mapping-sample.png" width="600" alt="Value-stream mapping sample diagram"></center>
 
