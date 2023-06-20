@@ -19,7 +19,7 @@ Unlike the ice-cream cone, the test pyramid makes for an effective test strategy
 
 <center><img src="/assets/images/james-shore-test-pyramid.png" width="700" alt="Test pyramid"></center>
 
-**What are focused integration tests?**
+##### What are focused integration tests?
 These are integration tests that test just the interface between our code and external systems.
 Since integration tests are generally slow to run, by keeping the integration layer thin
 and the subsequent tests "focused", we can limit the number of integration tests we write
