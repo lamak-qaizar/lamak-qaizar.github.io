@@ -4,17 +4,15 @@ title:  "Notes on Value-Stream Mapping"
 tags: value-stream-mapping lean
 ---
 
-> A value stream is the sequence of activities required to design, produce, and deliver a good or service to a customer, and it includes the dual flows of information and material. -- Value Stream Mapping by Karen Martin and Mike Osterling
+> A value stream is the sequence of activities required to design, produce, and deliver a good or service to a customer. -- Value Stream Mapping by Karen Martin and Mike Osterling
 
-Value-stream mapping is a technique that helps reveal opportunities for
-improvement in a production system. 
+Value-stream mapping is a technique that takes a holistic view of a 
+value-producing system in order to reveal opportunities for improvement. 
 John Shook and Mike Rother in _Learning to See_ state that most waste-reduction activities
-fall through because they jump the critical step of mapping the 
-end-to-end value stream. Although well-intentioned, 
-the result is that one part of the stream improves only for
+fall through because they fail to see the whole, i.e. they skip the critical 
+step of mapping the end-to-end value stream. 
+The result is that one part of the system improves only for
 wastes and bottlenecks to emerge in a step downstream.
-Without a holistic view and approach, an organisation may fail to achieve
-lasting quality improvements and cost savings.
 
 Value-stream mapping comprises the following high-level activities. 
 A separate value stream should be drawn for each product-family
@@ -48,11 +46,14 @@ The sequence is not definitive -- it is just a workflow I have in mind as I prep
    - The barriers to flow (described below)
 
 "Flow" is the movement of work from one process to the next without interruption or delay.
-Some examples of activities that impede flow:
-- Batching
-- Shared resources or inaccessible staff
-- Task switching and interruptions
-- Defects and rework
+Following are some activities to look out for while listing barriers to flow:
+- Non-value adding activities
+- Back-flow due to defects
+- Waiting
+- Inventory
+- Hand-offs
+- Inspection
+- Work that could be standardised or automated
 
 ### Summary metrics
 Once the metrics of each activity are listed, they can be summarized into a table consisting of:
@@ -62,7 +63,7 @@ Once the metrics of each activity are listed, they can be summarized into a tabl
 - Rolled %C&A (%C&A of each step multiplied together)
 
 ### Notation
-This is an adapted notation that I used on a white-boarding tool.
+This is an adapted notation that I used on an online white-boarding tool.
 
 <center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
 
