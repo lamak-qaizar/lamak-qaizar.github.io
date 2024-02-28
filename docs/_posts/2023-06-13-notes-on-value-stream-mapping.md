@@ -49,6 +49,10 @@ Barriers to flow include:
 
 A more detailed list by Karen Martin and Mike Osterling is shared towards the end of the article.
 
+A handout PDF that I used for a mapping activity can be found [here](/assets/pdf/Value_Stream_Mapping_Handout.pdf).
+
+The  can be found here.
+
 ### Summary metrics
 Once the metrics of each activity are listed, they can be summarized into a table consisting of:
 - Total process time (PT)
