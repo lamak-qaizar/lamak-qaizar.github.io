@@ -51,9 +51,7 @@ A more detailed list by Karen Martin and Mike Osterling is shared towards the en
 
 A handout PDF that I used for a mapping activity can be found [here](/assets/pdf/Value_Stream_Mapping_Handout.pdf).
 
-The  can be found here.
-
-### Summary metrics
+### Summarising the metrics
 Once the metrics of each activity are listed, they can be summarized into a table consisting of:
 - Total process time (PT)
 - Total lead time (LT)
@@ -65,7 +63,7 @@ This is an adapted notation that I used on an online white-boarding tool.
 
 <center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
 
-### Example map
+### Sample map
 A sample diagram I drew with a client with details blurred out.
 
 <center><img src="/assets/images/value-stream-mapping-sample.png" width="600" alt="Value-stream mapping sample diagram"></center>
