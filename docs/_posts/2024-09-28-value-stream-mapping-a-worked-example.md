@@ -50,5 +50,5 @@ Preceding each process, add how much work is in progress as well as how much wor
 
 Note that figures need not be very accurate but only indicative of times in the context of the rest of the stream.
 
-<center><img src="/assets/images/vsm-a-worked-example/5-inventory.jpg" width="600" alt="Add inventory"></center>
+<center><img src="/assets/images/vsm-a-worked-example/6-process-time.jpg" width="600" alt="Add inventory"></center>
 
