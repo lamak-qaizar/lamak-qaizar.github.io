@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Value-Stream Mapping: A worked example"
+title:  "A worked example of a Value-Stream Map"
 tags: value-stream-mapping lean
 ---
-
-*This is a draft*
 
 Value-stream maps can be daunting at first look (have a look at the results of this [Google search](https://www.google.com/search?q=value+stream+map&udm=2) for instance). They don't need to be. Below is a walk-through of drawing a value-stream map. Once the current state map is complete, we draw a future state map to propose improvements.
 
