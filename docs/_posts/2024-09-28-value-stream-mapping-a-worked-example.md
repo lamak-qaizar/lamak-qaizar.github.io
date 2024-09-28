@@ -68,6 +68,26 @@ Map out the tools and systems that each process is dependent on. Feel free to ma
 
 #### 8. Summarise metrics
 
-Create a summary of the metrics listed against each process. "Rolled %C&A" is computed by multiplying all the process-level %C&As.
+Create a summary of the metrics listed against each process
+
+- "Rolled %C&A" is computed by multiplying all the process-level %C&As. Multiplication is indicative of the compounding effect of quality drops through the stream.
+- "Activity ratio" is computed by dividing total process time by total lead time.
 
 <center><img src="/assets/images/vsm-a-worked-example/9-summary-metrics.jpg" width="600" alt="Summary metrics"></center>
+
+#### 9. Create a future state map
+
+We envision a state of our value stream with improved flow which we call the future state. Literature on value-stream mapping generally recommends to do this step a day after creating the current state map.
+
+<center><img src="/assets/images/vsm-a-worked-example/10-future-state.jpg" width="600" alt="Future state map"></center>
+
+#### 10. Break the future state into increments
+
+It is important to note the order of increments in our example. Two increments are proposed:
+
+1. Automating the deployment process
+2. Consolidating the development and review processes into one step (by way of pair-programming)
+
+We automate the deployment process first because inventory that piles up at the deployment stage is larger than the review process. Lead time of deployment is also more than the lead time of review. If we were to improve the review process first, it would only cause more inventory to pile up at the deployment stage. More inventory could lead to larger delays in deployment, make it harder to pinpoint which change caused a deployment to fail and so on.
+
+<center><img src="/assets/images/vsm-a-worked-example/10-future-state-increments.jpg" width="600" alt="Future state with increments"></center>
