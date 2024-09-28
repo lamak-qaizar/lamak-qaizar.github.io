@@ -20,7 +20,7 @@ We start by creating a legend on our map. Symbols can be copied from the legend 
 
 We place a symbol for the entity for whom we are creating value in the center of our map.
 
-<center><img src="/assets/images/vsm-a-worked-example/2-customer.jpg" width="100" alt="Add customer"></center>
+<center><img src="/assets/images/vsm-a-worked-example/2-customer.jpg" width="600" alt="Add customer"></center>
 
 Followed by mapping out each disjoint process that is carried out to fulfill the customers need. We mention the action in the upper half of our post-it and the actor in the bottom half.
 
