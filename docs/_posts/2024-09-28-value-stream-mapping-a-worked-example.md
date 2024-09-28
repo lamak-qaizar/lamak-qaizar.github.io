@@ -50,5 +50,10 @@ Preceding each process, add how much work is in progress as well as how much wor
 
 Note that figures need not be very accurate but only indicative of times in the context of the rest of the stream.
 
-<center><img src="/assets/images/vsm-a-worked-example/6-process-time.jpg" width="600" alt="Add inventory"></center>
+<center><img src="/assets/images/vsm-a-worked-example/6-process-time.jpg" width="600" alt="Add metrics"></center>
 
+#### 6. Add barriers to flow
+
+List down barriers to flow for each process. They indicate why inventory piles up between steps, why process time lags lead time and why defects/rework is reported by the subsequent process.
+
+<center><img src="/assets/images/vsm-a-worked-example/7-barriers.jpg" width="600" alt="Add barriers to flow"></center>
