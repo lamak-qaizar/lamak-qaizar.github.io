@@ -48,6 +48,8 @@ Preceding each process, add how much work is in progress as well as how much wor
 - Lead time is process time plus all the time that work is waiting to be worked on.
 - Percentage complete and accurate (%C&A) is the percentage of times that work is reported as defective by the subsequent process step.
 
+If there are any other metrics important to the value-stream, those can be noted down too.
+
 Note that figures need not be very accurate but only indicative of times in the context of the rest of the stream.
 
 <center><img src="/assets/images/vsm-a-worked-example/6-process-time.jpg" width="600" alt="Add metrics"></center>
@@ -57,3 +59,15 @@ Note that figures need not be very accurate but only indicative of times in the 
 List down barriers to flow for each process. They indicate why inventory piles up between steps, why process time lags lead time and why defects/rework is reported by the subsequent process.
 
 <center><img src="/assets/images/vsm-a-worked-example/7-barriers.jpg" width="600" alt="Add barriers to flow"></center>
+
+#### 7. Add information systems
+
+Map out the tools and systems that each process is dependent on. Feel free to map these out earlier, I am not too particular about when these are mapped out.
+
+<center><img src="/assets/images/vsm-a-worked-example/8-information-systems.jpg" width="600" alt="Add information systems"></center>
+
+#### 8. Summarise metrics
+
+Create a summary of the metrics listed against each process. "Rolled %C&A" is computed by multiplying all the process-level %C&As.
+
+<center><img src="/assets/images/vsm-a-worked-example/9-summary-metrics.jpg" width="600" alt="Summary metrics"></center>
