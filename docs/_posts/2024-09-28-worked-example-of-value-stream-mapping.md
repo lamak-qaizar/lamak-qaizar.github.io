@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A worked example of a Value-Stream Map"
+title:  "Worked example of Value-Stream Mapping"
 tags: value-stream-mapping lean
 ---
 
