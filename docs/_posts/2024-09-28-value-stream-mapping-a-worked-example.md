@@ -36,4 +36,19 @@ All the processes are listed linearly. Note that we focus on the critical sequen
 
 <center><img src="/assets/images/vsm-a-worked-example/4-add-all-processes.jpg" width="600" alt="Add all processes"></center>
 
-https://www.google.com/search?q=value+stream+map&udm=2
+#### 4. Inventory
+
+Preceding each process, add how much work is in progress as well as how much work is waiting to be processed by that step. We call this, all of our unfinished work, our inventory. If it's difficult to come up with a figure, use the inventory at the present moment of mapping.
+
+<center><img src="/assets/images/vsm-a-worked-example/5-inventory.jpg" width="600" alt="Add inventory"></center>
+
+#### 5. Add process metrics
+
+- Process time is also known as "touch time". This is the time that we are actively working on something.
+- Lead time is process time plus all the time that work is waiting to be worked on.
+- Percentage complete and accurate (%C&A) is the percentage of times that work is reported as defective by the subsequent process step.
+
+Note that figures need not be very accurate but only indicative of times in the context of the rest of the stream.
+
+<center><img src="/assets/images/vsm-a-worked-example/5-inventory.jpg" width="600" alt="Add inventory"></center>
+
