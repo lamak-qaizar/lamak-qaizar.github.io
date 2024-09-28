@@ -5,20 +5,24 @@
         {% for page_tag in page.tags %}
             {% if post_tag == page_tag  %}
                 {% assign relevant_posts = relevant_posts | push: post  %}
+                {% break %}
             {% endif %}
         {% endfor %}
     {% endfor %}
 {% endfor %}
-{% if relevant_posts.size > 0 %}
+
+{% assign unique_relevant_posts = relevant_posts | uniq %}
+
+{% if unique_relevant_posts.size > 0 %}
     <br>
     <h2>Relevant</h2>
-    {%- include list-post-previews.html show_excerpts=true posts=relevant_posts -%}
+    {%- include list-post-previews.html show_excerpts=true posts=unique_relevant_posts -%}
 {% endif %}
 
 <br>
 <h2>Recent posts</h2>
 {% assign recent_posts = site.posts | where_exp:"post","page.title != post.title" %}
-{% for relevant_post in relevant_posts %}
+{% for relevant_post in unique_relevant_posts %}
     {% assign recent_posts = recent_posts | where_exp:"post","relevant_post.title != post.title" %}
 {% endfor %}
 {% assign recent_posts = recent_posts | slice:0,3 %}
