@@ -6,7 +6,7 @@ tags: value-stream-mapping lean
 
 Value-stream maps can be daunting at first glance like these maps on [Google Images](https://www.google.com/search?q=value+stream+map&udm=2). ValueTech (a made-up software company for the purpose of our example) thought so too until they created the map below. We'll walk through how they did it: starting with mapping the current state followed by mapping a future-desired state in order to plan out improvements.
 
-We are using Miro to create the map. The notation as well as mapping process is a personal adaptation of what is usually found in value-stream mapping literature. Naturally, don't take the methods described here as prescriptive.
+We are using Miro to create the map. The notation and mapping process are a personal adaptation of what is usually found in books on the topic. Naturally, don't take the methods described here as prescriptive.
 
 ### Mapping the current state
 
@@ -14,7 +14,7 @@ Everyone who participates in software development process at ValueTech as well a
 
 #### 1. Create a legend
 
-Symbols can be copied from the legend as they are needed in subsequent steps.
+The facilitator starts by defining all the symbols that are going to be used while mapping.
 
 <center><img src="/assets/images/vsm-a-worked-example/1-legend.jpg" width="600" alt="Legend"></center>
 
