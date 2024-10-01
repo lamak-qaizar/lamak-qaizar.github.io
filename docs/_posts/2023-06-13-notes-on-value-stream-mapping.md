@@ -6,7 +6,9 @@ tags: value-stream-mapping lean
 
 > A value stream is the sequence of activities required to design, produce, and deliver a good or service to a customer. -- Value Stream Mapping by Karen Martin and Mike Osterling
 
-Value-stream mapping is a technique for identifying and improving quality and throughput of value streams using lean methods.  John Shook and Mike Rother in _Learning to See_ state that most improvement efforts
+Value-stream mapping is a technique for identifying bottlenecks and improving flow using lean methods. Flow is the movement of work through a production system. Improving flow implies reducing the time works spends in queues, bring reworked or other forms of wastes.
+
+John Shook and Mike Rother in _Learning to See_ state that most improvement efforts
 fail because they don't see the whole. The result is that one part of the system improves only for
 wastes and bottlenecks to emerge in other parts of the system. Value-stream mapping helps us take a holistic view of the system before we jump in to make improvements.
 
