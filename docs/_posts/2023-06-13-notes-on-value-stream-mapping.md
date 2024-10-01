@@ -4,16 +4,13 @@ title:  "Notes on Value-Stream Mapping"
 tags: value-stream-mapping lean
 ---
 
-Value-stream mapping is a technique for identifying and improving quality of value streams. What is a value stream?
-
 > A value stream is the sequence of activities required to design, produce, and deliver a good or service to a customer. -- Value Stream Mapping by Karen Martin and Mike Osterling
 
-Value-stream mapping is a whole-team activity. It is about seeing the whole. People from different parts of the organisation who participate in stream processes or have a stake in the stream are all gathered in a single room. 
-
-John Shook and Mike Rother in _Learning to See_ state that most improvement efforts
+Value-stream mapping is a technique for identifying and improving quality and throughput of value streams using lean methods.  John Shook and Mike Rother in _Learning to See_ state that most improvement efforts
 fail because they don't see the whole. The result is that one part of the system improves only for
-wastes and bottlenecks to emerge in other parts of the system.
-Value-stream mapping helps us take a holistic view of the system before we jump in to make improvements.
+wastes and bottlenecks to emerge in other parts of the system. Value-stream mapping helps us take a holistic view of the system before we jump in to make improvements.
+
+To see the whole, value-stream mapping requires whole-team participation i.e. everyone involved in production processes gather together in one room to create the map.
 
 Value-stream mapping comprises the following high-level activities.
 
@@ -24,12 +21,14 @@ Value-stream mapping comprises the following high-level activities.
 5. Repeat steps 2 through 5
 
 Note that a separate value stream should be drawn for each product-family
-(a set of products that have a high number of common processing steps).
+(a set of products that have a high number of common processing steps). It is prudent not to get too bogged down in picking which value-stream to map. More often than not, the improvements that come out of one value-stream map will help improve other product families too.
 
 Below we'll focus our attention on creating the current state map.
 
 ### Creating the current state map
+
 The sequence below is not definitive -- it is just a workflow I have in mind as I prepare to do mapping activity.
+
 1. List out all the activities (processes) and arrange them as a timeline
 2. Add actors involved in each activity
 3. Add a symbol for inventory between processes (where it exists) along with the count of inventory
@@ -43,6 +42,7 @@ The sequence below is not definitive -- it is just a workflow I have in mind as 
 
 "Flow" is the movement of work from one process to the next without interruption or delay.
 Barriers to flow include:
+
 - Non-value adding work
 - Back-flow due to defects
 - Waiting
@@ -56,23 +56,28 @@ A more detailed list by Karen Martin and Mike Osterling is shared towards the en
 A handout PDF that I used for a mapping activity can be found [here](/assets/pdf/Value_Stream_Mapping_Handout.pdf).
 
 ### Summarising the metrics
+
 Once the metrics of each activity are listed, they can be summarized into a table consisting of:
+
 - Total process time (PT)
 - Total lead time (LT)
 - Activity ratio (PT/LT)
 - Rolled %C&A (%C&A of each step multiplied together)
 
 ### Notation
+
 This is an adapted notation that I used on an online white-boarding tool.
 
 <center><img src="/assets/images/value-stream-mapping-symbols.png" width="600" alt="Value-stream mapping notation"></center>
 
 ### Sample map
+
 A sample diagram I drew with a client with details blurred out.
 
 <center><img src="/assets/images/value-stream-mapping-sample.png" width="600" alt="Value-stream mapping sample diagram"></center>
 
 ### Barriers to flow
+
 Karen Martin and Mike Osterling describe a set of common problems 
 that current state mapping may reveal. They are listed below for reference.
 
