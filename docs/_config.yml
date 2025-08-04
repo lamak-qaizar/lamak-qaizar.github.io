@@ -43,7 +43,7 @@ header_pages:
   - about.markdown
 
 # Build settings
-remote_theme: jekyll/minima@cdf8aa4a5af333af0d69fe072db4120ffe2fae31
+remote_theme: jekyll/minima@v2.5.2
 plugins:
   - jekyll-feed
 
