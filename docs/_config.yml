@@ -28,7 +28,6 @@ minima:
   date_format: "%b %-d, %Y"
   social_links:
     - { platform: github, user_url: "https://github.com/lamak-qaizar" }
-    - { platform: twitter, user_url: "https://twitter.com/lamakQ" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/lamakqaizar" }
 
 description: >- # this means to ignore newlines until "baseurl:"
