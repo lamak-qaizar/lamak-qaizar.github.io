@@ -1,1 +1,1 @@
-[lamak-qaizar.github.io](https://lamak-qaizar.github.io/) is live.
+[lamak-qaizar.github.io](https://lamak-qaizar.github.io/)
