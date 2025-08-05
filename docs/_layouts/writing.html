@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="writing-page">
+
+  <h1>Writing</h1>
+  <p>
+    {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+    {% for tag in tags %}
+    {%- include tag.html tag=tag -%}
+    {% endfor %}
+    <br/>
+  </p>
+  {% assign posts = site.posts %}
+  {%- include list-post-previews.html show_excerpts=site.show_excerpts posts=posts -%}
+</div>

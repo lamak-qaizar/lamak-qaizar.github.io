@@ -19,16 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lamak Qaizar
-
-author:
-  name: Lamak Qaizar
-  email: "lamak.qaizar at gmail.com"
+email: "lamak.qaizar@gmail.com"
 
 minima:
   date_format: "%b %-d, %Y"
   social_links:
     - { platform: github, user_url: "https://github.com/lamak-qaizar" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/lamakqaizar" }
+
+github_username: lamak-qaizar
+linkedin_username: lamakqaizar
 
 description: >- # this means to ignore newlines until "baseurl:"
   A journal of learnings and excerpts I often find myself going back to.
@@ -39,6 +39,7 @@ google_analytics: G-19NBMDWEEH
 show_excerpts: true
 
 header_pages:
+  - writing.markdown
   - about.markdown
 
 # Build settings
