@@ -9,3 +9,18 @@ applause-button {
     margin: $spacing-unit * 2 auto;
     text-align: center;
 }
+
+.site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: #FAFAFA;
+    opacity: 0.95;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    padding-top: 60px;
+}
