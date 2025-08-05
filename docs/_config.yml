@@ -19,13 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lamak Qaizar
-email: "lamak.qaizar@gmail.com"
+email: "lamak.qaizar at gmail.com"
 
 minima:
   date_format: "%b %-d, %Y"
-  social_links:
-    - { platform: github, user_url: "https://github.com/lamak-qaizar" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/lamakqaizar" }
 
 github_username: lamak-qaizar
 linkedin_username: lamakqaizar
