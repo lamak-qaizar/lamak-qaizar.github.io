@@ -15,3 +15,5 @@ I wondered if there was a better way.
 Fortune smiled upon me once more as I crossed paths with [Dragan](https://dragan-stepanovic.github.io/). I was introduced to a whole new paradigm of thinking using Lean, Systems Thinking, Theory of Constraints, and of course, Extreme Programming (XP).
 
 I have since been trying to apply these new ideas (new for me at least, the ideas themselves lend upon many brilliant thinkers of the past like Deming) to make work not only better but to make it joyful for myself and those around me.
+
+<br/><img src="/assets/images/about/profile_picture.jpeg" width="200" alt="Profile picture">
