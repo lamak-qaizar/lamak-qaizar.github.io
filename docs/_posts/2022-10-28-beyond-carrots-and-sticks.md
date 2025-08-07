@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beyond carrots and sticks"
-tags: performance-management
+tags: management
 ---
 
 > As he grew older, Douglas became more and more disturbed by the negative attributions his father ascribed to the unemployed and homeless (that they’re shiftless and lazy, etc., much the same as what some say today). The younger McGregor would argue with his father that the poor were no different from others, they were simply down on their luck and the victims of a dismal economy.

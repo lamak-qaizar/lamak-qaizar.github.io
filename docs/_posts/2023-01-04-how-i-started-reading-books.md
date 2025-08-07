@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I started reading books"
-tags: reading
+tags: books
 ---
 My reading journey started quite late in life.
 I was that kid in the 1990s and 2000s who had never read Harry Potter.

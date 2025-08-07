@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test pyramid and ice-cream cone"
-tags: quality
+tags: software-design testing
 ---
 The test ice-cream cone is a strategic anti-pattern.
 It indicates excessive reliance on expensive and flaky forms of testing,

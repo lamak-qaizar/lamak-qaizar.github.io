@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why are some better at math than others?"
-tags: outliers
+tags: management
 ---
 If we want to know who is good at math, 
 we may not need to ask any math questions at all. 

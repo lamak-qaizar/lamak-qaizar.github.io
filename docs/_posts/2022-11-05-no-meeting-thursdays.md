@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No meeting Thursdays? No, thank you."
-tags: meetings
+tags: management
 ---
 Some organizations are so addicted to meetings that work has to take the backseat.
 A quick and easy solution is to bar meetings during certain hours of the day,

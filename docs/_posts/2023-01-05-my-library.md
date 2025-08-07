@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My library"
-tags: reading
+tags: books
 ---
 This is a list of books I have read in the first decade of my professional career.
 [I started quite late](https://lamak-qaizar.github.io/2023/01/04/how-i-started-reading-books.html)

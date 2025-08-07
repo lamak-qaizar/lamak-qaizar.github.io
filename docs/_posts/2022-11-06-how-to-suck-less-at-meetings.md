@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to suck less at meetings"
-tags: meetings
+tags: management
 ---
 > \[Some organisations\] hold meetings that have little purpose and no clearly defined end-state. At the other extreme, some organisations are so fearful of the waste of meetings that they refuse to use the “M” word at all. This, too, has its downside. The middle is the only safe ground. -- Peopleware
 

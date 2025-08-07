@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automobile assembly line kata"
-tags: lean kata
+tags: lean
 ---
 This is the blueprint for practical workshop to learn about lean principles.
 We run a simulation of an automobile assembly line using LEGO blocks.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RefactoringRabbitHole"
-tags: refactoring
+tags: software-design
 ---
 Code can never be perfect.
 So when we're refactoring, we must call _good enough_ at some point.
