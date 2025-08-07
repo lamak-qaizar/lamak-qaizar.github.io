@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<h1>Categories</h1>
 <p>
   {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
   {% for tag in tags %}
@@ -9,5 +10,7 @@ layout: page
   {% endfor %}
   <br/>
 </p>
+
+<h1>Posts</h1>
 {% assign posts = site.posts %}
 {%- include list-post-previews.html show_excerpts=site.show_excerpts posts=posts -%}
