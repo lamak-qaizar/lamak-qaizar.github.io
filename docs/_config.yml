@@ -38,6 +38,7 @@ show_excerpts: true
 header_pages:
   - writing.markdown
   - about.markdown
+  - contact.markdown
 
 # Build settings
 remote_theme: jekyll/minima@v2.5.2
