@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-Unlock agility and technical excellence and get the best out of software teams.
+Unlock agility and technical excellence to get the best value out of software teams.
 
 I can help teams and organisations:
 
