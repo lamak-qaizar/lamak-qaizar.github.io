@@ -6,6 +6,8 @@ permalink: /about/
 
 Hi there.
 
+I am a programmer and coach with ten odd years of experience.
+
 Early in my career, I was fortunate to be programming at a company that scaled from one server to hundreds. I learnt how to find bottlenecks in architecture and was exposed to a wide array of tools and technologies.
 
 At some point I realised that throwing technologies (and sometimes people) wasn't a very effective way of solving problems. Pains were alleviated maybe, but rarely solved. All the complexity we were piling on - the layers of code, tools, frameworks and people - seemed marvellous, but was it?
