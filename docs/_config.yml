@@ -36,6 +36,7 @@ google_analytics: G-19NBMDWEEH
 show_excerpts: true
 
 header_pages:
+  - services.markdown
   - writing.markdown
   - about.markdown
   - contact.markdown
