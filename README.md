@@ -1,1 +1,1 @@
-[lamak-qaizar.github.io](https://lamak-qaizar.github.io/)
+[lamak.io](https://www.lamak.io/)
