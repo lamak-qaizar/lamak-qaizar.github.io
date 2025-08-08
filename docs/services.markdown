@@ -6,7 +6,7 @@ permalink: /services/
 
 Unlock agility and technical excellence to get the best value out of software teams.
 
-I can help teams and organisations:
+I can partner with teams and organisations to:
 
 - **Deliver faster** by identifying constraints, untangling teams and cross-team dependencies
 - **Reduce costs** by minimising defects, rework, and improving critical components
