@@ -13,7 +13,7 @@ I can partner with teams and organisations to:
 - **Create business value** by enabling experimentation and aligning teams to customers
 - **Find joy** in their work by improving productivity and culture, and accelerating learning
 
-I usually work with small to mid-sized organisations or teams within larger organisations. I work **hands-on** with leaders and engineers to solve problems while simultaneously providing training - so that improvement carries on and lasts.
+I usually work with small to mid-sized organisations or teams within larger organisations. I work **hands-on** with leaders and engineers to solve problems while simultaneously providing training - so that improvement carries on and endures.
 
 While I work with you, you have my full focus. I work exclusively with one client at a time.
 
