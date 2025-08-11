@@ -27,4 +27,15 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 
 # Trainings
 
-<b>[Get in touch &#187;](/contact)</b>
+I have done trainings on XP and Lean topics in the past e.g.
+
+- Flow, wastes in development, work-in-progress (WIP)
+- Test-Driven Development (TDD)
+- Effective pair and mob programming
+- Principles such as Tell Don't Ask (TDA), Object Calisthenics, Clean Code
+- Refactoring
+- Working with legacy code
+
+Trainings are interactive and practical e.g. with the use of activities and coding katas. Learners practice and teach each other 90% of the time. Each training usually lasts two to three hours.
+
+If you would like me to conduct a training for your team or organisation, <b>[get in touch &#187;](/contact)</b>
