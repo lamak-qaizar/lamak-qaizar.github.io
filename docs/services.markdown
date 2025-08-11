@@ -42,3 +42,11 @@ I have also done a number of public workshops as host/co-host of Software Crafte
 Trainings are interactive and practical e.g. with the use of activities and coding katas. Learners practice and teach each other 90% of the time. Each training usually lasts two to three hours.
 
 If you would like me to conduct a training for your team or organisation, <b>[get in touch &#187;](/contact)</b>
+
+<br/>
+
+<center><img src="/assets/images/services/tdd_workshop.jpg" width="600" alt="TDD workshop"></center><br/>
+
+<center><img src="/assets/images/services/flow_workshop.jpg" width="600" alt="Flow workshop"></center><br/>
+
+<center><img src="/assets/images/services/slicing_workshop.jpg" width="600" alt="Slicing workshop"></center>
