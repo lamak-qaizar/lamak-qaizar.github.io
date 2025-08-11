@@ -27,14 +27,17 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 
 # Trainings
 
-I have done trainings on XP and Lean topics in the past e.g.
+I have done corporate trainings on Lean/Agile and Extreme Programming (XP) topics in the past e.g.
 
-- Flow, wastes in development, work-in-progress (WIP)
-- Test-Driven Development (TDD)
+- Flow, wastes, work-in-progress (WIP)
+- Test-driven development (TDD)
 - Effective pair and mob programming
 - Principles such as Tell Don't Ask (TDA), Object Calisthenics, Clean Code
 - Refactoring
 - Working with legacy code
+- Story slicing
+
+I have also done a number of public workshops as host/co-host of Software Crafters meet-ups. Content and recordings can be found [here](https://software-crafters-karachi.github.io/past-meetups).
 
 Trainings are interactive and practical e.g. with the use of activities and coding katas. Learners practice and teach each other 90% of the time. Each training usually lasts two to three hours.
 
