@@ -50,7 +50,6 @@ body {
 .featured-post-list {
     @extend .post-list;
     display: flex;
-    flex-wrap: wrap;
 }
 
 .featured-post {
@@ -59,7 +58,7 @@ body {
     display: flex;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .featured-post-list {
         display: block;
     }
