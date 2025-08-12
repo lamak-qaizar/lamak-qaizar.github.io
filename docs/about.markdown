@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="/assets/images/about/profile_picture.jpeg" width="200" alt="Profile picture" style="float:right; padding-left: 30px;">
+
 Hi there.
 
 I am a programmer and coach with ten odd years of experience.
@@ -17,5 +19,3 @@ I wondered if there was a better way.
 Fortune once more smiled upon me as I was introduced to a whole new paradigm of thinking in the form of Lean, Systems Thinking, Theory of Constraints, and of course, Extreme Programming (XP). Thanks in no small part to a colleague I crossed paths with, [Dragan](https://dragan-stepanovic.github.io/), from whom I also learnt the value of a good coach (great in the case of Dragan).
 
 I have since been trying to learn and apply these new ideas (new for me at least; the ideas themselves are lent from many brilliant thinkers of the past, like Taiichi and Deming) to make work not only better but also joyful for myself and those around me.
-
-<br/><img src="/assets/images/about/profile_picture.jpeg" width="200" alt="Profile picture">
