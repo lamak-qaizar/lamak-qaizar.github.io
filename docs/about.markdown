@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/assets/images/about/profile_picture.jpeg" width="200" alt="Profile picture" style="float:right; padding-left: 30px;">
 
-Hi there.
+### Hi there :wave:
 
 I am a programmer and coach with ten odd years of experience.
 
