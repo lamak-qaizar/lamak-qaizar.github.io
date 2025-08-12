@@ -45,6 +45,7 @@ header_pages:
 remote_theme: jekyll/minima@v2.5.2
 plugins:
   - jekyll-feed
+  - jemoji
 
 defaults:
   - scope:
