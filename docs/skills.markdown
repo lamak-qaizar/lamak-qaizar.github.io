@@ -26,10 +26,15 @@ Not as extensive, but I am familiar with the following:
 # Practices
 
 - **Extreme Programming** (refactoring, TDD, simple design, evolutionary architecture etc.)
-- **Collabrative programming** (pair and mob/ensemble programming)
+- **Collabrative programming** i.e. pair and mob/ensemble programming
 - **Architecture and design** e.g. Clean Architecture, Code Smells, Object Calisthenics
 - **Lean thinking** and Lean tools e.g. value-stream mapping
 
 # Leadership experience
 
 I have hired and led teams of 3 to 15 engineers (backend, web, site-reliability, data, and recently, AI) and collaborated closely with product and business counterparts, product designers and recruiters. I have also led small-mid sized engineering organisations with 2 to 4 sub-teams.
+
+---
+<br/>
+
+Check out the [Services](/services) page if you would like to work with me.
