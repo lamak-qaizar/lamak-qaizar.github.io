@@ -9,7 +9,7 @@ Unlock agility and technical excellence to get the best value out of software te
 I can partner with teams and organisations to:
 
 - **Deliver faster** by identifying constraints, untangling teams and cross-team dependencies
-- **Reduce costs** by minimising defects, rework, and improving critical components
+- **Reduce costs** by minimising defects and rework, and improving [legacy code](/legacy-code)
 - **Create business value** by enabling experimentation and aligning teams to customers
 - **Find joy** in their work by improving productivity and culture, and accelerating learning
 
