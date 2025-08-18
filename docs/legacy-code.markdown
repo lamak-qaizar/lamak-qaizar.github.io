@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Have you got a legacy code problem?
+title: Got a legacy code problem?
 permalink: /legacy-code/
 ---
 
@@ -16,6 +16,6 @@ There is a silver lining though. As they (sort of) say: one man’s legacy code 
 
 By making it possible to deploy changes in small batches, building a safety net of automated tests and enabling devs to refactor in safe, tiny steps, core systems can once again keep up with the business as it evolves.
 
-Got a problem to discuss? [Get in touch &#187;](/contact)
+Have you got a problem to discuss? [Get in touch &#187;](/contact)
 
 <br/><center><img src="/assets/images/legacy-code/legacy-code-programmer-humor.jpg" width="600" alt="Legacy code humor"></center>
