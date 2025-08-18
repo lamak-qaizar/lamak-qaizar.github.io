@@ -16,6 +16,6 @@ There is a silver lining though. As they (sort of) say: one man’s legacy code 
 
 By making it possible to deploy changes in small batches, building a safety net of automated tests and enabling devs to refactor in safe, tiny steps, core systems can once again keep up with the business as it evolves.
 
-[Reach out if there is a legacy code problem you would like to discuss &#187;](/contact)
+Got a problem to discuss? [Get in touch &#187;](/contact)
 
 <br/><center><img src="/assets/images/legacy-code/legacy-code-programmer-humor.jpg" width="600" alt="Legacy code humor"></center>
