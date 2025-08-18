@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Email me on [hi[at]lamak.io](mailto:hi[at]lamak.io) (replace [at] with @)
+Email me at [hi@lamak.io](mailto:hi@lamak.io).
 
 Or use the form below, which sends an email to the same address. It might take a few seconds to load.
 
