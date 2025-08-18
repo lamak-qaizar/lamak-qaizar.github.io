@@ -37,4 +37,4 @@ I have hired and led teams of 3 to 15 engineers (backend, web, site-reliability,
 ---
 <br/>
 
-Check out the [Services](/services) page if you would like to work with me.
+Would you like to work with me? [Services &#187;](/services)
