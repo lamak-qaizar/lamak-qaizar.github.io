@@ -45,12 +45,12 @@ If you would like me to conduct a training for your team or organisation, <b>[ge
 
 <br/>
 
+<center><img src="/assets/images/services/pair_programming.jpg" width="600" alt="Pair programming workshop"></center><br/>
+
 <center><img src="/assets/images/services/tdd_workshop.jpg" width="600" alt="TDD workshop"></center><br/>
 
 <center><img src="/assets/images/services/slicing_workshop.jpg" width="600" alt="Slicing workshop"></center><br/>
 
 <center><img src="/assets/images/services/flow_workshop2.jpg" width="600" alt="Flow workshop"></center><br/>
 
-<center><img src="/assets/images/services/event_storming.jpg" width="600" alt="Slicing workshop"></center><br/>
-
-<center><img src="/assets/images/services/pair_programming.jpg" width="600" alt="Slicing workshop"></center>
+<center><img src="/assets/images/services/event_storming.jpg" width="600" alt="Event storming workshop"></center>
