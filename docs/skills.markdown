@@ -27,6 +27,7 @@ Not as extensive, but I am familiar with the following:
 
 - **Extreme Programming** (refactoring, TDD, simple design, evolutionary architecture etc.). I have setup XP teams from scratch and transformed existing teams.
 - **Collabrative programming** i.e. pair and mob/ensemble programming.
+- **Continuous integration & delivery** - I have mapped out delivery processes where it took weeks to roll out a single release and improved (iteratively) till teams were releasing multiple times a day
 - **Design & architecture** e.g. Clean Architecture, Code Smells, Object Calisthenics.
 - **Lean thinking**, Lean tools e.g. value-stream mapping, Lean Software Development.
 - **Team structure** (Team Topologies)
