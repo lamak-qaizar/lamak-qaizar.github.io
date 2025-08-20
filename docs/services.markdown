@@ -4,9 +4,9 @@ title: Services
 permalink: /services/
 ---
 
-<img src="/assets/images/services/pair_programming.jpg" width="300" alt="Pair programming" style="float:right; padding-left: 30px;">
-
 Unlock agility and technical excellence to get the best value out of software teams.
+
+<img src="/assets/images/services/pair_programming.jpg" width="300" alt="Pair programming" class="floated-image">
 
 I can partner with teams and organisations to:
 
@@ -21,7 +21,7 @@ I can work both on-site and remote. I am based in Karachi.
 
 I usually work with small to mid-sized organisations or teams within larger organisations. I work with leaders and engineers to solve problems while simultaneously providing training - so that improvement carries on and endures.
 
-<img src="/assets/images/services/event_storming.jpg" width="300" alt="Event storming" style="float:right; padding-left: 30px;">
+<img src="/assets/images/services/event_storming.jpg" alt="Event storming" class="floated-image">
 
 While I work with you, you have my full focus. I work exclusively with one client at a time.
 
@@ -31,9 +31,9 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 
 # Trainings
 
-<img src="/assets/images/services/slicing_workshop.jpg" width="300" alt="Story slicing" style="float:right; padding-left: 30px;">
-
 I have done corporate trainings on Lean/Agile and Extreme Programming (XP) topics in the past e.g.
+
+<img src="/assets/images/services/slicing_workshop.jpg" alt="Story slicing" class="floated-image">
 
 - Flow, wastes, work-in-progress (WIP)
 - Test-driven development (TDD)

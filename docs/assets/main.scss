@@ -71,3 +71,17 @@ body {
         display: block;
     }
 }
+
+.floated-image {
+    float: right; 
+    padding-left: 30px;
+    width: 300px;
+}
+
+@media screen and (max-width: 800px) {
+    .floated-image {
+        float: none;
+        padding-left: 0;
+        width: 600px;
+    }
+}
