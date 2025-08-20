@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Hi there :wave:
 
-I am a programmer and coach with ten odd years of experience.
+I am a programmer and coach with twelve years of experience.
 
 Early in my career, I was fortunate to be programming at a company that scaled from one server to several hundreds. Besides writing bucket loads of lot of code, I was exposed to a wide array of tools and technologies and learnt how to find bottlenecks in architecture. I also met some fantastic people there from whom I learnt my engineering chops.
 
