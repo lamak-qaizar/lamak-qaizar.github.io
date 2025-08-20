@@ -4,6 +4,8 @@ title: Services
 permalink: /services/
 ---
 
+<img src="/assets/images/services/pair_programming.jpg" width="300" alt="Pair programming" style="float:right; padding-left: 30px;">
+
 Unlock agility and technical excellence to get the best value out of software teams.
 
 I can partner with teams and organisations to:
@@ -19,6 +21,8 @@ I can work both on-site and remote. I am based in Karachi.
 
 I usually work with small to mid-sized organisations or teams within larger organisations. I work with leaders and engineers to solve problems while simultaneously providing training - so that improvement carries on and endures.
 
+<img src="/assets/images/services/event_storming.jpg" width="300" alt="Event storming" style="float:right; padding-left: 30px;">
+
 While I work with you, you have my full focus. I work exclusively with one client at a time.
 
 The usual terms are a fixed time contract e.g. 6 months which gives me enough time to get to know the team and company, to identify and solve problems iteratively, and to make a meaningful impact as a coach. The contract is extensible (if it means anything: each of my previous contracts has resulted in an extension).
@@ -26,6 +30,8 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 <b>[Get in touch &#187;](/contact)</b>
 
 # Trainings
+
+<img src="/assets/images/services/slicing_workshop.jpg" width="300" alt="Story slicing" style="float:right; padding-left: 30px;">
 
 I have done corporate trainings on Lean/Agile and Extreme Programming (XP) topics in the past e.g.
 
@@ -45,12 +51,6 @@ If you would like me to conduct a training for your team or organisation, <b>[ge
 
 <br/>
 
-<center><img src="/assets/images/services/pair_programming.jpg" width="600" alt="Pair programming workshop"></center><br/>
-
-<center><img src="/assets/images/services/tdd_workshop.jpg" width="600" alt="TDD workshop"></center><br/>
-
-<center><img src="/assets/images/services/slicing_workshop.jpg" width="600" alt="Slicing workshop"></center><br/>
-
 <center><img src="/assets/images/services/flow_workshop2.jpg" width="600" alt="Flow workshop"></center><br/>
 
-<center><img src="/assets/images/services/event_storming.jpg" width="600" alt="Event storming workshop"></center>
+<center><img src="/assets/images/services/tdd_workshop.jpg" width="600" alt="TDD workshop"></center>
