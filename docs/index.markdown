@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include banner.html %}
+{% include home-banner.html %}
 
 {% include legacy-code-banner.html %}
 
