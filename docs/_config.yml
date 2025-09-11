@@ -38,7 +38,6 @@ show_excerpts: true
 header_pages:
   - services.markdown
   - writing.markdown
-  - skills.markdown
   - about.markdown
   - contact.markdown
 
