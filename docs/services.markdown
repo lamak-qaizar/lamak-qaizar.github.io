@@ -56,12 +56,12 @@ If you would like me to conduct a training for your team or organisation, <b>[ge
 > Lamak helped us simplify performance management processes to improve the quality of feedback. He decoupled 360 feedback from appraisals, defined focused criteria for performance and promotions, and guided us in reducing our rating scale to just two points—making the system clear and effective.
 > 
 > He also established the engineering academy, personally leading the early sessions. Through those sessions and his example, he inspired the entire engineering team to raise the bar and strive for excellence. There is always something to learn from Lamak—he is truly the best at what he does.
-> 
-> -- Ammar H., Head of Engineering
+
+-- Ammar H., Head of Engineering
 
 > Working with Lamak was a genuine delight, both for the quality of work he delivered and for the energy and mentorship he brought. He brings a unique insight into product-first and systems thinking, working on delivering great value to customers while ensuring the engineering standards are kept high through a focus on pair programming and test driven development. I have grown a lot as an engineer working with him, and would very easily recommend him to any organisation looking to improve their processes, their culture and their engineering. Great software is a labour of love, and Lamak helped reignite the joy that makes that labour feel effortless and fun.
->
-> -- Ma'aaz A., Software Engineer
+
+-- Ma'aaz A., Software Engineer
 
 <br/>
 
