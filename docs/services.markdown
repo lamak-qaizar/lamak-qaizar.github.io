@@ -59,6 +59,10 @@ If you would like me to conduct a training for your team or organisation, <b>[ge
 > 
 > -- Ammar H., Head of Engineering
 
+> Working with Lamak was a genuine delight, both for the quality of work he delivered and for the energy and mentorship he brought. He brings a unique insight into product-first and systems thinking, working on delivering great value to customers while ensuring the engineering standards are kept high through a focus on pair programming and test driven development. I have grown a lot as an engineer working with him, and would very easily recommend him to any organisation looking to improve their processes, their culture and their engineering. Great software is a labour of love, and Lamak helped reignite the joy that makes that labour feel effortless and fun.
+>
+> -- Ma'aaz A., Software Engineer
+
 <br/>
 
 <center><img src="/assets/images/services/flow_workshop2.jpg" width="600" alt="Flow workshop"></center><br/>
