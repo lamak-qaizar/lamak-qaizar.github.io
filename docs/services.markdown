@@ -55,7 +55,7 @@ If you would like me to conduct a training for your team or organisation, <b>[ge
 > 
 > Lamak helped us simplify performance management processes to improve the quality of feedback. He decoupled 360 feedback from appraisals, defined focused criteria for performance and promotions, and guided us in reducing our rating scale to just two points—making the system clear and effective.
 > 
-> He also established the engineering academy at Bazaar, personally leading the early sessions. Through those sessions and his example, he inspired the entire engineering team to raise the bar and strive for excellence. There is always something to learn from Lamak—he is truly the best at what he does.
+> He also established the engineering academy, personally leading the early sessions. Through those sessions and his example, he inspired the entire engineering team to raise the bar and strive for excellence. There is always something to learn from Lamak—he is truly the best at what he does.
 > 
 > -- Ammar H., Head of Engineering
 
