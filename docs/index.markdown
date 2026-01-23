@@ -10,8 +10,8 @@ layout: default
 
 {% include featured-posts.html %}
 
-# Services
+# What people say
 
 > Great software is a labour of love, and Lamak helped reignite the joy that makes that labour feel effortless and fun.
 
-[Read on &#187;](/services)
+[Services &#187;](/services)
