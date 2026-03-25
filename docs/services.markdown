@@ -17,15 +17,21 @@ I can partner with teams and organisations to:
 
 I can work both on-site (Karachi and elsewhere) and remote.
 
-# Hands-on engagements
+# Augment your team/org
 
-I usually work with small to mid-sized organisations or teams within larger organisations. I work with leaders and engineers to solve problems while simultaneously providing training - so that improvement carries on and endures.
+I work with leaders and engineers to solve problems while simultaneously upskilling colleagues - so that improvement carries on and endures.
 
 <img src="/assets/images/services/event_storming.jpg" alt="Event storming" class="floated-image">
 
-While I work with you, you have my full focus. I work exclusively with one client at a time.
+While I work with you, you have my full focus. I work exclusively with one client at a time. I can work with small to mid-sized orgs or teams within larger organisations.
 
-The usual terms are a fixed time contract e.g. 6 months which gives me enough time to get to know the team and company, to identify and solve problems iteratively, and to make a meaningful impact as a coach. The contract is extensible (if it means anything: each of my previous contracts has resulted in an extension).
+The usual terms are a fixed time contract e.g. 6 months which gives me enough time to get to know the team and company, to identify and solve problems iteratively, and to make a meaningful impact. The contract is extensible (if it means anything: each of my previous contracts has resulted in an extension).
+
+<b>[Get in touch &#187;](/contact)</b>
+
+# Build up your team
+
+If you bootstrapping a team (e.g. new product or transitioning to in-house development), I can help. I'll be your lead dev and build a team around myself.
 
 <b>[Get in touch &#187;](/contact)</b>
 
