@@ -10,10 +10,10 @@ Unlock agility and technical excellence to get the best value out of software te
 
 I can partner with teams and organisations to:
 
-- **Deliver faster** by identifying constraints, untangling teams and cross-team dependencies
-- **Reduce costs** by minimising defects and rework, and improving [legacy code](/legacy-code)
+- **Deliver faster** by identifying constraints and untangling cross-team dependencies
+- **Reduce costs** by improving [legacy code](/legacy-code); minimising defects and rework
 - **Create business value** by enabling experimentation and aligning teams to customers
-- **Find joy** in their work by improving productivity and culture, and accelerating learning
+- **Improve productivity** by creating a joyful work env and accelerating learning
 
 I can work both on-site and remote. I am based in Karachi.
 
