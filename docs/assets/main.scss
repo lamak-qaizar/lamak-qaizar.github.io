@@ -51,6 +51,38 @@ body {
     text-decoration: none;
 }
 
+.speech-bubble {
+    position: relative;
+    background: #ffffff;
+    border: 1px solid rgb(210, 210, 210);
+    border-radius: 1rem;
+    padding: 16px 20px;
+    margin: 20px 20px;
+    font-style: italic;
+    color: #555;
+
+    &::after {
+        content: "";
+        position: absolute;
+        top: 16px;
+        left: -10px;
+        border-width: 8px 10px 8px 0;
+        border-style: solid;
+        border-color: transparent rgb(210, 210, 210) transparent transparent;
+    }
+
+    &::before {
+        content: "";
+        position: absolute;
+        top: 17px;
+        left: -8px;
+        border-width: 7px 9px 7px 0;
+        border-style: solid;
+        border-color: transparent #ffffff transparent transparent;
+        z-index: 1;
+    }
+}
+
 .spotlight-text {
     color: rgba(87, 199, 133, 0.7);
 }
