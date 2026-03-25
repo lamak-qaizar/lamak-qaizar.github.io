@@ -88,7 +88,10 @@ body {
 }
 
 .spotlight-text {
-    color: rgba(87, 199, 133, 0.7);
+    background: linear-gradient(135deg, #27a85f, #145e33);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 .featured-post-list {
