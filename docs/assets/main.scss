@@ -34,7 +34,11 @@ body {
 
 .home-banner {
     border-radius: 1rem;
-    background: linear-gradient(33deg,rgba(247, 247, 247, 1) 64%, rgba(240, 255, 245, 1) 100%);
+    background:
+        linear-gradient(to right, rgba(247, 247, 247, 1) 0%, transparent 98%),
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='80'%3E%3Cpath d='M0,20 Q50,8 100,20 Q150,32 200,20' fill='none' stroke='rgba(87,199,133,0.3)' stroke-width='1.5'/%3E%3Cpath d='M0,40 Q50,28 100,40 Q150,52 200,40' fill='none' stroke='rgba(87,199,133,0.3)' stroke-width='1.5'/%3E%3Cpath d='M0,60 Q50,48 100,60 Q150,72 200,60' fill='none' stroke='rgba(87,199,133,0.3)' stroke-width='1.5'/%3E%3Cpath d='M0,80 Q50,68 100,80 Q150,92 200,80' fill='none' stroke='rgba(87,199,133,0.3)' stroke-width='1.5'/%3E%3C/svg%3E"),
+        linear-gradient(33deg, rgba(247, 247, 247, 1) 64%, rgba(240, 255, 245, 1) 100%);
+    background-size: 100% 100%, 200px 80px, 100% 100%;
     padding: 50px;
     border: 1px solid rgb(236, 236, 236);
 }
