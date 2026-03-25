@@ -15,7 +15,7 @@ I can partner with teams and organisations to:
 - **Create business value** by enabling experimentation and aligning teams to customers
 - **Improve productivity** by creating a joyful work env and accelerating learning
 
-I can work both on-site and remote. I am based in Karachi.
+I can work both on-site (Karachi and elsewhere) and remote.
 
 # Hands-on engagements
 
