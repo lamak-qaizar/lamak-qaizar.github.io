@@ -10,7 +10,7 @@ permalink: /about/
 
 I am a player-coach (programmer-coach to be more accurate) with twelve years of experience.
 
-I started my career programming at a company that scaled from one server (when I joined) to several hundreds. Besides writing bucket loads of lot of code, I was exposed to a wide array of tools and technologies and learnt how to find bottlenecks in architecture. I also met some fantastic people there from whom I learnt my engineering chops.
+I started my career programming at Careem which went on to be the first unicorn out of the Middle East. Besides writing bucket loads of lot of code in various domains (locations, payments, matching etc.), I was exposed to a wide array of tools and technologies and learnt how to find bottlenecks in architecture. Careem was run on one server at the time I joined; it had scaled to several thousands by the time I left.  I also met some fantastic people there from whom I learnt my engineering chops.
 
 At some point I realised that throwing technologies (and sometimes people) wasn't always the most effective way of solving problems. Pains were alleviated maybe, but rarely solved. All the complexity we were piling on - the layers of code, tools, frameworks and people - seemed marvellous, but was it?
 
