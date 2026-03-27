@@ -4,11 +4,9 @@ title: Services
 permalink: /services/
 ---
 
-Unlock agility and technical excellence to get the best value out of software teams.
+Unlock agility and technical excellence to get the best value out of software teams. I can partner with teams and organisations to:
 
 <img src="/assets/images/services/pair_programming.jpg" width="300" alt="Pair programming" class="floated-image">
-
-I can partner with teams and organisations to:
 
 - **Deliver faster** by identifying constraints and untangling cross-team dependencies
 - **Reduce costs** by improving [legacy code](/legacy-code); minimising defects and rework
@@ -17,7 +15,9 @@ I can partner with teams and organisations to:
 
 I can work both on-site (Karachi and elsewhere) and remote.
 
-# Embed me into an existing team (or org)
+# How we can work together
+
+#### 1. Embed me into an existing team (or org)
 
 I work with leaders and engineers to solve problems while simultaneously upskilling colleagues - so that improvement carries on and endures.
 
@@ -29,13 +29,13 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 
 <b>[Get in touch &#187;](/contact)</b>
 
-# Let me build a new team for you
+#### 2. Starting from scratch? I can build a kick-ass team for you
 
 If you are bootstrapping a team (e.g. new product or transitioning to in-house development), I can help. I'll be your lead dev and build a team around myself.
 
 <b>[Get in touch &#187;](/contact)</b>
 
-# Upskill your staff with fun & interactive trainings
+#### 3. Discover new (& better) ways of working through fun & interactive trainings
 
 I have done corporate trainings on Lean/Agile and Extreme Programming (XP) topics in the past e.g.
 
