@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Let's work together?
 permalink: /services/
 ---
 
@@ -8,14 +8,14 @@ Unlock agility and technical excellence to get the best value out of software te
 
 <img src="/assets/images/services/pair_programming.jpg" width="300" alt="Pair programming" class="floated-image">
 
-- **Deliver faster** by identifying constraints and untangling cross-team dependencies
-- **Reduce costs** by improving [legacy code](/legacy-code); minimising defects and rework
+- **Deliver faster** by identifying bottlenecks and untangling messy system/people dependencies
+- **Reduce costs** by minimising defects, rework and improving [legacy code](/legacy-code) (I have a knack of improving critical code that no one would otherwise touch)
 - **Create business value** by enabling experimentation and aligning teams to customers
-- **Improve productivity** by creating a joyful work env and accelerating learning
+- **Improve productivity** by accelerating learning and creating a joyful work environment
 
 I can work both on-site (Karachi and elsewhere) and remote.
 
-# How we can work together
+# How we can build something great...
 
 #### 1. Embed me into an existing team (or org)
 
