@@ -17,7 +17,7 @@ I can partner with teams and organisations to:
 
 I can work both on-site (Karachi and elsewhere) and remote.
 
-# Augment an existing team or org
+# Embed me into an existing team (or org)
 
 I work with leaders and engineers to solve problems while simultaneously upskilling colleagues - so that improvement carries on and endures.
 
@@ -29,13 +29,13 @@ The usual terms are a fixed time contract e.g. 6 months which gives me enough ti
 
 <b>[Get in touch &#187;](/contact)</b>
 
-# Build a new team
+# Let me build a new team for you
 
-If you bootstrapping a team (e.g. new product or transitioning to in-house development), I can help. I'll be your lead dev and build a team around myself.
+If you are bootstrapping a team (e.g. new product or transitioning to in-house development), I can help. I'll be your lead dev and build a team around myself.
 
 <b>[Get in touch &#187;](/contact)</b>
 
-# Trainings
+# Upskill your staff with fun & interactive trainings
 
 I have done corporate trainings on Lean/Agile and Extreme Programming (XP) topics in the past e.g.
 
