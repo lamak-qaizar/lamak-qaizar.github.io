@@ -37,7 +37,7 @@ show_excerpts: true
 
 header_pages:
   - services.markdown
-  - writing.markdown
+  - ramblings.markdown
   - me.markdown
   - contact.markdown
 
