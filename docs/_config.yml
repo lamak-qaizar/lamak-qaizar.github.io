@@ -38,7 +38,7 @@ show_excerpts: true
 header_pages:
   - services.markdown
   - writing.markdown
-  - about.markdown
+  - me.markdown
   - contact.markdown
 
 # Build settings
@@ -46,6 +46,7 @@ remote_theme: jekyll/minima@v2.5.2
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 defaults:
   - scope:

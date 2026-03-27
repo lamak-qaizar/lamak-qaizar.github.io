@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Me
+permalink: /me/
+redirect_from: /about/
 ---
 
 <img src="/assets/images/about/profile_picture.jpeg" width="200" alt="Profile picture" style="float:right; padding-left: 30px;">
