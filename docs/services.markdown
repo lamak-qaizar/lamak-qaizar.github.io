@@ -55,20 +55,6 @@ Trainings are interactive and practical e.g. with the use of activities and codi
 
 If you would like me to conduct a training for your team or organisation, <b>[get in touch &#187;](/contact)</b>
 
-# What people I've worked with say
-
-> We used to work in sprints with long planning cycles and it was Lamak who introduced the concept of flow. Since then, teams have shifted to continuously delivering value to our customers and becoming truly agile. He also ran multiple workshops with operations, business teams, and even the founders to embed this mindset across the company.
-> 
-> Lamak helped us simplify performance management processes to improve the quality of feedback. He decoupled 360 feedback from appraisals, defined focused criteria for performance and promotions, and guided us in reducing our rating scale to just two points—making the system clear and effective.
-> 
-> He also established the engineering academy, personally leading the early sessions. Through those sessions and his example, he inspired the entire engineering team to raise the bar and strive for excellence. There is always something to learn from Lamak—he is truly the best at what he does.
-
--- Ammar H., Head of Engineering
-
-> Working with Lamak was a genuine delight, both for the quality of work he delivered and for the energy and mentorship he brought. He brings a unique insight into product-first and systems thinking, working on delivering great value to customers while ensuring the engineering standards are kept high through a focus on pair programming and test driven development. I have grown a lot as an engineer working with him, and would very easily recommend him to any organisation looking to improve their processes, their culture and their engineering. Great software is a labour of love, and Lamak helped reignite the joy that makes that labour feel effortless and fun.
-
--- Ma'aaz A., Software Engineer
-
 <br/>
 
 <center><img src="/assets/images/services/flow_workshop2.jpg" width="600" alt="Flow workshop"></center><br/>
